@@ -1,0 +1,59 @@
+Desert sphinx
+Bio: Desert cat found young on the caravan road. Grown, it is a heavy sand-gold hunter with black stripes, tufted ears, a pale chest, and a ringed tail, built to walk the open scrub rather than sit in a pack.
+Lore: Caravan guards call them sphinxes because a grown one will hold a trail for hours and never blink first. The young den under dry grass and show themselves when a waterskin count is wrong. Once it will travel, it lends the habit of staying still until a burrow gives itself away. It does not like being announced. Thirst and bandits both hear that.
+
+Dire wolf
+Bio: Grassland wolf found as a pup on the patrol routes. Grown, it is a long-bodied gray runner with a pale face and chest, amber eyes, and a stride meant for the open ridge between farm and wild.
+Lore: Dire wolves keep that ridge, not the inn yard. A pup far from a den usually means the adults moved after a trapped route. The play-bow it gives while small is how a pack says the next move is shared. Equipped, the grown wolf keeps that pace on open grass and startles less once the left fork is habit.
+
+Earth golem
+Bio: Undertrove stone-born found newly woken on the cave path. Grown, it stands as a broad body of cracked rock and moss, cyan light in the eyes and seams, with root-threads hanging from the arms.
+Lore: The caves grow stone the way other biomes grow timber. Most of it stays rock. A few rolls wake when spore-light gets into the cracks, and the right lamp is what calls them. Wrong light calls moth-wolves instead. Equipped, it steadies a carry and brightens when the floor is about to give. It does not speak.
+
+Frozen peak raven
+Bio: Mountain raven sold young out of the alley. White down at first, pink-red eyes, an ice-blue beak and talons. Grown, a white peak bird with a pale red eye, ice-blue beak, and matching claws, large enough to mantle a summit rock.
+Lore: These ravens nest above the last shrine, where the wind sands the stone clean. The old woman sells the chick as a slave: a nest cleared off a climbing route, a bird the porters would not feed, a price on the same slate as the rest. Buying it takes the raven off her hands. It does not make the bird a tool. Grown, they mark clear air before a whiteout. This one still remembers a hand that did not shake the branches.
+
+Grey hawk
+Bio: Grassland hawk found as a downy chick on the patrol routes. Grown, it is a broad gray hunter with barred wings, a pale chest, a hooked beak, and yellow eyes, built to hang over open fields.
+Lore: Grey hawks keep the mile-markers the Guild still uses. Farmers read a circling one as a sign the south pasture has moved, not as an omen. The young are grounded until the wings hold. Once it will fly with a party, it marks ambush grass before the patrol walks into it. It does not ride a shoulder for show. It leaves, circles, and comes back when the route is clear.
+
+Hunting dog
+Bio: Grassland hound found as a pup on the story road. Grown, it is a brown-and-white runner with a white blaze, long ears, and a studded leather harness worn for brush, not for parade.
+Lore: These dogs were bred for ditch-boar and lost calves, then stayed when the Guild started paying for patrols. A pup on the road is usually a kennel scatter after a bad contract. The harness is added when it will follow a scent without breaking fence. Equipped, it keeps a party on a trail and startles quarry that would rather sit still. It sleeps by the inn door if Nora has scraps, and it ignores anyone who calls the spikes decoration.
+
+Iron hide crustacean 
+Bio: Ocean crab found as a pebble-sized molt on the port story route. Grown, it is a cliff-walker with a shell plated in coral and barnacle, cyan eyes, and claws heavy enough to break surf.
+Lore: Dock crews call them iron hides because a net does not hold the shell. They live in the rock shelves under the tide gates and come up when a wreck has spilled iron into the water. Nia’s patrols step aside for a grown one. They are not tame. They are loyal to a hand that did not pry the young molt off the stone. Equipped, the shell takes a hit the party would have taken, and the eyes brighten in foul water before the tide turns.
+
+Moss sprite
+Bio: Forest growth found as a root-knot on the warden path. Grown, it is a hunched body of braided wood and fern, green eyes deep in the moss, hands like dropped branches.
+Lore: Elowen does not call them spirits. She calls them places that decided to walk. A sprite starts where a grove has been cut and the stump kept the green. Most stay thicket. A few follow a party that looks at the roots before the trail. Equipped, it steadies regen off the road and dulls an ambush that was hiding in leaf-litter. It will not cross a fresh clear-cut. Isolde’s scavengers treat that refusal as the useful kind of map.
+
+Rift anomaly
+Bio: Gate moth found as an energy cocoon on the Dimensional Gate road. Grown, it is a dark violet flier with cyan eyes, gold-edged wings veined in rift light, and long feelers, at home in the debris between skies.
+Lore: Sylvia’s company called them anomalies because a cocoon is not an egg and not a door. It forms where the path frays, a knot of energy holding a moth that has not chosen a world yet. Most dissolve when the bridge moves. One that holds can be carried once it has split the shell. Equipped, it shows a broken span before the party steps on it. It does not nest. It hangs where two skies fail to meet, and it follows the hand that did not cut the cocoon to see what was inside.
+
+Sand storm serpent
+Bio: Desert runner sold young out of the alley. Grown, a low horned beast of sand-colored scales, gold eyes, and black claws, built to move inside a wall of grit.
+Lore: Caravans name them serpents for the way the body vanishes into a storm. Aisha’s routes lose skins to them when a march is timed against weather instead of water. The alley slave is a hatchling taken off a buried watchtower, priced because no caravan would waste water on it. She does not bring it to the square. You go down the alley and pay what the slate says. Equipped, it lends heat stamina and a warning when the wind is about to lift the road.
+
+Sentient shroom
+Bio: Undertrove mushroom sold young out of the alley. Grown, a walking cap of cracked brown with cyan seams, a pale body, glowing eyes, and short limbs.
+Lore: Lilia’s trough grows caps that light the quarry. A few wake. The same old woman sells this one as a slave crop that would not stay a crop: porters tried to sell the cap, the cap grew feet, and she chained it to the slate anyway. Paying gets the shroom out of the alley. It is still not livestock. Once it will travel, it lifts cave yield and brightens when a hidden node is under the moss. The eyes narrow at a wrong lamp, the same way the fairy does.
+
+Snow fox
+Bio: Mountain fox found as a kit on the snowy story climb. Grown, it is a white fox with blue eyes, ice-blue marks on the face and shoulder, and a fan of thick tails, standing the peak rock as if it were a den mouth.
+Lore: Shrine attendants say a snow fox with more than one tail has walked the wind between storms. Most are ordinary white coats on the lower slope. This line keeps the ice marks and the extra tails, and it appears on the summit path when a party is about to lose the trail in flat light. The kit follows camp before it will be equipped. Grown, it lends cold stamina and picks a true ridge out of identical snow. It does not beg. It waits on the rock until the hand that found it catches up.
+
+Vine serpent
+Bio: Forest serpent found young on the warden path. Grown, it is a thick coil of bark-colored scale wrapped in living vine, one green eye, a dark tongue, heavy enough to circle a cut stump.
+Lore: Elowen treats them as part of the grove, not as game. A vine serpent keeps to trunks and deadfall, and it strikes at parties that strip a path without looking at the roots. The young are easy to miss: a whip of green on a branch, gone when you reach for it. Once it will travel, it lends ambush sense in leaf-litter and a harder bite on the first contact. It will not cross a fresh clear-cut. Isolde reads that refusal the same way she reads a moss sprite. The stump in its coil is a warning, not a seat.
+
+Void wisp
+Bio: Ether creature found as a thin flame in the buried kingdom. Grown, it is a mass of violet energy around a white core, tendrils drifting through the labyrinth like smoke that decided to stay.
+Lore: The Void is not a cave. It is the ruin of an underground kingdom, halls and looping stairs, and what still moves there is mostly haunt. Wisps are the haunt that never took a body. Murals burn colder when one passes. Zara calls them leftover orders: sentries that outlived the soldiers. A young wisp is a flicker in a rune-cut pillar. Once it will follow, it shows false doors and eats a curse that would have stuck to the party. It does not speak. The core brightens in the halls where the crusade murals still name Sylvia’s company.
+
+Water sprite
+Bio: Ocean spirit found as a handful of lit water on the port route. Grown, it is a clear blue body with cyan eyes and long trailing arms, rising out of the swell like a jelly made of the sea itself.
+Lore: Dock crews see them over wrecks and call them sprites so they do not have to call them drowned. Nia says that is half right. They gather where iron and bodies went into the tide, and a young one is only a glow under the hull. Once it will travel, it lends foul-water sight and a softer landing in a boarding swell. It does not ride the deck for long. It returns to the surface and waits, eyes level with the rail, until the hand that cupped it on the story route comes back to the edge.

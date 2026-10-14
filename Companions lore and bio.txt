@@ -1,0 +1,60 @@
+Nora
+Bio: Human waitress at the Guild inn. Short chestnut hair, bright green eyes, white blouse under a brown apron. She looks up from the counter as if she has already decided whether you can pay.
+Lore: Nora works the inn beside the Guild and hears more contracts than the clerk. The apron is for shifts. She serves plain stew, remembers who settled, and only warns paying customers about the south patrol’s right fork. She is not waiting on a hero. A regular who remembers her order is rarer than an awakener. If she ever leaves the counter, the town will have to spare her first.
+
+Elowen
+Bio: Elf path warden of the Forest. Long white-blonde hair tied with green leaves, glowing green eyes, a pale sleeve falling off one shoulder over dark leaf-patterned armor. She looks back only after the path is already judged.
+Lore: Elowen reads moss and wrong forks before faces. A cold camp deeper in the trees still holds a whetstone and no recent letters. She does not discuss it. Hunters say she warns once. A second warning is how the grove starts keeping your mistakes. Talk of fate is a bad trail sign. Walk behind her until you can read the roots, and do not name anyone she has not agreed to miss.
+
+Nia
+Bio: Beastkin swashbuckler of the Ocean roads. Dark skin, black hair tipped orange, cat ears lined orange, gold eyes, a ringed tail, and a brown top edged in pale fur. The smile is the one she uses before a dock bet.
+Lore: Nia works wrecks and boarding actions in a coat the sun has already faded. She opens with a price because harbor towns trust a bet more than a greeting. Ears and tail give away an empty boast. She has quit escorts for skimming the crew’s share, and captains still hire her because the cargo comes back. Pay the round. Do not salute the waves.
+
+Aisha
+Bio: Human caravan guard of the Desert. Warm brown skin, dark wavy hair, amber eyes, gold earrings, and a patterned gold-and-black wrap over a dark bodice. Columns and heat sit behind her like another watch post.
+Lore: Aisha counts water before enemies. She has turned companies around for one missing skin, one lie about the reserve, one night march that did not need to happen. Sharing a canteen is not a vow. It is still not nothing. She walks on the left of people she thinks might live, and she does not announce what the stores lack. Thirst hears that kind of talk.
+
+Lilia
+Bio: Fairy grove keeper of the Undertrove. Pink hair crowned with white flowers, star-filled pink eyes, translucent wings, and a pale floral bodice with a small flower pendant. She smiles as if the lamp is already wrong.
+Lore: Lilia is small enough to ride a pack strap and loud enough to scold a bad light. Wrong light in the mushroom trough calls moth-wolves. Right light keeps the caplings and the quarry paths. Fairies there remember who came back for a lost creature before the ore. She talks too fast when she cares. A light left behind can be followed. A silence cannot.
+
+Sylvia
+Bio: Elf crusade survivor held in the Dimensional Gate. Long sea-green hair, a leaf circlet, green eyes, and a dark teal bodice shaped like layered leaves. The forest behind her is only the Gate wearing a kinder sky.
+Lore: Sylvia entered the Gate with the company raised against the last demon lord. The path shut. The others did not return through the glass. She kept the crest and the armor, and spent the years since on bridges that move when memory slips. Void murals still name the company. They do not name the ending. She does not want the throne. She wants the path open, and no second march lost on the wrong side of it.
+
+Kira
+Bio: Beastkin arena slave on the old woman’s slate. Gray hair tied up, black-tipped wolf ears, amber eyes, a loose white shirt under brown overalls. The smile does not reach the collar-ticket.
+Lore: Kira fought under other banners until the losses stuck, and the alley merchant bought the years. Buyers are expected to check teeth and scars. She is faster than the overalls suggest, and angry in a straight line. Say her name instead of the price or the ears stay flat. Paying the slate cuts the ticket. It does not make her gentle. It makes the next fight hers.
+
+Zara
+Bio: Dark elf ruin slave on the same slate. Dark skin, long white hair, red eyes, a purple-and-black dress with a high slit and lace at the throat. She looks amused. That is safer than believing it.
+Lore: Zara was priced for a thing taken off a cursed rail in the buried kingdom and never put back cleanly. The old woman lists a body and a coin. Zara lists unfinished business with the Void. Surface towns assume the theft was the whole crime. She pours her own tea first. Buyers who inspect her like stock do not get a second cup.
+
+Celeste
+Bio: Angel summoned by soul shards from the harshest colosseum tiers. Long blonde hair with a thin braid, blue eyes, a gold halo, white wings, and a white-and-gold bodice. She looks at the summoner the way a verdict looks at a name.
+Lore: Celeste reads the circle as duty: someone below has been weighed and found in need of a shield. Protection is not kindness in the first hour. Daily resets of those arena floors annoy her less than boastful callers. She will not sit until asked. Binding a cut without a sermon is the closest she comes to standing down. Morning judgment can wait if the wound is closed.
+
+Yuki
+Bio: Foxkin summoned through the same shard rite. White hair warmed gold at the tips, fox ears, gold eyes, a thick white tail, and a white-and-gold kimono with a red obi. The smile says she already took half the skewer.
+Lore: Yuki arrives as if she wandered in for festival food. Tails, quick hands, and a stolen bite returned without comment. She dislikes collectors. Warmth, by her rule, is not for people who inventory her. The shards are only the door. Staying is separate. She smiles before she trusts, and the trust takes longer. One tail left in reach is a promise, not an accessory.
+
+Seraphina
+Bio: Demon summoned from the arena undercroft. Long black hair, dark curved horns, gold eyes, a black-and-gold choker, and an off-shoulder black gown traced in gold. The smile is a test.
+Lore: Seraphina treats the circle as an insult until it is not. Too many callers have wanted the boss dead and the demon gone by morning. She watches for a flinch. A flinch ends the contract in every way that matters. She will stand in tomorrow’s lineup beside someone who looked and did not step back. Anything softer than that she will deny until she cannot.
+
+Miko
+Bio: Spirit charm-seller of the airship isles. Long white hair, purple eyes, a red-and-gold hairpin with a tassel, and a white robe bound in red cords. The paper charms at her stall do not function. She sells the knot anyway.
+Lore: Miko remembers which rails the floating road has used for unfinished farewells. Her form thins between skies and solidifies if a hand stays on hers. She is not the ghost of one wreck. She is what the air route keeps when someone does not get to land. A blank charm can still be something she wanted tied to a bag.
+
+Freya
+Bio: Half-elf minor noble of the auction event. Long blonde hair, blue eyes, a visible point to the ears, a blue-and-white collar with a small gold clasp, and a dark blue coat edged in white fur over a fitted bodice. The smile stays polite until a bid turns ugly.
+Lore: Freya is a half-elf who keeps a carriage, a townhouse, and a seat at sales she would rather shut down. Surface registries still list her with the human houses. The ears keep the other ledger open, and she is tired of both. She attends auctions to stop the worst lots and is used to losing them to collectors. She is cold to a winning bid that pockets the prize, and she will listen to one made to kill the sale. Pearls and locked parlors are manners. Being offered the seat, rather than purchased, is the part she is slow to answer.
+
+Hana
+Bio: Human shrine maiden of the temple event. Black hair fading to pink, brown eyes, cherry blossoms in the tie, a pink gem at the throat, and a white-and-pink floral kimono. Petals hang behind her as if the rite just ended.
+Lore: Hana keeps the calendar, the offerings, and the after-hours hall. She does not pretend the gods are in every room, and she expects the explanation finished before anyone asks a blessing. Guild healers send cases to her steps when a potion is the wrong shape of help. Off the rite she is direct. A sleeve-brush can be deliberate. An invitation, when she means it, is plain.
+
+Isolde
+Bio: Elf of the forest scavenging event. Long silver-white hair, pale blue eyes, tall pointed ears, and a silver-gray bodice with a worked collar. She looks aside through the trees, already counting what a party might strip.
+Lore: Isolde watches Guild routes take nests, herbs, and deadfall, then call the damage a clear. She scavenges to put back what can be put back, and she is the last of these companions to open a camp. Finishing the event is the first time she believes a company might return a find instead of pricing it. Rain and a restored nest matter more than titles. The grove can wait outside. She says so only when she means the flap to close.
+

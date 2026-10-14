@@ -1,0 +1,51 @@
+Worn riding horse
+Bio: First horse the stable hand will sell for gold. A brown field horse with a tired eye, a plain bridle, and a worn saddle over a sheepskin pad. Required for the early mounted errands out of town.
+Lore: This is the horse that already knows the south patrol. It has done ditch roads, firewood pulls, and the slow walk back when a contract paid badly. The stable hand does not praise it. He says it will not throw a new rider and it will not pretend to be a war mount. The harness is mended, not decorated. It lowers its head in long grass and waits to be led, which is the whole recommendation.
+
+White stallion
+Bio: Second horse on the stable hand’s gold list, sold after the worn riding horse. A white charger with a pale mane and tail, feathered hooves, and a brown saddle. Required for the faster grassland and forest road contracts.
+Lore: The stallion was bred for a house that no longer keeps a yard. It still moves like a review is about to start. The stable hand charges more because the coat stays clean and the gait holds on open grass, not because the bloodline is royal. It will not take the armored barding. It will take a long road if the rider sits quiet. Nora’s regulars call it the inn’s show horse. The stable hand calls it the one that pays for the feed of the others.
+
+Armoured warhorse
+Bio: Third horse on the gold list, sold after the stallion. A black destrier in engraved plate and mail, gold trim on the chamfron and flanks, brown saddle over the armor. Required for the castle-road and heavy patrol contracts.
+Lore: The barding came off a gate that still stands. The horse came out of a yard that does not. The stable hand keeps the armor oiled and will not sell the plate without the animal under it. It is loud on cobbles and worse in a narrow wood. It is what a contract asks for when the road has a wall at the end and something on that wall worth riding at. It does not need a speech. It needs a rider who will not saw the reins.
+
+Griffin
+Bio: Bought from the stable hand only after he offers it on a later meeting. Eagle-headed, white-ruffed, brown-bodied, with a lion’s tail, hooked beak, and taloned forelegs, already saddled. Required for the sky-road contracts the horses cannot take.
+Lore: It belonged to a royal knight who could not make it take him as owner. He left it with the stable hand and told him to find someone it would stand for. The stable hand does not tell that story on the first visit. He waits until he has seen a rider come back more than once, then he says the griffin is in the far stall and the knight is done with it. It will not be led like the brown horse. It watches the hands. If it lowers the beak and lets the saddle stay, the sale is real. If it doesn’t, the gold stays on the counter.
+
+Kelpie
+Bio: Lake mount tamed on the Ocean story road. A heavy gray shell-back with moss and reeds on the carapace, cyan eyes, and clawed feet, large enough to take a rider off a broken deck. Required after the storm sinks the boat.
+Lore: Port talk uses kelpie for anything in the water that should not have carried a living person back. This one is the shell that hauls itself onto the night shore when a hull fails. It is not a horse and it is not tame on sight. The story route puts you in the water with it after the storm takes the boat, and it takes the party to shore because the route was already shared, not because a dock bought it. After that it will cross the stretches the iron hide only walks. It does not like a busy quay. It waits where the moon sits on the lake and the reeds drip off its back.
+
+Thorn vine stag
+Bio: Forest mount given into your care after an oath to Elowen. A stag of bark and packed leaf, branch antlers hung with vines, dark hooves, standing the warden path. Required for the deep-grove contracts a horse will not take.
+Lore: Elowen does not sell it. On the meeting where you swear to walk her road without stripping it, she says the stag was already waiting and that the oath is the bridle. She does not remember an earlier refusal. She only knows this promise was the one that held. The antlers catch on low branches if you rush. It will not cross a fresh clear-cut, same as the moss sprite and the vine serpent. Isolde treats a party on this stag as one that might return a nest. The stable hand will not stable it. It stays on the forest side of the gate.
+
+Wind spirit
+Bio: Air mount bargained for on the floating-isle event, after the airship road is open. A white fox-bodied spirit in silver barding set with green stones, gold eyes, and a mane and tail of cloud. Required to finish the isle route.
+Lore: The isles have ten nodes and a gap the ship will not cross. The spirit waits on that gap. It does not take gold. It takes a named weapon, set down, not offered point-first, and in return it carries the party through the rest of the event. Miko calls that a farewell done properly. The stable hand never sees it. It does not stand in a stall. It runs the open air above the cliffs and comes when the traded blade is still yours to give.
+
+Matriarch
+Bio: Desert mount bought with gold from a caravan people mid-biome, if the purse is deep enough to continue. A gray elephant with long tusks, wrapped legs, and a torn canopy and rug over the back. Required to pass their stretch of the road.
+Lore: Aisha’s count stops mattering when the next water is behind this company and they will not break camp for a rider on foot. They do not call her a slave. They call her the matriarch and name a price that clears the route. The canopy is shredded from sand, not from neglect. She has walked this dune line longer than the people selling the passage. Pay, and she takes the party through. Short the gold, and the biome stops at their wagons. She does not kneel for show. She waits until the coin is in the right hand, then moves.
+
+Ancient beast
+Bio: Mountain mount found injured at the foot of the Snowy Mountains on the story climb. A heavy brown raptor with a hooked beak, a yellow eye, and taloned legs, built to run broken streets rather than fly. Required for the ascent after its wounds are tended.
+Lore: It is already old when you find it under the first switchback, wingless in the way of beasts that gave flight up for stone. The ruins it crosses on the page are the same kind of bone the mountain keeps under the snow. Tend the wounds and it takes the climb with the party. Leave them and the path stays a walk. It does not bow. It matches pace, beak open, and will not be stabled with the horses. Shrine attendants call it a leftover of the last war. It does not answer to the name.
+
+Dwarven mechanism
+Bio: Treaded engine taken in trade from a dwarf at the mountain’s base. Iron plow, patterned plate, a smoke stack, and a single brown seat. Required for mineshaft Guild contracts, and for the snow road those contracts open.
+Lore: The dwarf does not sell it for gold. He names armor, piece for piece, and the engine is yours when the pile matches the list. It was built for shafts that flood and for ice that hides the rail. The stable hand will not put it in a stall. It sits by the forge mouth at the base and steams when the seat is taken. On the mountain it breaks a drift the horses refuse. In a mineshaft contract it is the only mount the Guild will stamp. It is loud. The dwarf calls that the point.
+
+Lesser drake
+Bio: Cliff drake bought off the old woman’s slave slate in the town alley. Gray-green scales, a gold eye, a leather saddle, and claws meant for a rock face. Required for certain Guild quests that will not stamp a horse.
+Lore: She does not bring it to the square. You go down the alley, and she names the coin the way she names the rest of her slaves. The drake was taken off a canyon wall and priced because no caravan could feed it. Paying the slate takes it off her chain. It does not make her kind. Guild quests that ask for it want a rider who can hold a sheer face, not a parade. It climbs. It does not kneel in the yard. The saddle stays if you do not saw it.
+
+Primordial beast
+Bio: End-game mount, found after the main climb, in the hidden dungeon under the World Throne. A horned bulk of black hide and cracked stone plate, one amber eye, standing in the ruined hall it woke in. It follows one master after the dungeon is finished. Required, equipped, to face the resurrected demon lord.
+Lore: The throne ruins sit on an older floor. Completing that dungeon wakes what the kingdom buried rather than killed. It does not take a sale and it does not take an oath spoken in town. It comes up behind you when the last door is done and treats the exit as yours to lead. Columns mean nothing to it. The stable hand never sees it. It will not carry a second rider, and it will not answer the alley slate if someone is fool enough to write one. When the true-ending prompt is accepted and the lord rises in the chair, the road will not open unless this beast is the one under you. The throne is empty above it until that hour. The beast does not care. It already chose the hand that opened the dark.
+
+
+
+
