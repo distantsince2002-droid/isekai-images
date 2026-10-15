@@ -1,0 +1,980 @@
+﻿Every picture change now has an Action under it. That line is what the player sees happening. The Hero can talk to himself there, or to whoever is in the picture. Speech stays in quotation marks. Unlock means that one joins. No unlock means nobody joins.
+Nora talks like an inn that is already full. Elowen counts trees. Nia talks like the deck already won. Aisha talks like a well that will share if you ask. The Voice explains the job in plain words. 
+The name HERO will be replaced by the user’s desired name in the profile tab. 
+Chapter 1 — Grasslands, Pass 1
+Mission 1, Node 1 — Mile-marker
+Scene: Grassland (base scenery). Action: Dawn on the broken stone. No weapon. A hare watches, then bolts. He sits up with both hands empty.
+VOICE: "Hero awakens. That is the name on the record until you pick a better one. East is a Guild hall. A job is a paid errand with a stamp at the end."
+HERO: "I had a name. It slid off."
+VOICE: "Promnesia keeps the road. It does not keep your old breakfast. Get up. Sitting here makes you furniture."
+No unlock.
+Mission 1, Node 2 — Slime pack
+Scene: Grassland (sunset). Action: The track drops into orange light. The stone is behind him. Something wet is already crossing the path.
+HERO: "Right. Paid errand. Don't stand in the wet thing."
+Scene: Grasslands pack of slimes encounter. Action: The pack closes on his boots. He keeps moving and breaks them apart.
+TIRED ADVENTURER (male): "Jelly with opinions. Don't plant your feet. They unionise around boots."
+HERO: "I'll keep moving."
+TIRED ADVENTURER (male): "Movement. The advanced technique."
+No unlock.
+Mission 1, Node 3 — Guild
+Scene: Town plaza (base scene). Action: Dusk square. Lanterns are already lit. People pass the well-house without looking at him.
+HERO: "Hall should be the building that looks like it charges for paper."
+Scene: Adventure Guild Interior. Action: He steps in. Board on the left, map in the middle, one clean glass on the long table. Nobody has claimed it.
+GUILD RECEPTIONIST (female): "Name, boots, and whether you can bring both back. The map is decorative. The pins are not."
+HERO: "(The user's selected name). I woke at the stone. A voice said to become someone."
+GUILD RECEPTIONIST (female): "Keep the voice off my form. South board. Left fork. Do not announce the waitress to herself. She has a bell for that."
+VOICE: "A board job is a patrol. Finish it, bring the stamp back, get paid. The glass is not yours. The inn's list is orders. Soup, names, who has not paid."
+No unlock.
+Mission 1, Node 4 — Nora
+Scene: Store and market (base scene). Action: Stalls are still open. He has her order list in one hand and does not put it on a counter.
+STORE CLERK (male): "Paper with names on it. I buy names. Bad habit. Good margin."
+HERO: "Not for sale. It's a lunch list."
+STORE CLERK (male): "Lunch lists pay worse. Door's that way."
+Scene: Town street (night). Action: The street is empty except for lanterns. The inn door is the warm one. He knocks the mud off and goes in.
+HERO: "Don't lead with her name. She already has one."
+Scene: Grassland (base scenery). Action: Cut inside. Towel on her shoulder. She has not looked up.
+NORA (neutral): "Stew is brown on purpose. If you wanted a legend, the Guild charges for the view."
+HERO: "South patrol. If something of yours is still on the track, I can bring it back."
+NORA (neutral): "My order list. Ditch side. Who wants pie, who is lying about pie. Bring the paper. Don't sell the names."
+Scene: Grasslands (rain). Action: The left fork is mud. The list is in the ditch, ink running, still readable. He lifts it clear and does not open the names.
+HERO: "Paper. Not a relic. Back before the pie lies get cold."
+Scene: Town street (night). Action: He comes in wet and sets the list on her bar, uncut.
+NORA (smiling): "You brought it, and you didn't auction Mr Pell's extra onion. Corner's yours until the rush. Sit before someone noble does."
+Unlock: Nora joins. No pet on this node.
+Mission 1, Node 5 — Boar
+Scene: Grassland (sunset). Action: The mill fence is down. Someone is waving from the yard, not helpfully.
+HERO: "Hog first. Dignity later."
+Scene: Grasslands boar encounter. Action: He turns the boar before it takes the cabbage.
+TOWNS PERSON (male): "If that hog enters my yard I am billing the Guild for my dignity."
+HERO: "I'll turn it. Keep them inside."
+TOWNS PERSON (female): "Inside is the plan. Heroics in the cabbage are not."
+No unlock.
+Mission 1, Node 6 — Grey hawk
+Scene: Grassland (base scenery). Action: Ridge wind. A grey egg in the grass, still warm. Nora is not in this picture. He crouches and does not tap the shell.
+HERO: "Egg. I'll carry it. I'm not opening it to check."
+HUNTER (male): "Nest blew. Fox gets it if you philosophise. Pocket. Quiet. Birds hate speeches."
+VOICE: "Birds, crabs, serpents, and lizards start as eggs. They cannot be equipped until they hatch and grow."
+Unlock: Grey hawk joins as an egg. No companion on this node.
+Mission 1, Node 7 — Goblin fence
+Scene: Grassland (base scenery). Action: The village rail is shaking. Grain sacks are already on the wrong side.
+HERO: "People in the cellar. Grain can be replaced."
+Scene: Grasslands pack of goblins encounter. Action: He clears the fence before they reach the door.
+VILLAGER (female): "Children are in the cellar. Be loud somewhere else."
+HERO: "Behind me. Spears first."
+VILLAGER (male): "Don't recruit them. We tried. They ate the recruiting."
+No unlock.
+Mission 1, Node 8 — Hunting dog
+Scene: Grasslands (rain). Action: A broken rope by the ditch. A pup, soaked, not running. Nora is not in this picture. He sets scraps down and keeps his hands on his knees.
+HERO: "Scraps. I'm not pricing it."
+HUNTER (male): "Handler didn't come back. Scraps. No purse. Purses make them mean."
+VOICE: "Furred beasts start small. They grow before they can be equipped."
+Unlock: Hunting dog joins as a newborn. No companion on this node.
+Mission 1, Node 9 — Dire wolf
+Scene: Grassland (sunset). Action: The track narrows. One wolf is already on it, and the grass behind it is moving.
+HERO: "One is never one."
+Scene: Grasslands wolf encounter. Action: The lead wolf breaks off. The rest do not.
+Scene: Grasslands wolf pack encounter. Action: He clears the pack. Nora is not in this picture. One pup stays when the rest go.
+HUNTER (male): "Pack first. If a pup is still sitting there, it already chose badly."
+HERO: "Den left. You can come. I'm not dragging you."
+Unlock: Dire wolf joins as a newborn. No companion on this node.
+Mission 1, Node 10 — Bandit camp
+Scene: Grassland (sunset). Action: Three riders cut across the south track, between him and the stamp.
+HERO: "Riders first. Camp after. Don't lose the paper."
+Scene: Grasslands bandits encounter. Action: He breaks the riders and keeps walking.
+Scene: Grassland (night). Action: Firelight ahead. The inn lamps are still a long way off.
+HERO: "That's the job. Then we go home."
+Scene: Grasslands bandit camp encounter. Action: Four come over the fire. He clears the camp.
+BANDIT (male): "Camp's ours, including the sausages."
+BANDIT (female): "Boots too, if they're still paired."
+NORA (determined): "Finish it. I am not explaining a lost stamp to a woman with a bell."
+Action: The inn lamps flare white. The camp, the fire, and the night drop out.
+NORA (surprised): "The lamps don't do that. I would have charged extra." (Prom
+VOICE: "Too fast. The record resets. They will not remember. You will. Hero awakens."
+Scene: Grassland (base scenery). Action: Same dawn. Same stone. His hands are empty. Nora is gone. The egg, the dog, and the wolf are gone.
+HERO: "They didn't keep any of it."
+No unlock. This node removes the Pass 1 party.
+Pass 2 picks up on the same stone. The town thinks it is the first morning. Every picture change has an Action under it. Speech is in quotation marks. Unlock means that one joins. No unlock means nobody joins.
+Chapter 1 — Pass 2
+Mission 1, Node 1 — Mile-marker
+Scene: Grassland (base scenery). Action: Same dawn. Same broken stone. His hands are empty again. The hare is back, as if he never sat up.
+VOICE: "Again. They did not keep the stew, the egg, or the waitress. You did. East. A colosseum yard is open if you want coin for bruises. That coin buys gifts later. Not soup."
+HERO: "They don't hear you."
+VOICE: "They were never in the record."
+No unlock.
+Mission 1, Node 2 — Slime pack
+Scene: Grassland (sunset). Action: The track drops into the same orange light. He does not wait for the wet shine this time.
+HERO: "Left of the ruts. They come from the ditch."
+Scene: Grasslands pack of slimes encounter. Action: He is already moving when the pack closes. They break apart on the second pass.
+TIRED ADVENTURER (male): "First day? You have the face. The face always arrives before the sense."
+HERO: "First day here. I'll keep moving."
+TIRED ADVENTURER (male): "Radical. I won't be writing it down."
+No unlock.
+Mission 1, Node 3 — Guild and stable
+Scene: Town plaza (base scene). Action: Dusk square again. The well-house, the lanterns, nobody looking twice. He takes the hall steps without asking which building.
+HERO: "Paper first. Horses after. Don't mention the bell."
+Scene: Adventure Guild Interior. Action: Same board, same map, same untouched glass. He signs before she has to point.
+GUILD RECEPTIONIST (female): "Name. Can you finish a patrol, or are you collecting stories?"
+HERO: "(The user's selected name). Where do I sign?"
+GUILD RECEPTIONIST (female): "South board. Colosseum yard is legal now, somehow. Bruise coin is not soup coin. Don't mix my tills."
+Scene: Grassland (base scenery). Action: Stable yard. Three horses in a row, and a beak in the far stall that has not accepted anyone.
+STABLE HAND (male): "Brown horse, cheap and honest. Stallion, if you want to be looked at. Armour, if you want to be heard from the next hill. Far stall is a griffin. A knight couldn't make it take him. Gold still applies. If it bites the coin, the coin stays."
+HERO: "I'll look. I won't yank a beak."
+No unlock. Mounts are bought, not found here.
+Mission 1, Node 4 — Nora
+Scene: Store and market (base scene). Action: He walks the stalls and does not stop at the man who buys paper.
+HERO: "Not this time. The list goes to the person who wrote it."
+Scene: Town street (night). Action: Inn door, warm light. She is wiping the same stretch of bar. She does not know him.
+NORA (neutral): "Stew is plain. It keeps heroes from writing poems about lunch."
+HERO: "Long morning. Which path should I not brag about surviving?"
+NORA (smiling): "Left fork. Right one takes boots and then asks for the other boot. I tell customers. I don't tell prophets. Prophets don't tip."
+Scene: Grasslands (rain). Action: He is in the ditch before she has finished describing it. The list comes up uncut.
+HERO: "Pie lies. Onion. Back before she has to ask twice."
+Scene: Town street (night). Action: He sets the list on the bar, wet at the corner, names intact.
+NORA (soft): "You took the warning, and you didn't make a speech over my onions. Corner's warm."
+HERO: "Speeches were the wrong order."
+NORA (blushing): "That is not a confession. That is a chair. Sit in it."
+Unlock: Nora joins again. No pet on this node.
+Mission 1, Node 5 — Boar
+Scene: Grassland (sunset). Action: The mill fence is down in the same place. He is already between the yard and the hog.
+HERO: "Cabbages stay cabbages."
+Scene: Grasslands boar encounter. Action: He turns it before the gate.
+TOWNS PERSON (male): "Fence is down, hog is ambitious, I am not."
+HERO: "I'll turn it. Shut the mill."
+TOWNS PERSON (female): "Bless you. Don't bless the cabbages. They've suffered."
+No unlock.
+Mission 1, Node 6 — Grey hawk
+Scene: Grassland (base scenery). Action: Same ridge. Same warm grey egg. Nora is not in this picture. He pockets it without tapping the shell.
+HERO: "Egg again. I'll carry it. I'm not opening it to be sure."
+Unlock: Grey hawk joins again as an egg. The hatch timer starts over. No companion on this node.
+Mission 1, Node 7 — Goblin fence
+Scene: Grassland (base scenery). Action: The rail is shaking. He puts himself on the yard side before the first sack moves.
+HERO: "Cellar first. Grain is a later argument."
+Scene: Grasslands pack of goblins encounter. Action: He clears the fence. The door stays shut.
+VILLAGER (female): "Over the rail. Again. I am tired of again."
+HERO: "Behind me. People first, grain second."
+No unlock.
+Mission 1, Node 8 — Hunting dog
+Scene: Grasslands (rain). Action: Same rope, same ditch, same soaked pup. Nora is not in this picture. Scraps go down. His hands stay off it.
+HERO: "Scraps first. I'm not pricing a nose."
+HUNTER (male): "Scatter from a bad job. Handlers vanish. Dogs don't send letters."
+Unlock: Hunting dog joins again, newborn. The timer starts over. No companion on this node.
+Mission 1, Node 9 — Dire wolf
+Scene: Grassland (sunset). Action: He hears the pack before he sees the lead wolf, and he does not call it a den.
+HERO: "Pack first. The pup chooses after."
+Scene: Grasslands wolf encounter. Action: The lead breaks. He does not chase it into the grass.
+Scene: Grasslands wolf pack encounter. Action: The pack scatters. Nora is not in this picture. One pup stays.
+HUNTER (male): "Pack first. Pup is a later problem, if it insists."
+HERO: "I'm not taking you from a den. The den left."
+Unlock: Dire wolf joins again, newborn. The timer starts over. No companion on this node.
+Mission 1, Node 10 — Bandit camp
+Scene: Grassland (sunset). Action: The riders are on the south track again. He does not let them get between him and the stamp.
+HERO: "Riders, then the fire. Paper stays in the coat."
+Scene: Grasslands bandits encounter. Action: The three go off the road. He keeps walking.
+Scene: Grassland (night). Action: Fire ahead. He counts four shapes before he steps into the light.
+HERO: "This is why it pays. Then the gate."
+Scene: Grasslands bandit camp encounter. Action: He clears the camp. The stamp comes back clean.
+BANDIT (male): "Camp's ours. Sausages included."
+BANDIT (female): "Stamp won't help you in the dark. Dark doesn't read."
+NORA (determined): "Left fork was the patrol. Finish it, then you can eat."
+HERO: "Fire first. Then the ones still standing."
+No unlock. No restart on this pass.
+Chapter 2 — Forest
+Mission 2, Node 1 — Gate
+Scene: Grassland (base scenery). Action: The fields thin. The stamp in his coat is dry. The tree-line is a wall, not a path.
+HERO: "Don't name anything. Walk where she walks."
+Scene: Forest (base scenery). Action: The gate is shut. Blue caps glow on the roots. An elf is already waiting, arms folded, unimpressed by the coat.
+ELF (male): "Stamp, please. We had a man last week who tried to pay in opinions."
+HERO: "South patrol, finished. I'm not here to cut a path."
+ELF (male): "Warden warns once. Walk behind her. Don't name a tree she hasn't introduced."
+No unlock.
+Mission 2, Node 2 — Riders
+Scene: Forest (dusk). Action: The track goes orange under red caps. Hooves are already on the ruin stones ahead.
+HERO: "Three. Don't leave the stones for a cleaner fight."
+Scene: Forest bandits encounter. Action: The riders come off the broken road. He keeps the fight on the paving.
+BANDIT (male): "Guild stamp doesn't ride in here. The trees unionised."
+BANDIT (female): "Boots are simpler. We'll take those."
+HERO: "Then I won't ride. I'll walk through."
+No unlock.
+Mission 2, Node 3 — Werewolf, then the warden
+Scene: Forest (night). Action: Moon over the path. Blue caps lit. Something with too many elbows has the track.
+HERO: "Road only. I'm not following it into a hobby."
+Scene: Forest werewolf encounter. Action: He clears it off the path and does not chase. Elowen is not in this picture.
+HUNTER (male): "Not a wolf. Wolves have addresses. This one has a hobby."
+HERO: "Then the road is the fight."
+Scene: Forest (base scenery). Action: She is on the path after the clear. Bow low, not offered. She does not know him.
+ELOWEN (neutral): "Stop. This side is watched. Say why, and don't dress it in a title."
+HERO: "Guild stamp. I was told to walk behind you if you said so."
+ELOWEN (determined): "Then walk behind. A marked tree is not a souvenir."
+No unlock.
+Mission 2, Node 4 — Owl bear
+Scene: Forest (night). Action: The marked stones are blocked. Feathers and a shoulder the size of a door.
+HERO: "Stones. Not the ferns. She was clear."
+Scene: Forest owl bear encounter. Action: He keeps the fight on the paving and does not follow it off the path.
+ELOWEN (determined): "It hunts where they cut. The ferns are not a shortcut. They are a mood."
+HERO: "Stones only."
+No unlock.
+Mission 2, Node 5 — Moss sprite
+Scene: Forest (base scenery). Action: A root-hollow off the path. A small moss-thing, eyes lit, not moving. Elowen is not in this picture. He does not reach.
+HERO: "I'm not pulling you up. If you want the road, take it."
+Action: It climbs the pack and stays, pleased with itself.
+Unlock: Moss sprite joins as a newborn. No companion on this node.
+Mission 2, Node 6 — Web
+Scene: Forest (rain). Action: The ford is running. Caps glow through the rain. Silk is already across the old road.
+HERO: "Web, not a new path. She'll count the trees."
+Scene: Forest aracnid encounter. Action: He clears the spider off the ford road. Elowen is not in this picture. The trees stay uncut.
+ELF (female): "A new path is how we get a new problem with extra legs."
+HERO: "I'll take the web. I'll leave the trees."
+No unlock.
+Mission 2, Node 7 — Vine serpent
+Scene: Forest (dusk). Action: A cut stump. A warm egg in a coil of green vine. Elowen is not in this picture. He lifts the egg and does not crack it.
+HERO: "Egg. I'll carry it. I'm not opening it to introduce myself."
+Action: The vine loosens. Nothing strikes.
+Unlock: Vine serpent joins as an egg. No companion on this node.
+Mission 2, Node 8 — Elowen
+Scene: Forest (base scenery). Action: She is waiting where the tags were pulled. Wood still standing. No pet in this picture.
+ELOWEN (neutral): "Tags are in. Wood is still wood. You can follow without being led, which is rarer than rain."
+HERO: "I don't need the trees named after me. I'll walk where you walk."
+ELOWEN (smiling): "Correct size of promise. Most men bring a bigger one and a saw."
+ELOWEN (soft): "Behind on the marked paths. Forward when I say. No speeches to the oaks. They have heard them."
+Unlock: Elowen joins. No pet on this node.
+Mission 2, Node 9 — Gate, then camp
+Scene: Forest (night). Action: The red gate is ahead, and it is not empty.
+HERO: "Gate first. Fire after. No wood in the pack."
+Scene: Forest pack of goblins encounter. Action: He clears the gate. The posts stay standing.
+Scene: Forest bandits camp encounter. Action: Four archers at a fire nailed to a marked root. He clears the camp and pulls the nail, not the root.
+ELOWEN (determined): "Rude, and also structural."
+BANDIT (male): "Camp's ours. The warden can count the arrows."
+BANDIT (female): "From the ground, if she likes."
+HERO: "Gate, then the fire. Tags after."
+No unlock.
+Mission 2, Node 10 — Trent
+Scene: Forest (rain). Action: The path by the red gate is tearing itself up. Roots moving that should not move.
+HERO: "Stop it. Don't add a stump. She will notice a stump."
+Scene: Forest trent encounter. Action: He stops it without cutting a living tree.
+ELOWEN (sad): "It woke because they cut the marked ones. Don't add a stump to the argument."
+HERO: "I'll stop it. I won't take the wood."
+Scene: Forest (dusk). Action: The trees thin. Salt on the wind. A port road shows below the last slope.
+ELOWEN (smiling): "Ocean takes the next stamp. I don't sail. I'll be at this gate when you come back on the path, not through the trees."
+HERO: "Path. Not through the trees."
+No unlock. No restart. The Ocean board opens.
+
+
+The Ocean board opens on a wet stamp. Every picture change has an Action under it. Speech is in quotation marks. Unlock means that one joins. No unlock means nobody joins.
+Chapter 3 — Ocean, Pass 1
+Mission 3, Node 1 — Port
+Scene: Ocean (base scenery). Action: The forest is behind him. A ship sits under a heavy sky. A sailor is already guarding the wheel as if someone has tried to marry it.
+SAILOR (male): "Forest stamp buys a deck, not a cabin, and not an opinion about my wheel. Far quay if the sky behaves. It won't. Skies are theatrical."
+HERO: "Deck is enough."
+SAILOR (male): "Everyone says that before the first wave introduces itself."
+No unlock.
+Mission 3, Node 2 — Fishmen
+Scene: Ocean (calm). Action: The deck is bright. Nets are out. Something with too many hands is already on the rocks below the rail.
+HERO: "Crew first. The nets can be mended."
+Scene: Ocean pack of fishmen encounter. Action: He clears them off the rocks and does not follow them into the water.
+FISHERMAN: "They have a theological objection to nets. Don't fall in. The sea is not a debate."
+HERO: "Crew off the rocks. Nets can wait."
+No unlock.
+Mission 3, Node 3 — Mercenaries
+Scene: Ocean (base scenery). Action: The sky closes in. Armour is already on the rail that should have been empty.
+HERO: "Hold stays. I'm not paying a fare to stand on my own deck."
+Scene: Ocean mercenary encounter. Action: Three boarders come over. He puts them back on their own side.
+RAIDER (male): "Empty hold. Bad tide. We charge for both."
+HERO: "The hold stays. Take the rail back."
+No unlock.
+Mission 3, Node 4 — Leviathan
+Scene: Ocean (calm). Action: The water ahead lifts in a line that is not a wave.
+HERO: "Don't chase it. A story does not need a body under the keel."
+Scene: Ocean leviathan encounter. Action: He turns the ship. He does not throw a harpoon.
+SAILOR (male): "Taverns are full of men who harpooned the wrong paragraph."
+HERO: "Turning. I'm not chasing it under."
+No unlock.
+Mission 3, Node 5 — Iron hide
+Scene: Ocean (calm). Action: A rock pool off the next landing. A warm stone-shelled egg above the tide line. Nia is not in this picture. He lifts it and does not crack it.
+HERO: "Egg. I'll carry it. Gulls can find another hobby."
+FISHERMAN: "Crabs leave those above the bite of the tide. Gulls did not get the note."
+VOICE: "Same rule as the hawk. It hatches and grows before it can be equipped."
+Unlock: Iron hide crustacean joins as an egg. No companion on this node.
+Mission 3, Node 6 — Crab
+Scene: Ocean (base scenery). Action: The landing is blocked by something the size of the egg's parent. The egg is not in this picture.
+HERO: "Parent stays on the rocks. The small one is already carried."
+Scene: Ocean crustacean encounter. Action: He clears the crab off the path and does not follow it into the surf.
+SAILOR (male): "Parent size. It does not get a bunk."
+HERO: "It stays on the rocks."
+No unlock.
+Mission 3, Node 7 — Water sprite
+Scene: Ocean (night). Action: Moon on the deck. Lit water under the hull, small enough to cup. Nia is not in this picture. He cups it and does not pour it out.
+HERO: "I'll hold it. I'm not pouring a light out to prove a point."
+Unlock: Water sprite joins as a newborn. No companion on this node.
+Mission 3, Node 8 — Sharks, then pirates
+Scene: Ocean (night). Action: The wake breaks. Fins cut the moon-path behind the stern.
+HERO: "Fins first. Then whoever is using them as a door."
+Scene: Ocean pack of sharks encounter. Action: He keeps the crew off the rail until the fins peel away.
+Scene: Ocean pirate encounter. Action: Boarders come over the same rail. He clears the deck.
+BANDIT (male): "Hold's ours. Stamps don't float. I checked."
+BANDIT (female): "Neither do arguments. We've tested those too."
+HERO: "Deck first. You can have the speech after."
+No unlock.
+Mission 3, Node 9 — Nia
+Scene: Ocean (calm). Action: The deck is quiet. She is at the rail, cutlass down, not offered. No pet in this picture. She does not know him.
+NIA (neutral): "You kept the deck. Most Guild marks hibernate in the hold and call it tactics."
+HERO: "Are you crossing, or keeping this ship from being sold in pieces?"
+NIA (smiling): "Both. I don't take orders. I take a side that doesn't auction the cook."
+HERO: "This side doesn't. No toast."
+NIA (soft): "Good. Toasts are how captains start lying. Rail when I say."
+Unlock: Nia joins. No pet on this node.
+Mission 3, Node 10 — Storm
+Scene: Ocean (storm). Action: The sky drops. The wheel is already a souvenir. Water is over the deck.
+NIA (determined): "Wheel's done. Water. Now."
+HERO: "I'm not swimming it."
+Scene: Ocean kraken encounter. Action: The ship is already lost. He clears a path off the wreck and does not go under with it.
+Scene: Ocean (night). Action: Shore. A kelpie is waiting in the shallows, as if the storm ordered a ride.
+HERO: "That shell is the road."
+Action: It carries them in. The quay lamps flare white.
+NIA (surprised): "Quay lights don't do that. I'd have noticed. I notice lights."  (Prompt appears reincarnate icon)
+VOICE: "Too fast again. They will not remember the crossing. You will. An airship yard opens on the next pass. They will call it a recent bell. Hero awakens."
+Scene: Grassland (base scenery). Action: Same stone. Same dawn. His hands are empty. Nia, the egg, the sprite, and the kelpie are gone.
+HERO: "They didn't keep the crossing either."
+No unlock. This node removes the Pass 1 party.
+Chapter 3 — Pass 2
+Mission 3, Node 1 — Port
+Scene: Ocean (base scenery). Action: The port thinks this is the first boarding. He does not correct the sailor, and he does not touch the wheel.
+SAILOR (male): "Deck only. Wheel is married."
+HERO: "I'll stay off it. The sky won't behave. I'll be on the rail anyway."
+SAILOR (male): "Optimist. We throw those to the weather as a tip."
+No unlock.
+Mission 3, Node 2 — Fishmen
+Scene: Ocean (calm). Action: Nets out again. He is already between the crew and the rocks.
+HERO: "People first. The joke can wait."
+Scene: Ocean pack of fishmen encounter. Action: He clears the rocks and leaves the water alone.
+FISHERMAN: "Nets again. The sea has one joke."
+HERO: "I've heard it. Crew off the stones."
+No unlock.
+Mission 3, Node 3 — Mercenaries
+Scene: Ocean (base scenery). Action: Armour on the rail before the bell. He does not let them name a price.
+HERO: "Hold stays. Three of you can leave without a fare."
+Scene: Ocean mercenary encounter. Action: They go back over the rail.
+RAIDER (male): "Empty hold. Bad tide."
+HERO: "Then don't buy either."
+No unlock.
+Mission 3, Node 4 — Leviathan
+Scene: Ocean (calm). Action: The same lift in the water. He is already calling the turn.
+HERO: "Turning. A story doesn't need a body under the keel."
+Scene: Ocean leviathan encounter. Action: The ship comes about. No harpoon leaves the rack.
+SAILOR (male): "You've sailed."
+HERO: "Enough to know not to chase a paragraph."
+No unlock.
+Mission 3, Node 5 — Iron hide
+Scene: Ocean (calm). Action: Same pool. Same warm stone-shelled egg. Nia is not in this picture. He pockets it before the gulls land.
+HERO: "Egg again. I'll carry it. Last time the gulls wrote the ending."
+Unlock: Iron hide crustacean joins again as an egg. The timer starts over. No companion on this node.
+Mission 3, Node 6 — Crab
+Scene: Ocean (base scenery). Action: The parent is on the landing again. The egg is not in this picture.
+HERO: "Rocks. The small one is already carried."
+Scene: Ocean crustacean encounter. Action: He clears the path and does not give it a bunk.
+SAILOR (male): "Parent size. No bunk."
+HERO: "Agreed. It stays wet."
+No unlock.
+Mission 3, Node 7 — Water sprite
+Scene: Ocean (night). Action: Lit water under the hull. He cups it before anyone flicks it off the rail. Nia is not in this picture.
+HERO: "I'll hold the light. Pouring it out is how I lost it."
+SAILOR (male): "Bilge glow."
+HERO: "Then I'll keep the bilge glow. It stays if you don't flick it."
+Unlock: Water sprite joins again, newborn. The timer starts over. No companion on this node.
+Mission 3, Node 8 — Sharks, then pirates
+Scene: Ocean (night). Action: Fins in the moon-path. He does not wait for the rail to fill.
+HERO: "Fins, then the door they open."
+Scene: Ocean pack of sharks encounter. Action: The fins peel off. He stays on the deck.
+Scene: Ocean pirate encounter. Action: Boarders come over. The deck stays his.
+BANDIT (female): "Stamp won't float."
+HERO: "Deck first. Float later."
+No unlock.
+Mission 3, Node 9 — Nia
+Scene: Ocean (calm). Action: She is at the rail again, cutlass down. She does not know him. No pet in this picture.
+NIA (neutral): "Deck's still a deck. You didn't hide. Suspicious."
+HERO: "Crossing, or keeping the cook off a sale?"
+NIA (smiling): "Both, if you don't toast it. Toasts are costumes."
+HERO: "No toast. Rail when you say."
+NIA (soft): "Stay there. Forward when I call it."
+NIA (blushing): "That's a deal. Not a vow. Vows sink."
+Unlock: Nia joins again. No pet on this node.
+Mission 3, Node 10 — Storm
+Scene: Ocean (storm). Action: The sky drops on the same reach. He is already off the wheel.
+NIA (determined): "Ship's done. Don't romance the wheel."
+HERO: "I'm not."
+Scene: Ocean kraken encounter. Action: He clears a path off the wreck and does not go under.
+Scene: Ocean (night). Action: Shore. The kelpie is already in the shallows. He looks for it before he looks for the mast.
+HERO: "That shell is the road. Masts don't finish this crossing."
+NIA (surprised): "You looked for it before you looked for the mast."
+Action: It carries them in. The stamp is wet and still counts.
+NIA (smiling): "Far quay. No toast. I'm almost offended."
+Unlock: Kelpie joins as a mount. No pet and no companion on this node. No restart. The airship bell is there. The port thinks it is new.
+Chapter 4 is the Desert. Ten nodes. Nothing resets at the end. Each picture has an Action under it. Speech is in quotation marks. Unlock means that one joins. No unlock means nobody joins.
+The villager sells water and talks like a man who has survived by being useful. Aisha talks like someone who has walked this road longer than the Guild has had a stamp. Raiders perform. Bandits do not.
+Chapter 4 — Desert
+Mission 4, Node 1 — The first well
+Scene: Desert (base scenery). Action: The ocean stamp dries on the first dune. Columns sit in the haze. A man waits by a clay bowl, already smiling like the coin is a formality.
+DESERT VILLAGER (male): "Cup, not trough. The trough has opinions, and none of them are clean. Coin in the bowl, water in you. That is the whole ceremony."
+HERO: "Coin for the water. I can find the road myself."
+DESERT VILLAGER (male): "You can find three roads. Two of them are the same dune wearing a different hat. Packed sand on the left. If your boot sinks, you have already voted wrong."
+HERO: "Left. If I sink, I will come back and let you say you told me."
+DESERT VILLAGER (male): "I do enjoy being right. It is cheaper than water."
+No unlock.
+Mission 4, Node 2 — Jackals
+Scene: Desert (base scenery). Action: The hard track holds. The sand beside it shifts in five places at once.
+HERO: "Five. If I stop to count them properly, they will count me."
+Scene: Desert pack of jackals encounter. Action: They come off the dune. He stays on the hard track, turns them, and does not follow.
+DESERT VILLAGER (male): "They are not brave. They are punctual. A stopped traveller is a scheduled meal. Keep the appointment moving."
+HERO: "Appointment kept. They can have the soft sand and the view."
+DESERT VILLAGER (male): "Generous. The view does not tip."
+No unlock.
+Mission 4, Node 3 — Riders
+Scene: Desert (base scenery). Action: Three horses cut the dune line, cloaks out, swords up, already mid-speech.
+HERO: "They rehearsed this. I am not paying for the rehearsal."
+Scene: Desert raiders encounter. Action: He breaks the charge and keeps the water skins on his shoulder.
+RAIDER (male): "Behold, a wet stamp and empty packs. We offer a toll, a lesson, and a very short chase."
+RAIDER (female): "He means the skins. The speech is free, which is why it is too long."
+HERO: "Skins stay. You can keep the speech. Take the dune back before the sun finishes it for me."
+RAIDER (male): "No sense of theatre."
+HERO: "I spent it on the ocean."
+No unlock.
+Mission 4, Node 4 — Scorpion
+Scene: Desert (night). Action: The moon sits over the column line. The cracked flat ahead has a black shape on it, tail already high.
+HERO: "Do not watch the colour. Move, or become a cautionary cup of tea."
+Scene: Desert scorpion encounter. Action: He clears the flat and leaves the rocks alone.
+DESERT VILLAGER (male): "People stop for the shine. Then they are a story, and stories do not buy the next cup. Very poor customers."
+HERO: "Cleared. I would rather be a customer than a story."
+DESERT VILLAGER (male): "Excellent. Customers come back. Stories only get repeated."
+No unlock.
+Mission 4, Node 5 — The cub
+Scene: Desert (night). Action: A sphinx cub sits in the shadow of a fallen column, eyes lit, not hiding. Aisha is not here. He keeps his hands on his belt.
+HERO: "I am not taking you. The column looks finished with both of us. The road is open if you want it."
+DESERT VILLAGER (male): "They choose. A grabbed ear becomes a lesson with teeth. I have a cousin who learned it. He waves with the other hand now."
+HERO: "No grab. If it follows, it follows."
+Action: The cub comes at its own pace and stays by his boot, unbothered.
+Unlock: Desert sphinx joins as a newborn. It cannot be equipped until it grows. No companion on this node.
+Mission 4, Node 6 — The court
+Scene: Desert (base scenery). Action: The ruined court is ahead. Pillars still stand. The steps are occupied.
+HERO: "Spiders I can move. A pillar in my pack is how this place gets a worse guest."
+Scene: Desert sand spider encounter. Action: Five sand spiders hold the court. He clears them and does not touch the fallen stone.
+DESERT VILLAGER (male): "The court was a market once. Now it is a landlord with eight legs. Leave the pillars. They are not souvenirs. They are structural gossip."
+HERO: "Spiders only. The gossip can stay upright."
+No unlock.
+Mission 4, Node 7 — The canyon
+Scene: Desert (base scenery). Action: The track drops between rock walls. Four shapes are already off the ledges, blades out, waiting for the echo.
+HERO: "They want rent for a crack. I am walking through the crack."
+Scene: Desert bandit ambush encounter. Action: The four drop. He clears the canyon floor and keeps walking.
+BANDIT (male): "Canyon tax. Boots, skins, and whatever is still in pairs."
+BANDIT (female): "He tried to spend a Guild stamp in town. The baker laughed until she cried. We do not take paper."
+HERO: "Then you do not take me. The canyon was here before your ledge. It can keep the ledge."
+BANDIT (male): "Four of us up here."
+HERO: "And none of you on the track. Fix that, or leave it."
+No unlock.
+Mission 4, Node 8 — Aisha
+Scene: Desert (night). Action: A well under the moon. She is there, veil down, one hand on the stone, not offering the cup yet. The cub is not in this picture. She has never met him.
+AISHA (neutral): "You left the pillars standing. Most stamps take a chip so they can say they were brave. The desert does not file those."
+HERO: "I do not need a stone with my name on it. Is the next well a cup, or a guard?"
+AISHA (neutral): "A cup if you arrive like a guest. A price if you arrive like a buyer. A problem if you arrive like a name."
+HERO: "Guest, then. Water for the party. I will not put anything else on your well."
+AISHA (smiling): "The last mark named a well after himself. It went bitter for a week. I think it was offended. Wells are proud. They have very little else to do."
+HERO: "I will not name them. You can tell me when to come wide."
+AISHA (soft): "Packed sand. Wide when I say. The wells are old, and they are not yours to introduce."
+AISHA (blushing): "That is a road rule. Not a favour. If I offer tea, you will know. I have not offered tea."
+Unlock: Aisha joins. No pet on this node.
+Mission 4, Node 9 — The golem
+Scene: Desert (base scenery). Action: The dune road lifts. Facing stones hang in the dust. Something built of them is climbing the slope.
+HERO: "Stop it. If I take a chip, she will see it before I do."
+Scene: Desert golem encounter. Action: He drops it. The stone stays on the dune.
+AISHA (determined): "It wakes when someone pockets the face of a wall. Stop it. Do not come back with a souvenir and a limp. I am a guide, not a cart."
+HERO: "Stopped. The stamp is enough weight."
+AISHA (smiling): "Good. Stamps do not ask for a shrine. Stones always do, eventually. They are very needy."
+No unlock.
+Mission 4, Node 10 — The storm, then the matriarch
+Scene: Desert (sandstorm). Action: A wall of sand stands over the next dune. The foot road is gone.
+AISHA (determined): "If something opens the ground, do not follow it. The sand locks from the inside. I am not digging you out of a clever idea."
+HERO: "Path only. A shortcut that buries me is just a grave with ambition."
+Scene: Desert sand worm encounter. Action: A sand worm breaks the track. He clears a way through and does not go under.
+Scene: Desert (night). Action: A camp on the far side. A great beast is staked by the tents. The handlers already have the bowl out, and they are not pretending it is charity.
+DESERT VILLAGER (male): "The foot road went up into the sky. She still crosses. Gold in the bowl, or you wait until the sand lies down and pretends it was never angry."
+HERO: "Gold. I am not sleeping in a wall."
+AISHA (neutral): "Pay the hands that hold the rope. Do not buy her name. A named beast grows a second price, and then a cousin arrives with a third bowl."
+HERO: "Handlers only. She can keep whatever she is called."
+Action: The gold changes hands. She kneels, steady, and waits for the party.
+AISHA (smiling): "Honest weight. Under the next ruin there is a road. Do not call it a gate until you are standing in it. Gates hear their name and start charging."
+HERO: "Then it is a road until it says otherwise."
+Unlock: Matriarch joins as a mount. No pet and no companion on this node. No restart. The Void road opens under the next ruin.
+Chapter 5 is the Void. Fifteen nodes. It ends in a reset. Each picture has an Action under it. Speech is in quotation marks. Unlock means that one joins. No unlock means nobody joins.
+The Hero is blunt. He says what he is doing. He does not apologise to the dead.
+Mission 5, Node 1 — The arch
+Scene: Void (base scenery). Action: The desert ruin opens into a stone tunnel. Sunlight dies on the first three steps. Small lights wait at the far end, and they are not lamps.
+AISHA (neutral): "Laid stones only. The dark on the left forgot it was a room. Do not name this place."
+HERO: "Stones. I drift, you say so. I am not touring."
+VOICE: "Clear the path. Bring the stamp back. The dead do not pay."
+HERO: "Then I am not here for them. Path only."
+No unlock.
+Mission 5, Node 2 — A name, almost
+Scene: Void (base scenery). Action: A pale man stands in a side arch. He has a face, and then he does not. He is not blocking the path.
+GHOST (male): "I sold thread. Or knives. One of those made a sound."
+HERO: "Does not matter. I am walking through. You are not coming with me."
+GHOST (male): "The hall ahead still thinks it has soldiers."
+HERO: "Then they can think it until I am past them."
+AISHA (soft): "Do not promise him a way out."
+HERO: "I was not going to."
+No unlock.
+Mission 5, Node 3 — The old guard
+Scene: Void (deeper). Action: Claw marks on both walls. Blue mist sits on the stones ahead, and the stones have eyes.
+HERO: "Eyes. On the stones, not in the mist."
+Scene: Void pack of skeletons encounter. Action: The ruined throne hall fills with spearmen. He breaks the line and does not sit the throne.
+GHOST (male): "Nobody told them the watch ended."
+HERO: "It ended. Chair stays empty. Move."
+No unlock.
+Mission 5, Node 4 — Less than a man
+Scene: Void (deeper). Action: The mist thins. A shape without a face stands where a door used to be. It does not breathe.
+SHADE: "Left was the queen's stair. Right was the cistern. I forgot which feet were mine."
+HERO: "I do not need your feet. Point. I am not paying you."
+SHADE: "Down. The bright thing in the crack is not a coin."
+HERO: "Down. If it follows, it follows. I am not grabbing it."
+AISHA (neutral): "Do not tip it."
+HERO: "Was not planning to."
+No unlock.
+Mission 5, Node 5 — One on the steps
+Scene: Void (chamber). Action: The tunnel opens into a black hall of floating slabs. Eyes line the pit under the near ledge.
+HERO: "Pit can watch. I am not climbing down."
+Scene: Void ghoul encounter. Action: One pale crawler takes the steps. He clears it and stays off the broken edge.
+AISHA (determined): "Do not look for a name on it."
+HERO: "No name. Steps are clear. That is the job."
+No unlock.
+Mission 5, Node 6 — The pit
+Scene: Void (chamber). Action: He crosses on the solid ledge. The floating slabs drift. The eyes below track his boots and do not climb.
+HERO: "Watch the boots. You are not getting the edge."
+GHOST (male): "We fed that pit when the bells stopped."
+HERO: "Not adding to it. Keep talking if you want. I am crossing."
+AISHA (neutral): "Keep the cub off the lip."
+HERO: "Cub, heel. Now."
+No unlock.
+Mission 5, Node 7 — The pack
+Scene: Void (deeper). Action: A side stair glows green. More than one set of claws is already on the marble.
+HERO: "Five. Stair first. Green can wait."
+Scene: Void pack of ghouls encounter. Action: Five come down the steps. He clears the stair and does not follow them into the green cracks.
+AISHA (determined): "That green is a garden under the floor. Do not go down."
+HERO: "Not going. Stair is enough."
+No unlock.
+Mission 5, Node 8 — The wisp
+Scene: Void (chamber). Action: A crack between two slabs holds a small mass of blue light. It is not a ghost and not a coin. He does not grab.
+HERO: "Not a toll. Not a jar. Come or stay. I am not waiting on a speech."
+Action: The light lifts, drifts to his shoulder, and stays.
+HERO: "Shoulder. Do not drift into the pit."
+AISHA (smiling): "It follows weight, not words. Do not name it."
+HERO: "Fine. No name."
+VOICE: "It is a wisp, not an egg. It still has to settle before it can be equipped."
+Unlock: Void wisp joins as a newborn mass of energy. No companion on this node.
+Mission 5, Node 9 — The broken nave
+Scene: Void (base scenery). Action: A side arch opens on a ruined church hall. The ceiling is a hole. The floor is already reaching.
+HERO: "They are in the way. I need the arch, not the glass."
+Scene: Void evil spirits encounter. Action: The spirits fill the nave. He clears a path to the far arch and leaves the cracked glass.
+GHOST (male): "They were the choir. They kept the hands."
+HERO: "Path is open. Glass stays. I am done here."
+No unlock.
+Mission 5, Node 10 — The rider
+Scene: Void (deeper). Action: Hooves that are not hooves hit the stone. A banner that is not cloth comes around the bend.
+HERO: "Out of the lane. I am not duelling a flag."
+Scene: Void knight wraith encounter. Action: The bone horse charges. He breaks the charge and lets the banner fall. He does not pick it up.
+SHADE: "His name is in the banner. The banner bites."
+HERO: "Then it stays on the floor. I do not need the name. Lane is clear."
+AISHA (neutral): "Leave the cloth. It is a leash."
+HERO: "Leaving it."
+No unlock.
+Mission 5, Node 11 — What the hall kept
+Scene: Void (chamber). Action: A quiet ledge. No eyes on this one. A ghost sits on the lip as if the drop is a bench.
+GHOST (male): "The king would not die on his day. He is still in the chair, counting it."
+HERO: "He can count. I am not sitting, and I am not his clerk. The way up is past him. That is all I need."
+GHOST (male): "Mushrooms past the crack. Do not tell him I said up."
+HERO: "Not my job to tell him. You pointed. That is enough."
+AISHA (soft): "He did not ask for a pocket."
+HERO: "Good. I was not offering one."
+No unlock.
+Mission 5, Node 12 — The floor
+Scene: Void (base scenery). Action: The laid stones ahead are cracked in a circle. Purple fire burns in two braziers that nobody lit.
+HERO: "Floor is wrong. I am not standing in it to find out why."
+Scene: Void monstrosity encounter. Action: It comes out of the hole. He drives it back and does not go down after it.
+AISHA (determined): "Three people stood too close to a promise. Do not be a fourth."
+HERO: "Not going down. Back on the stones. It can keep the hole."
+No unlock.
+Mission 5, Node 13 — The last courtesy
+Scene: Void (deeper). Action: The claw marks stop. The far arch is lit from within by a colour that does not belong to fire.
+SHADE: "Throne, then the crack. If you sit, you stay."
+HERO: "Standing. Tell him I am not staff, if he can hear you. I only need the crack."
+GHOST (male): "Tell the mushrooms I sold thread. Or knives. Whichever is kinder."
+HERO: "Thread. If something up there can take a message, that is the one it gets."
+No unlock.
+Mission 5, Node 14 — The chair
+Scene: Void (chamber). Action: The floating slabs end. A throne hall opens under broken coloured glass. The crowned shape is already off the seat.
+HERO: "Chair is empty. Still not sitting. Crack is behind it."
+Scene: Void king wraith encounter. Action: The king wraith comes across the broken floor. He breaks it away from the throne and does not sit.
+AISHA (determined): "Do not answer if it offers you the hall."
+HERO: "Not answering. No hall. No name. Crack is the road."
+No unlock.
+Mission 5, Node 15 — Up, then white
+Scene: Void (deeper). Action: Past the throne, a crack in the stone blows cold, damp air. Faint green light sits in it. Not desert sun. Not fire.
+AISHA (smiling): "Mushrooms. Do not call it a gate."
+HERO: "A road. It smells alive. That is enough."
+Action: The green light flares white. The crack, the throne, and the tunnel drop out.
+AISHA (surprised): "That is not mushroom light."
+HERO: "I know. You will not remember this." (Prompt appears reincarnation icon)
+VOICE: "Too far, too fast. The record resets. They will not remember the throat, the chair, or you. You will. A woman in a town alley will have a new book of sales. Hero awakens."
+Scene: Grassland (base scenery). Action: Same dawn. Same stone. His hands are empty. Aisha is gone. The wisp is gone. The rest of the party is gone with them.
+HERO: "Same stone. Empty hands. Again."
+No unlock. This node removes the party. The slave merchant is in the town on the next pass. The Undertrove is still ahead, once the road is walked again.
+
+
+—----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The Elowen oath is not in the forest chapter as written. It belongs on the pass after the Ocean reset, the second time he meets her. The forest does not remember the first walk. He does. This is that meeting, on its own node, with no pet and no fight in the picture.
+Mission 2, Node 8 — The oath
+Scene: Forest (base scenery). Action: She is on the marked path, bow low. The tags are still in the trees. She does not know him. A stag with green vine in its antlers stands behind her, untethered, watching him.
+ELOWEN (neutral): "You walk like someone who has been told the rules and kept them. Most stamps arrive with a saw and a speech."
+HERO: "No saw. No speech. I will stay on the marked path. I will not cut what you have tagged. If I break that, turn me off the road."
+ELOWEN (determined): "Say it as an oath, not a favour. Favours fray."
+HERO: "Marked path. No tagged wood. I turn when you say. That is the oath."
+ELOWEN (smiling): "Accepted. He would not take the last warden. He will take you if the oath holds. Break it, and he leaves. I will not call him back."
+ELOWEN (soft): "Behind on the marked paths. Forward when I say. No names on my trees."
+Action: The stag comes to his side and stays.
+Unlock: Thorn vine stag joins as a mount. No pet and no companion on this node. Elowen still joins on her own later node, not this one.
+—-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Chapter 6 is the Undertrove, rewritten. Fifteen nodes. Nothing resets. The slave merchant is not here. Each picture has an Action under it. Speech is in quotation marks. Unlock means that one joins. No unlock means nobody joins.
+The Hero is still blunt. He just says more than one word when something is in front of him.
+Mission 6, Node 1 — The crack
+Scene: Undertrove (base scenery). Action: The ruin opens down. Glowing trees fill a cave. Spores drift. No sun.
+HERO: "Lit ground only. I am not putting a boot in the dark to see what it does. Last places like this kept the bill until you were already in it."
+SPRITE (female): "Correct. Last man tested the dark. He is moss. Very committed moss."
+HERO: "Then he can stay committed. I need the path, not a second career as a plant."
+No unlock.
+Mission 6, Node 2 — Hornets
+Scene: Undertrove (base scenery). Action: The caps ahead turn purple. The air is already full.
+HERO: "Swarm in the bright caps. I am going through the gap, not into the nest. If I hit a cap, I deserve what comes out."
+Scene: Undertrove bloom hornets encounter. Action: The hornets drop. He clears the path and does not strike the glowing caps.
+SPRITE (female): "They nest in the bright ones. Hit a cap and you get the family. Families are worse."
+HERO: "Caps stay up. Path is open. I did not come down here to start a feud with a mushroom."
+No unlock.
+Mission 6, Node 3 — The small voice
+Scene: Undertrove (deep). Action: Tall caps. A dark cleft ahead. A sprite sits on a stalk, feet swinging, not afraid of him.
+SPRITE (female): "Deep cleft is hers. Water-woman. Do not wash boots in it. Do not wash blood in it. Do not wash opinions in it. She counts all three."
+HERO: "Boots stay on, blood stays out, and I was not planning to donate an opinion. Where does the deep path actually start?"
+SPRITE (female): "Past her, then down. A winged one charges favours. I charge in warnings. You are getting a warning."
+HERO: "Warning taken. I will take the path over the favour until the winged one is in front of me."
+No unlock.
+Mission 6, Node 4 — The pool
+Scene: Undertrove (base scenery). Action: A still pool under a stone lip. A woman of root and bark stands in it to the knee. She is not the thorn-thing.
+DRYAD (female): "This pool feeds the caps. Go around. Speak if you must. Do not wade."
+HERO: "Around. I can see the feed from here, and I do not need to stand in it to believe you. Who is actually blocking the deep path?"
+DRYAD (female): "A briar that forgot it was a tree. And a small one with wings. Different problems. Do not mix them."
+HERO: "Not mixing them. The briar gets stopped. The winged one gets asked. Your water gets neither."
+No unlock.
+Mission 6, Node 5 — The briar elk
+Scene: Undertrove (deep). Action: The cleft narrows. Vine drags across the lit grass. Something with a rack of branches is already moving.
+HERO: "Elk made of vine. Off the path. I am not cutting the growth that holds this floor up just to make the fight neat."
+Scene: Undertrove briar elk encounter. Action: It charges. He turns it and does not cut the living vine.
+DRYAD (female): "That one grew wrong. Stop it. Do not harvest it. I will know."
+HERO: "Stopped, and left where it fell. I am not carrying a rack of branches out of here to prove I won."
+No unlock.
+Mission 6, Node 6 — The dirt
+Scene: Undertrove (deep). Action: A side cleft. No body. A mound of dark soil sits in a ring of ore-light, twitching like something is packed inside it. Lilia is not here. He does not kick it.
+HERO: "That is dirt with a pulse. Not a fighter, and not a person yet. I am not stamping it flat to see what complains."
+Action: The mound pulls in, packs, and stands as a small stone body with ore in the eyes. It is slow. It follows the boot.
+DRYAD (female): "The deep stone packs those when the ore is lonely. It is not awake. Do not talk to it like a man. Ore, not mushrooms. Mushrooms make the packing useless."
+HERO: "Not talking to it. Ore, then. It can walk behind me until it decides it is anything."
+VOICE: "It starts as packed dirt. It cannot be equipped until the body sets."
+Unlock: Earth golem joins as a newborn. No companion on this node.
+
+
+Mission 6, Node 7 — The centipede
+Scene: Undertrove (deep). Action: Crystal spines catch the cap-light. A long body is already on the rock.
+HERO: "Centipede on the rock. I will take the rock. I am not breaking those spines to make a shorter fight. I have heard what a ringing shelf does."
+Scene: Undertrove crystal centipede encounter. Action: He drives it off the path and leaves the crystal spines standing.
+SPRITE (female): "Break a spine and the whole shelf rings. Then everything hungry wakes up."
+HERO: "Spines stay. Hungry can stay asleep. I only needed the path, and I have it."
+No unlock.
+Mission 6, Node 8 — Lilia, first sight
+Scene: Undertrove (base scenery). Action: A fairy on a high cap, wings dim, arms folded. She has seen him. She does not come down. No pet in this picture.
+LILIA (neutral): "Guild stamp. They shed. You are shedding on my caps."
+HERO: "Then I will stand where the shed does not land. I need the deep path. Say the price. I am not going to guess it and insult you."
+LILIA (neutral): "Not a stamp. Come back when the pool is still clean."
+HERO: "The pool is clean. I went around it. Later, if that is the game. I am not kicking a shelf into her water to hurry you."
+LILIA (determined): "Later. Try not to become moss."
+HERO: "Working on it."
+No unlock.
+Mission 6, Node 9 — The dark fairy
+Scene: Undertrove (deep). Action: Crystals crowd the path. A hollow-eyed shape is already in the air.
+HERO: "Empty face, already diving. This is not a talk. Down, then the path. I am not offering it a name it can keep."
+Scene: Undertrove dark fairy encounter. Action: It dives. He clears it off the crystal path and does not follow it into the dark ceiling.
+SPRITE (female): "Not one of hers. Do not offer it a name. Names stick to those."
+HERO: "No name. It is off the path. I am not chasing it into the ceiling to finish a point."
+No unlock.
+Mission 6, Node 10 — The mantis
+Scene: Undertrove (base scenery). Action: The garden opens again. A green blade-arm is already raised over the water-glow.
+HERO: "Mantis over the wet. I am keeping this on dry stone. Her feed is not a fighting pit, and I am not explaining a stain."
+Scene: Undertrove mantis encounter. Action: He fights it on the dry stone and does not step into the pool.
+DRYAD (female): "Dry stone. If you bleed in my feed, we are finished."
+HERO: "Dry stone. Done. If any of me is in that water, it got there without my say."
+No unlock.
+Mission 6, Node 11 — The cap
+Scene: Undertrove (deep). Action: One cap is the wrong size, and it has legs.
+HERO: "That one has legs and a snarl. The standing caps do not. I am only cutting the one that walked into the path."
+Scene: Undertrove snarling mushroom encounter. Action: He drops the walking cap and does not cut the standing ones.
+SPRITE (female): "Bad cap. Good caps do not snarl. Simple system."
+HERO: "Simple system works. Bad cap is down. I am not starting a harvest because one of them had a mood."
+No unlock.
+Mission 6, Node 12 — Lilia
+Scene: Undertrove (base scenery). Action: She is on the path now, wings lit, still not offered. No pet in this picture. She does not know him.
+LILIA (neutral): "You left the eggs of this place alone. You left the veins. Most stamps take a cap to prove they were here."
+HERO: "I do not need a cap with my mark on it. The deep path is the job. Yes or no. I can walk it beside you, or I can walk it behind you. I am not walking it over you."
+LILIA (smiling): "Yes. I was going. You can be what the floor hits first."
+HERO: "Fine by me. I would rather it hit a man than a wing."
+LILIA (soft): "Lit stone. Stop when I stop. Do not name her pools."
+LILIA (blushing): "Road rule. Not a favour. Favours need sweets. You have none."
+HERO: "No sweets. Rule it is. I stop when you stop."
+Unlock: Lilia joins. No pet on this node.
+Mission 6, Node 13 — The briar
+Scene: Undertrove (deep). Action: The cleft ahead is full of thorn. A body made of it is already stepping out. This is not the woman from the pool.
+HERO: "Thorn-body, not the pool-woman. I cut the arms that reach. I do not pull the vine out of the floor. She was clear, and I am not testing her."
+Scene: Undertrove dryad encounter. Action: He breaks the briar body and does not take the living vine.
+DRYAD (female): "That one left my pool years ago. Stop it. Do not bring it back."
+HERO: "Stopped, and left in the cleft. I am not dragging it back to your water to make a show of it."
+LILIA (determined): "Good. She holds grudges in roots. Slow, and thorough."
+HERO: "Then we do not give her a new one."
+No unlock.
+Mission 6, Node 14 — The last cleft
+Scene: Undertrove (deep). Action: The tall caps thin toward a colder draft. The dark cleft is behind them.
+LILIA (neutral): "Past this, the stone remembers a cut. Do not call it a door yet."
+HERO: "Not a door. A cut, until I am standing in it. I have had roads charge me for a name I said too early."
+SPRITE (female): "Sweets, if you come back. Or do not come back. Both work."
+HERO: "If I come back, I will bring something better than a stamp. Not today."
+No unlock.
+Mission 6, Node 15 — The arch
+Scene: Undertrove (dimension gate entrance). Action: A stone arch stands in the mushrooms, runes lit, a second ring glowing inside it. Cold air comes through. No fight in this picture.
+LILIA (smiling): "There. The cut. Step in when you mean it. Doors stick if you hesitate."
+HERO: "I mean it. Hesitating is how the last roads learned my name. In."
+DRYAD (female): "Do not come back dripping into my feed. I will know."
+HERO: "If I come back dripping, it will not be into your pool. You have my word on the water. Not on the rest."
+No unlock. No restart. The Dimensional Gate is the next road.
+
+
+Chapter 7 is the Dimensional Gate. Fifteen nodes. Nothing resets at the end. The slave merchant is not here. Each picture has an Action under it. Speech is in quotation marks. Unlock means that one joins. No unlock means nobody joins.
+The Hero is blunt, and he says enough to be understood. Lilia is still with him. No living town voice comes through the cut. Sylvia does not know him. She has been in here since the last crusade against the demon lord.
+Mission 7, Node 1 — The cut
+Scene: Dimensional gate (base scenery). Action: He steps out of the mushroom arch onto bare rock. A rune gate stands under a black sun. Islands hang in a purple sky. Lightning walks the dark.
+LILIA (neutral): "Floor first. The islands drift. If one tilts, jump. Looking at the sky does not hold a boot."
+HERO: "Then pick me a rock that still has an edge. I need the far side, not a tour of the storm."
+LILIA (determined): "Skip the pretty ruins. Pretty sinks. Left island, the one with the broken pillar."
+HERO: "Left. If it tips, I am already moving."
+No unlock.
+Mission 7, Node 2 — Hounds
+Scene: Dimensional gate (interior). Action: The cracked plain opens. Purple light runs in the splits. Shapes are already on the near island, and they are not stone.
+HERO: "Pack on the next rock. I would rather meet them while they still have to cross."
+Scene: Dimensional gate phase hounds encounter. Action: The hounds phase onto his rock. He clears them and does not chase one off the edge.
+LILIA (determined): "They step out of the crack. Follow a blink and you do not come back to the same stone."
+HERO: "I saw where the last one went. I am not going after it. This island will do."
+No unlock.
+Mission 7, Node 3 — The specter
+Scene: Dimensional gate (interior). Action: Two ruins face each other across a gap. A man-shaped crack of light is already in the air between them.
+HERO: "If that is a guide, it is a bad one. I am crossing on the ruin, not on a hand."
+Scene: Dimensional gate rift specter encounter. Action: It dives. He breaks it over the gap and lands on the far ruin. He does not reach into the light it leaves.
+LILIA (neutral): "It wears a man so you wait. The gap keeps a waiting boot."
+HERO: "It nearly had me on the first reach. Far side is solid. Leave the light where it fell."
+No unlock.
+Mission 7, Node 4 — The cocoon
+Scene: Dimensional gate (interior). Action: Between two drifting rocks, a cocoon of pale energy hangs on nothing. It is not a fight. Sylvia is not here. He does not cut it.
+HERO: "Something half-made, hung on nothing. I am not cutting it to see what complains."
+Action: The cocoon loosens. A small rift-thing drifts to his pack and stays.
+LILIA (smiling): "Hatched in a gap. If it drifts at a hole, pull it back. Holes do not return luggage."
+HERO: "It picked the pack. I will haul it if it wanders. Better that than a drop."
+VOICE: "It starts unfinished. It cannot be equipped until the cocoon-work sets."
+Unlock: Rift anomaly joins as a newborn. No companion on this node.
+Mission 7, Node 5 — The serpent
+Scene: Dimensional gate (base scenery). Action: A broken pillar turns in the open dark. Something star-scaled is already wound around it.
+HERO: "That pillar is the crossing. The snake can keep the view."
+Scene: Dimensional gate astral serpent encounter. Action: He drives it off the pillar and does not follow it into the floating rubble.
+LILIA (determined): "Leave the coils. A cut scale off that thing pulls. I like my wings where I left them."
+HERO: "Was not planning to skin it. The island behind the pillar is what I came for."
+No unlock.
+Mission 7, Node 6 — The fold
+Scene: Dimensional gate (interior). Action: The plain folds wrong. A plated bulk with marked eyes is already pulling itself out of the bend.
+HERO: "The floor just folded. I want off it as soon as that thing is down."
+Scene: Dimensional gate fold horror encounter. Action: He breaks it out of the path and does not step into the space it folded.
+LILIA (neutral): "That bend does not lead forward. Step in and you come out where you started, short a day."
+HERO: "I felt it tug at the boot. We are done with this stretch."
+No unlock.
+Mission 7, Node 7 — Sylvia, first sight
+Scene: Dimensional gate (interior). Action: A broken colonnade on a small island. An elf in worn crusade gear stands with her back to a dead gate. She has seen him. She has not lowered the blade. No pet in this picture.
+SYLVIA (neutral): "Another stamp. The last crusade came through here after a demon lord. The cut closed on the rest of us. Rescue, or looter."
+HERO: "Crossing. I can get you to the far door if the path holds. I cannot bring the rest of them out."
+SYLVIA (determined): "Then do not dress it up. The sentinel on the next island is still live. I will not leave a guard at my back for a stranger."
+HERO: "I will take that island and come back here. Not through a different crack."
+No unlock.
+Mission 7, Node 8 — The sentinel
+Scene: Dimensional gate (interior). Action: A black-armoured spearman holds the next island. The cape does not move like cloth.
+HERO: "There is the guard she meant. I want the ground it is standing on."
+Scene: Dimensional gate sentinel encounter. Action: He breaks the sentinel and leaves the spear on the stone.
+LILIA (determined): "That spear still points after the hand is gone. I am not sharing a pack with a stare."
+HERO: "Leave it. She asked for the guard down. The spear was not part of the ask."
+No unlock.
+Mission 7, Node 9 — The shades
+Scene: Dimensional gate (base scenery). Action: A broken palace hangs ahead. White winged shapes circle it, too still to be birds.
+HERO: "Palace, and a flock that is not birds. I am going under it."
+Scene: Dimensional gate mirror shades encounter. Action: The shades dive. He clears a path under the palace and does not stop.
+LILIA (neutral): "They copy a pause. Keep walking and they get a bad copy."
+HERO: "One of them matched my shoulder. I am not giving it a second look."
+No unlock.
+Mission 7, Node 10 — The titan
+Scene: Dimensional gate (interior). Action: The cracks widen. A giant of broken plates rises out of the plain, arms already out.
+HERO: "Too big for the open split. I want a rock under me before those arms come down."
+Scene: Dimensional gate fracture titan encounter. Action: He drops it onto the plain and gets back to solid rock before the cracks close.
+LILIA (determined): "Those plates fall up as often as down. Do not stand under the win."
+HERO: "Already off it. Her island is still the point of this walk."
+No unlock.
+Mission 7, Node 11 — The long gap
+Scene: Dimensional gate (interior). Action: Islands thin out. The black sun is smaller. A line of broken pillars marks a crossing with no floor between them.
+LILIA (neutral): "Jump when the light hits the pillar, not when the gap looks narrow. Narrow lies."
+HERO: "The light just hit the third one. If I miss, take the next rock and shout. Do not come back through this gap."
+Action: He makes the crossing. The pillars hold.
+No unlock.
+Mission 7, Node 12 — Sylvia
+Scene: Dimensional gate (interior). Action: The same colonnade. The sentinel's island is empty behind him. She lowers the blade, not all the way. No pet in this picture.
+SYLVIA (neutral): "Guard is down. You came back on the same island. Most stamps do not."
+HERO: "Far door is still shut. I am going to it. Come, or stay and count them. I will not drag you."
+SYLVIA (smiling): "I have counted them. I walk. I do not take orders from a stamp."
+HERO: "Then tell me when the floor is lying. That is the only thing I need from you."
+SYLVIA (soft): "When I say stop, stop. A running man is what this place keeps."
+SYLVIA (blushing): "Road rule. Not a vow. Vows are how the last crusade got stuck."
+HERO: "I can follow a rule. A vow is how people get left in places like this."
+Unlock: Sylvia joins. No pet on this node.
+Mission 7, Node 13 — The last fold
+Scene: Dimensional gate (base scenery). Action: The rune arch is behind them. Ahead, the sky pinches. A plated shape is pulling out of the pinch.
+HERO: "The sky is pinching again. I want that thing down before it sits on the door."
+Scene: Dimensional gate fold horror encounter. Action: He breaks this one short of the exit rock.
+SYLVIA (determined): "Do not step into the crease. I watched a man arrive beside himself. Neither one was glad of it."
+HERO: "I can see the seam. We go around it."
+No unlock.
+Mission 7, Node 14 — The shut door
+Scene: Dimension gate (unstable exit). Action: A temple door stands on a cracked plain. Rings of script spin over it. The doors are shut. Fire licks the step. No fight in this picture.
+SYLVIA (neutral): "It throws you if you shove, and it sticks if you wait. Hand on the plate when the ring passes the lintel."
+HERO: "The ring is still high. I will wait for the pass. I did not walk the islands to be thrown back at the start."
+LILIA (smiling): "I will be off the step. I do not argue with doors."
+HERO: "Stay off it. If it sticks, I would rather one of us still outside."
+No unlock.
+Mission 7, Node 15 — Through
+Scene: Dimension gate (unstable exit). Action: The ring passes the lintel. He sets his hand on the plate. The doors give. Cold, real air comes through, with snow on it.
+SYLVIA (soft): "Snow. The throne road was a mountain, if the old maps held. Maps lie. Cold does not."
+HERO: "Then we follow the cold. I am not standing in the frame while it changes its mind."
+LILIA (neutral): "Frames are where this place takes people back."
+HERO: "Then we are out of the frame. Mountain next."
+No unlock. No restart. The Snowy Mountains are the next road.
+
+
+Chapter 8 is the Snowy Mountains. Fifteen nodes. Nothing resets at the end. The slave merchant is not here. The throne at the top is empty. The demon lord is not in this chapter. Each picture has an Action under it. Speech is in quotation marks. Unlock means that one joins. No unlock means nobody joins.
+The Hero answers. He does not repeat the last line back.
+Mission 8, Node 1 — The foot
+Scene: Snowy mountains (base scenery). Action: Cold air from the cut becomes a real wind. The range sits over the cloud. A track marks the lower slope, half buried.
+SYLVIA (neutral): "Throne road. I walked the lower switchbacks with the crusade. The upper ones were already closed when we turned back."
+HERO: "Then we stay on your switchbacks until they run out. I would rather a bad track than a fresh line up a face I cannot read."
+LILIA (neutral): "The wind lies in the cols. I am not flying until it stops doing that."
+HERO: "Stay in the pack. I will tell you when the air is worth the risk."
+No unlock.
+Mission 8, Node 2 — The smith
+Scene: Snowy mountain (clear). Action: A stone shed sits against the first ridge. A dwarf is working a joint of iron and chain by a dead forge. He does not look up until the shadow hits his work.
+DWARF (male): "Guild stamp or mountain stamp, you are still blocking my light. I built a walker for the shaft contracts. It will not take my hand. Give it armour with a mark it can read, and it is yours. I am done feeding it coal."
+HERO: "I have a spare plate in the pack with a crest still on it. If a mark is all it needs, take the plate. I need the shafts more than a second chest."
+DWARF (male): "Crest is fine. Do not talk to it. It answers with the wrong limb."
+Action: He sets the plate on the frame. The mechanism stands, chain-legged, and waits at the Hero's heel.
+HERO: "It can walk. That is all I asked of it."
+Unlock: Dwarven mechanism joins as a mount. No pet and no companion on this node.
+Mission 8, Node 3 — Spiders
+Scene: Snowy mountain (clear). Action: The track hits an ice wall. Shapes are already moving on the lip.
+HERO: "Company on the wall. I want the top, not a tour of the cracks."
+Scene: Snowy mountains frost spiders encounter. Action: The spiders drop. He clears the lip and does not follow one into a fissure.
+SYLVIA (determined): "They den in the blue ice. A crack is a room we do not need."
+HERO: "I saw the first one vanish into the seam. The lip is enough."
+No unlock.
+Mission 8, Node 4 — The bear
+Scene: Snowy mountains (base scenery). Action: The ridge opens onto a bowl of snow. Something large has already broken the crust.
+HERO: "The bowl is taken. Better here than on the next corner, where I cannot see the charge."
+Scene: Snowy mountains frostbear encounter. Action: The spiked bear charges. He turns it and leaves the bowl by the high side.
+LILIA (determined): "Those spines throw when it shakes. Do not stand in the line of one."
+HERO: "One went past my ear. High side. The bowl can keep the rest."
+No unlock.
+Mission 8, Node 5 — The fox
+Scene: Snowy mountain (sunrise). Action: Pink light on the snow. Two sets of tracks, then a third, small, ending at a kit half-buried by a drift. It is not a fight. Sylvia is only a voice off the rise.
+HERO: "Kit in the drift. Still breathing. I am not leaving it for whatever made the big tracks."
+Action: He digs it out. It bites his glove once, then stays against the boot.
+SYLVIA (soft): "Mountain fox. They follow a kill, or a hand that fed them. You just became the second one."
+HERO: "It bit me, so it is honest. It can follow until it decides otherwise."
+VOICE: "It starts young. It cannot be equipped until it can hold the pace."
+Unlock: Snow fox joins as a newborn. No companion and no mount on this node.
+Mission 8, Node 6 — The cairn
+Scene: Snowy mountains (blizzard). Action: The wind closes the view. A pile of stone in the pass is standing up.
+HERO: "The cairn just grew arms. I want the pass, not a piece of it in my pack."
+Scene: Snowy mountains cairn horror encounter. Action: He breaks the cairn-thing back into the rocks and does not take a skull from the pile.
+SPIRIT: "Climbers stacked those. The stack learned the shape of a man. Leave the stones as stones."
+HERO: "They are a pile again. I have no use for a skull on a climb."
+No unlock.
+Mission 8, Node 7 — The shade
+Scene: Snowy mountains (blizzard). Action: The white-out thins for a moment. A ragged figure is already reaching from the rock.
+HERO: "Something in the blow is offering a hand. I do not want it."
+Scene: Snowy mountains blizzard shade encounter. Action: He cuts it off the rock. The wind takes what is left.
+SPIRIT: "A guide who froze. It still points the wrong way."
+HERO: "The chain-marks from the walker are still in the snow. I am following those, not a dead finger."
+No unlock.
+Mission 8, Node 8 — The beast
+Scene: Snowy mountain (clear). Action: Below the next face, a great animal lies in a snow-scrape, flank open, breath loud. It is not attacking. No fox in this picture. He does not raise the blade.
+HERO: "Down, and open along the side. If I walk past, the next thing up this face finishes it. I can close the wound."
+Action: He packs the flank with cloth and snow-clean hide. The beast gets up, slow, and puts itself on the steep side of the track.
+SYLVIA (smiling): "Old climber. The crusade used their kind on the high shelves. It will take the outside edge if you let it."
+HERO: "Outside edge is yours. I will take the wall. Try not to throw me if the shelf goes."
+Unlock: Ancient beast joins as a mount. No pet and no companion on this node.
+Mission 8, Node 9 — The wraith
+Scene: Snowy mountain (clear). Action: A shelf of ice crosses a drop. A spear of rime is already coming along it.
+HERO: "Spearman on the only shelf. I need the far anchor."
+Scene: Snowy mountain rime wraith encounter. Action: He breaks the wraith on the shelf and leaves the ice spear where it falls.
+SYLVIA (determined): "Rime spears root if you carry them. I watched a squire plant one by a fire. The fire lost."
+HERO: "Then it stays where it broke. The anchor is what I came across for."
+No unlock.
+Mission 8, Node 10 — The basilisk
+Scene: Snowy mountain (clear). Action: The high slope is torn up. A spiked lizard has the track in its mouth-line.
+HERO: "It has the line. Going around means the cornice, and I do not trust snow that hangs."
+Scene: Snowy mountains peak basilisk encounter. Action: He drives it off the track and does not follow it onto the overhang.
+LILIA (determined): "That overhang is snow pretending. Let it have the drop."
+HERO: "It can keep the pretend part. The track is open."
+No unlock.
+Mission 8, Node 11 — The col
+Scene: Snowy mountains (blizzard). Action: The pass narrows. Wind takes the sound out of speech. The ancient beast holds the outside edge. Chain-marks from the mechanism show in the brief clear.
+SYLVIA (neutral): "Rope on the beast, not on me. If the edge goes, I would rather cut a rope than a wrist."
+HERO: "Rope on the beast. You call the steps. I cannot hear the drop over this."
+SPIRIT: "Above the throat, the air belongs to the winged ice. It does not share a peak."
+HERO: "Then we meet it where the ground is wide enough to matter."
+No unlock.
+Mission 8, Node 12 — The dragon
+Scene: Snowy mountain (clear). Action: The throat opens. A peak stands clear. Ice wings are already in the blow above it.
+HERO: "Wide ground at last. I want that thing down before it owns the ridge."
+Scene: Snowy mountain frost dragon encounter. Action: The dragon comes off the peak. He brings it onto the snow and does not follow it back into the sky.
+SYLVIA (determined): "Leave the climb. A wing from that thing remembers the hand that cut it."
+HERO: "No wing. The ridge is clear, and the chair is still above us."
+No unlock.
+Mission 8, Node 13 — The last rise
+Scene: Snowy mountain (sunrise). Action: The wind drops. Pink light hits the final face. A cut stair, old and formal, shows under the snow.
+LILIA (smiling): "Stairs. Someone wanted the last of this to look like a procession."
+HERO: "I will take a stair over another shelf. Sylvia, is this the part your maps stopped agreeing on?"
+SYLVIA (soft): "Yes. The chair should be at the top. If anything is in it, we do not sit."
+HERO: "I did not climb this to take a seat. I want to see what the road was for."
+No unlock.
+Mission 8, Node 14 — The chair
+Scene: Story ending scene. Action: The stair ends on a broken terrace. A pillar. A sunset over the whole range. The throne is a cracked seat with no one in it. No fight in this picture.
+SYLVIA (neutral): "Empty. We were told a lord would be here, or a seal. I have a view and a broken chair."
+HERO: "Empty is still an answer. I am not going to invent a fight so the climb feels finished."
+LILIA (neutral): "There is a crack under the seat. Cold, and not mountain cold. Not with this light going."
+HERO: "Later. I want the Guild stamp on this terrace before anyone calls it done."
+No unlock.
+Mission 8, Node 15 — The overlook
+Scene: Story ending scene. Action: He stands at the pillar. The sun sits on the far ranges. The beast is at the outside edge. The fox is at the boot. The crack under the throne stays shut.
+SPIRIT: "The chair waits. What sits it later will not be the mountain. Remember the road down. Most do not."
+HERO: "I have the road. Empty chair, shut crack, stamp in the pack. That is the job."
+SYLVIA (smiling): "The crusade used to say the same thing on the night before a gate closed."
+HERO: "Then we walk down while the light still shows the track. I am not sleeping up here."
+No unlock. No restart. The main road ends here. The crack under the throne stays for the hidden work.
