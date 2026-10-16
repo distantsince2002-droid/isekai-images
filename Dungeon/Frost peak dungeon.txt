@@ -1,0 +1,68 @@
+﻿Hollow Glacier
+Rank B required. Five floors. No NPCs except the Hero and any companions present. Each encounter offers four choices. Only one is correct. Wrong choices fail the floor and force a restart of that floor. The Hero does not answer every line. Some floors may only offer direction.
+Floor 1
+Scene: Frozen peak dungeon exterior.
+Action: The ice arch stands under the mountain. The Hero steps through. No fight in this picture.
+HERO: “Rank B. The arch is open. The ice is already moving.”
+Scene: Frozen peak dungeon interior.
+Action: Crystal pillars and hanging ice fill the first hall. An undead bear of ice and bone is already low on the path.
+Scene: Frozen peak dungeon bear carcass.
+Action: The bear charges.
+Choices:
+1. Stand and meet the charge head-on. (Fail — the ice spikes break the guard.)
+2. Sidestep and cut the cracked ribs on its left side. (Correct — the bear collapses.)
+3. Throw a loose crystal at its glowing eyes. (Fail — the crystal shatters and the bear keeps coming.)
+4. Back into the nearest ice pillar and hope it cannot turn. (Fail — it turns.)
+HERO: “Ribs are open. It is down. Stay off the ice.”
+Floor 2
+Scene: Frozen peak dungeon interior.
+Action: The hall opens. A glacial harpy is already circling the high ice.
+Scene: Frozen peak dungeon glacial harpy.
+Action: The harpy dives.
+Choices:
+1. Raise both arms and try to catch the dive. (Fail — the claws punch through.)
+2. Drop and roll, cutting the wing joint as it passes. (Correct — the harpy crashes into the ice.)
+3. Hide behind a crystal pillar. (Fail — it smashes the pillar and keeps coming.)
+4. Shout and wave a torch. (Fail — the light only gives it a clearer target.)
+HERO: “Wing is cut. It is not flying again.”
+Floor 3
+Scene: Frozen peak dungeon interior.
+Action: The path splits. A frost mammoth is already walking the wider path. No fight yet.
+HERO: “The path splits. Left is narrow. Right has the mammoth. The ice is thinner on the left.”
+Choices:
+1. Take the left path. (Correct — the mammoth cannot follow the narrow stone.)
+2. Take the right path and face the mammoth. (Fail — the tusks close the space.)
+3. Turn back to the last hall. (Fail — the ice has already sealed the way.)
+4. Wait for the mammoth to pass. (Fail — it does not pass.)
+HERO: “Left. The stone holds.”
+Scene: Frozen peak dungeon frost mammoth.
+Action: The mammoth turns and charges the narrow path anyway.
+Choices:
+1. Stand in the path and try to stop the charge. (Fail — the weight breaks the stance.)
+2. Slip to the side and cut the front leg at the joint. (Correct — the mammoth drops.)
+3. Climb the nearest ice pillar. (Fail — the pillar shatters under the weight.)
+4. Throw a crystal at its eyes. (Fail — it does not flinch.)
+HERO: “Leg is gone. It is down.”
+Floor 4
+Scene: Frozen peak dungeon interior.
+Action: A rime wight in ice armour is already standing on the steps ahead.
+Scene: Frozen peak dungeon rime wight.
+Action: The wight raises the ice sword.
+Choices:
+1. Block the sword with both hands. (Fail — the ice edge bites through.)
+2. Step inside the swing and cut the glowing chest. (Correct — the wight unravels.)
+3. Drop into the nearest ice crack. (Fail — the wight follows.)
+4. Smash a hanging icicle onto it. (Fail — the icicle falls short.)
+HERO: “Chest is open. The armour is falling.”
+Floor 5
+Scene: Frozen peak dungeon interior.
+Action: The final chamber. A hollow glacier serpent of ice and light is already coiled in the centre.
+Scene: Frozen peak dungeon Boss hollow glacier.
+Action: The serpent rises.
+Choices:
+1. Cut the glowing scales along the neck one by one. (Correct — the ice unravels and the serpent collapses.)
+2. Attack only the coils near the floor. (Fail — the head strikes while the body stays solid.)
+3. Climb a crystal pillar and drop onto its back. (Fail — the pillar shatters and the serpent turns.)
+4. Run for the far arch. (Fail — the coils close the path.)
+HERO: “The scales are cut. The ice is falling. The glacier is quiet.”
+No unlock. The entrance is open again.

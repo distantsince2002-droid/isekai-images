@@ -1,0 +1,133 @@
+﻿Sealed Throne
+Rank S+ required. Eight floors. No NPCs except the Hero and any companions present. Each encounter offers four choices. Only one is correct. Wrong choices fail the floor and force a restart of that floor. The Hero does not answer every line. Some floors may only offer direction. Boss fights use multiple sequential choice sets. Defeating the sealed demon lord unlocks the true-ending mission in the main story. Sylvia is present.
+Floor 1
+Scene: World throne dungeon entrance.
+Action: The snow-covered gate stands in the mountain. The Hero steps through. No fight in this picture.
+HERO: “Rank S+. The gate is open. The cold is already moving.”
+SYLVIA (neutral): “The seal is older than the mountain. Do not touch the red marks.”
+Scene: World throne dungeon internal chamber.
+Action: The cracked altar hall. A demon troll is already standing on the far side.
+SYLVIA (determined): “Its knee is already cracked. Do not meet the club.”
+Scene: Demon troll.
+Action: The troll raises the club.
+Choices:
+1. Block the club with both hands. (Fail — the weight breaks the guard.)
+2. Sidestep and cut the cracked knee on its left leg. (Correct — the troll drops.)
+3. Throw a loose stone at its face. (Fail — it does not flinch.)
+4. Run for the far arch. (Fail — the club reaches farther.)
+HERO: “Knee is open. It is down.”
+SYLVIA (soft): “The stone is still moving. Keep walking.”
+Floor 2
+Scene: World throne dungeon internal hall.
+Action: The hall of carved pillars. A pack of demonic fiends is already charging.
+SYLVIA (surprised): “They move as one. Do not stop for the first.”
+Scene: Pack of demonic fiends.
+Action: The pack lunges.
+Choices:
+1. Stand and swing at the first fiend. (Fail — the rest close while the blade is high.)
+2. Drop low and cut through the centre of the pack. (Correct — the leading fiends fall and the rest scatter.)
+3. Climb a pillar. (Fail — the pack reaches higher.)
+4. Run back to the last chamber. (Fail — the way has already closed.)
+HERO: “They are down. Keep to the centre.”
+SYLVIA (neutral): “The pillars are not safe. Stay in the open.”
+Floor 3
+Scene: World throne dungeon internal pit.
+Action: The icy pit and hanging chains. An icebound beast is already on the near ledge.
+SYLVIA (sad): “The ice is part of it. Do not stand in front of the horns.”
+Scene: Icebound beast.
+Action: The beast charges.
+Choices:
+1. Meet the charge head-on. (Fail — the ice spikes break the stance.)
+2. Sidestep and cut the glowing cracks along its shoulder. (Correct — the beast collapses.)
+3. Jump to a hanging chain. (Fail — the chain snaps and the beast follows.)
+4. Throw ice at its eyes. (Fail — it does not flinch.)
+HERO: “Shoulder is open. It is down.”
+SYLVIA (soft): “The chains are still. We can cross.”
+Floor 4
+Scene: World throne dungeon internal hall.
+Action: A temple gargoyle is already perched on a broken arch.
+SYLVIA (determined): “It is not stone. Do not raise anything it can land on.”
+Scene: Temple gargoyle.
+Action: The gargoyle dives.
+Choices:
+1. Raise both arms and try to catch the dive. (Fail — the claws punch through.)
+2. Drop and roll, cutting the wing joint as it passes. (Correct — the gargoyle crashes.)
+3. Hide under the arch. (Fail — it smashes the arch.)
+4. Run across the hall. (Fail — it is faster in the air.)
+HERO: “Wing is cut. It is down.”
+SYLVIA (smiling): “You did not raise the blade. Good.”
+Floor 5
+Scene: World throne dungeon internal chamber.
+Action: A fallen angel is already standing in the centre of the hall.
+SYLVIA (sad): “The wound on its chest is the only soft point. Everything else is sealed.”
+Scene: Fallen angel.
+Action: The angel spreads its wings.
+Choices:
+1. Meet the wings head-on. (Fail — the dark edges cut through.)
+2. Step inside the reach and cut the glowing wound on its chest. (Correct — the angel unravels.)
+3. Climb a pillar. (Fail — the wings reach farther.)
+4. Run for the far door. (Fail — the wings close the path.)
+HERO: “Chest is open. It is down.”
+SYLVIA (neutral): “The seal is weaker here. Stay close.”
+Floor 6
+Scene: World throne dungeon internal pit.
+Action: The path splits around the pit. No fight yet.
+HERO: “Left looks solid. Right has more chains. The ice is thinner on the left.”
+SYLVIA (determined): “The left is dry. The right will not hold.”
+Choices:
+1. Take the left path. (Correct — the chains do not reach the dry stone.)
+2. Take the right path. (Fail — the chains close while you cross.)
+3. Jump the pit. (Fail — the gap is wider than it looks.)
+4. Wait for the ice to settle. (Fail — it does not settle.)
+HERO: “Left. The stone holds.”
+SYLVIA (soft): “You chose well.”
+Floor 7
+Scene: World throne dungeon internal hall.
+Action: Another pack of demonic fiends is already in the hall. Repeat encounter.
+SYLVIA (surprised): “Again. They do not stop.”
+Scene: Pack of demonic fiends.
+Action: The pack charges again.
+Choices:
+1. Stand and meet the first wave. (Fail — the second wave closes the gap.)
+2. Cut the leading pair and keep moving through the centre. (Correct — the pack breaks.)
+3. Hide behind a pillar. (Fail — they pull the pillar down.)
+4. Run for the far door. (Fail — they are faster on the open floor.)
+HERO: “They are down. The last hall is open.”
+SYLVIA (determined): “The seal is ahead. Do not slow now.”
+Floor 8 (ending)
+Scene: World throne dungeon internal chamber.
+Action: The final chamber. The sealed demon lord is already rising, chains breaking.
+SYLVIA (sad): “The chains are failing. It was never meant to wake.”
+Scene: Sealed demon lord.
+Action: The demon lord lunges. First set of choices.
+Choices:
+1. Meet the arms head-on. (Fail — the weight and chains break the stance.)
+2. Sidestep and cut the glowing cracks along the leading arm. (Correct — the arm drops and the lord turns slower.)
+3. Climb a pillar. (Fail — the chains pull the pillar down.)
+4. Run for the far arch. (Fail — the arms close the path.)
+HERO: “Arm is open. It is turning.”
+SYLVIA (determined): “The cracks are the only weakness. Keep cutting them.”
+Action: The demon lord rears, chains whipping. Second set of choices.
+Choices:
+1. Block the chains with both hands. (Fail — the force drives you back.)
+2. Drop low and cut the glowing cracks on the chest while the arms are high. (Correct — the cracks widen and the chains weaken.)
+3. Throw a stone at its face. (Fail — it does not flinch.)
+4. Dive into a crack in the floor. (Fail — the chains follow.)
+HERO: “Chest is open. The chains are falling.”
+SYLVIA (soft): “You are almost through. Do not stop.”
+Action: The demon lord collapses forward, still thrashing. Third set of choices.
+Choices:
+1. Attack the remaining arms. (Fail — the thrashing claws catch the blade.)
+2. Cut the last glowing cracks along the spine. (Correct — the body unravels and the demon lord falls still.)
+3. Climb onto its back. (Fail — the remaining heat and chains burn through.)
+4. Step back and wait. (Fail — the thrashing closes the space.)
+HERO: “The last cracks are cut. The chains are gone. The seal is broken.”
+SYLVIA (sad): “It is free. We have to finish this outside.”
+Unlock: The sealed demon lord is defeated. A new mission appears in the main story. The true ending is now available.
+Scene: World throne dungeon internal pit.
+Action: The Hero and Sylvia turn to leave. At the bottom of the pit, half-buried under broken chains and ice, a large scaled form shifts. The Primordial Beast lifts its head, eyes open, and steps free of the rubble. It does not attack. It looks at the Hero and remains.
+HERO: “It was under the seal the whole time.”
+SYLVIA (surprised): “It is awake. It is not leaving.”
+Action: The Primordial Beast walks to the Hero’s side and lowers its head. The path back to the entrance is open.
+Unlock: Primordial Beast is unlocked and available as a mount. It must be equipped to begin the true-ending mission.
+No further unlock. The entrance is open again.

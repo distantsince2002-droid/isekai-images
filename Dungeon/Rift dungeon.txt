@@ -1,0 +1,79 @@
+﻿Abyss Rift
+Rank A required. Six floors. No NPCs except the Hero and any companions present. Each encounter offers four choices. Only one is correct. Wrong choices fail the floor and force a restart of that floor. The Hero does not answer every line. Some floors may only offer direction.
+Floor 1
+Scene: Rift dungeon exterior.
+Action: The rune arch stands before the swirling rift. The Hero steps through. No fight in this picture.
+HERO: “Rank A. The arch is open. The rift is already pulling.”
+Scene: Rift dungeon interior.
+Action: Floating stones and purple light fill the first hall. A prism crawler is already on the bridge.
+Scene: Rift dungeon prism crawler.
+Action: The crawler lunges.
+Choices:
+1. Stand and block the front legs. (Fail — the crystal edges cut through.)
+2. Slip left and cut the joint behind the leading leg. (Correct — the crawler drops.)
+3. Throw a loose stone at its glowing eye. (Fail — the stone bounces and the crawler charges.)
+4. Run back through the arch. (Fail — the rift pulls harder than the retreat.)
+HERO: “Joint is open. It is down. Stay off the edge.”
+Floor 2
+Scene: Rift dungeon interior.
+Action: The path splits around a floating stone. A fold beast is already low on the right.
+HERO: “Left path looks solid. Right has the beast. The stones are moving.”
+Choices:
+1. Take the left path. (Correct — the beast cannot follow the narrow stone.)
+2. Take the right path. (Fail — the beast closes the gap.)
+3. Jump to a floating stone. (Fail — the stone drifts and the beast follows.)
+4. Wait for the beast to pass. (Fail — it does not pass.)
+HERO: “Left. The stone holds.”
+Scene: Rift dungeon fold beast.
+Action: The beast turns and charges the left path anyway.
+Choices:
+1. Meet the charge head-on. (Fail — the weight breaks the stance.)
+2. Sidestep and cut the shoulder where the plates are cracked. (Correct — the beast drops.)
+3. Climb a floating stone. (Fail — the stone tips and the beast pulls you down.)
+4. Throw a crystal at its eyes. (Fail — it does not flinch.)
+HERO: “Shoulder is open. It is down.”
+Floor 3
+Scene: Rift dungeon interior.
+Action: A stalker is already moving between the floating islands ahead.
+Scene: Rift dungeon stalker.
+Action: The stalker lunges.
+Choices:
+1. Raise both arms and try to catch the claws. (Fail — the claws punch through.)
+2. Drop and roll, cutting the arm joint as it passes. (Correct — the stalker crashes.)
+3. Hide behind a floating pillar. (Fail — it smashes the pillar.)
+4. Jump to another island. (Fail — it follows and the gap closes.)
+HERO: “Arm is cut. It is not moving again.”
+Floor 4
+Scene: Rift dungeon interior.
+Action: A void leech is already circling a floating platform.
+Scene: Rift dungeon void leech.
+Action: The leech dives.
+Choices:
+1. Stand on the platform and wait. (Fail — the mouth closes on the stone.)
+2. Step off the platform and cut the fin as it passes. (Correct — the leech drops.)
+3. Throw a stone into the rift. (Fail — the rift only pulls harder.)
+4. Climb the nearest pillar. (Fail — the leech reaches farther.)
+HERO: “Fin is cut. It is down.”
+Floor 5
+Scene: Rift dungeon interior.
+Action: A gargoyle of rift-stone is already perched on a broken arch.
+Scene: Rift dungeon gargoyle.
+Action: The gargoyle dives.
+Choices:
+1. Block the dive with a shield. (Fail — the stone breaks the rim.)
+2. Roll under and cut the wing joint. (Correct — the gargoyle crashes.)
+3. Hide under the arch. (Fail — it smashes the arch.)
+4. Run across the bridge. (Fail — it is faster in the air.)
+HERO: “Wing is open. It is down.”
+Floor 6
+Scene: Rift dungeon interior.
+Action: The final platform. The abyss lord rises, tentacles already moving.
+Scene: Rift dungeon Boss abyss lord.
+Action: The lord lunges.
+Choices:
+1. Cut the glowing runes on the tentacles one by one. (Correct — the body collapses when the last rune is severed.)
+2. Attack only the central mass. (Fail — the tentacles close while the centre stays solid.)
+3. Jump to a floating stone and wait. (Fail — the tentacles pull the stone down.)
+4. Run for the far arch. (Fail — the tentacles close the path.)
+HERO: “The runes are cut. The tentacles are falling. The rift is quiet.”
+No unlock. The entrance is open again.

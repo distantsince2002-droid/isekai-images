@@ -1,0 +1,78 @@
+﻿Rank D required. Three floors. No NPCs except the Hero and any companions present. Each encounter offers four choices. Only one is correct. Wrong choices fail the floor and force a restart of that floor. The Hero does not answer every line.
+Floor 1
+Scene: Forest dungeon exterior.
+Action: The rune-lit arch stands between the trees. The Hero steps through. No fight in this picture.
+HERO: “Rank D stamp is enough. The arch is open. Stay on the path.”
+ELOWEN (neutral): “The runes are old. They keep the deeper growth back. Do not touch them.”
+Scene: Forest dungeon interior.
+Action: Glowing mushrooms and a shallow stream fill the first hall. A fern-covered wolf is already low on the path ahead.
+ELOWEN (determined): “It is part of the floor now. Do not give it room to circle.”
+Scene: Forest dungeon fern shade wolf.
+Action: The wolf lunges.
+Choices:
+1. Turn and sprint for the arch. (Fail — the wolf closes the gap in three strides.)
+2. Drop low and drive the blade up under the jaw as it lands. (Correct — the wolf drops.)
+3. Kick the nearest glowing mushroom into its face. (Fail — the light only blinds you.)
+4. Stand still and wait for it to circle. (Fail — it does not circle.)
+HERO: “Down. Next hall.”
+ELOWEN (soft): “The ferns are already closing over it. Keep walking.”
+Floor 2
+Scene: Forest dungeon interior.
+Action: The stream continues. A coiled serpent blocks the far steps, scales lit green.
+ELOWEN (neutral): “The glow is in the eyes and the spine. Do not look at either for long.”
+Scene: Forest dungeon grove serpent.
+Action: The serpent rises.
+Choices:
+1. Step wide and cut the thickest part of the coil where it meets the stone. (Correct — the head cannot turn in time.)
+2. Stare into the eyes and hold the blade ready. (Fail — the glow locks the arms.)
+3. Splash the stream at its open mouth. (Fail — it lunges through the water.)
+4. Back up the steps and hope the coil cannot follow. (Fail — it uncoils faster than the retreat.)
+HERO: “Clear. Keep moving.”
+ELOWEN (smiling): “You did not look. Good.”
+Scene: Forest dungeon interior.
+Action: A beetle the size of a horse scrapes out of the moss between two pillars.
+ELOWEN (determined): “The horns are the only soft point. Everything else is bark.”
+Scene: Forest dungeon mosslight beetle.
+Action: The beetle charges, horns glowing.
+Choices:
+1. Plant both feet and try to catch the horns. (Fail — the charge drives you back into the stream.)
+2. Sidestep and slice the soft joint behind the leading leg. (Correct — the beetle collapses.)
+3. Throw a loose stone at the glowing eyes. (Fail — the stone bounces off the shell.)
+4. Lie flat in the moss and wait for it to pass. (Fail — it senses the weight and turns.)
+HERO: “Joint is open. It is down.”
+Floor 3
+Scene: Forest dungeon interior.
+Action: The hall opens. A bloom the size of a cart has grown over the path, petals dripping.
+ELOWEN (sad): “The acid is in the petals. Do not cut those first.”
+Scene: Forest dungeon bloom horror.
+Action: The bloom lurches forward.
+Choices:
+1. Slash the dripping outer petals to clear a path. (Fail — the acid eats the blade and the hand.)
+2. Drive the point straight into the cluster of green orbs at the centre. (Correct — the bloom folds.)
+3. Sprint past on the left where the vines look thinner. (Fail — the vines whip out and catch the ankle.)
+4. Scoop stream water and throw it at the core. (Fail — the water only makes the petals swell.)
+HERO: “Core is out. The petals are falling.”
+Scene: Forest dungeon interior.
+Action: An owl of stone and moss drops from the canopy, claws open.
+ELOWEN (surprised): “It is not a bird. Do not raise anything it can land on.”
+Scene: Forest dungeon canopy owl.
+Action: The owl dives.
+Choices:
+1. Lift the shield and brace for the impact. (Fail — the claws punch through the rim.)
+2. Drop and roll, cutting upward into the wing joint as it passes. (Correct — the owl crashes into the stream.)
+3. Press against the nearest standing stone and stay still. (Fail — it smashes the stone and keeps coming.)
+4. Wave the torch in a wide arc and shout. (Fail — the light only gives it a clearer target.)
+HERO: “Wing is cut. It is not flying again.”
+Scene: Forest dungeon interior.
+Action: The final chamber. A thorned giant of roots and glowing runes stands in the stream.
+ELOWEN (determined): “The runes on the chest hold it together. Cut those and the rest falls.”
+Scene: Forest dungeon Boss thornroot sovereign.
+Action: The sovereign rises.
+Choices:
+1. Cut each glowing rune on the chest in order, starting from the top. (Correct — the roots unravel and the giant collapses.)
+2. Hack only at the thickest roots near the waterline. (Fail — the arms close while the legs stay planted.)
+3. Circle behind and try to sever the spine of roots. (Fail — the back is thicker than the front.)
+4. Sprint for the far arch and hope the roots are slow. (Fail — a root slams the arch shut.)
+HERO: “The runes are gone. The roots are falling.”
+ELOWEN (soft): “The hollow is quiet. We can leave.”
+No unlock. The entrance is open again.

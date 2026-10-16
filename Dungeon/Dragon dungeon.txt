@@ -1,0 +1,103 @@
+﻿Infernal Crown
+Rank S required. Seven floors. No NPCs except the Hero and any companions present. Each encounter offers four choices. Only one is correct. Wrong choices fail the floor and force a restart of that floor. The Hero does not answer every line. Some floors may only offer direction. Boss fights now use multiple sequential choice sets. All must be answered correctly in order.
+Floor 1
+Scene: Dragon dungeon exterior.
+Action: The dragon-skull gate stands between the lava falls. The Hero steps through. No fight in this picture.
+HERO: “Rank S. The gate is open. The heat is already rising.”
+Scene: Dragon dungeon interior.
+Action: Broken pillars and lava streams fill the first hall. Ash bats are already circling the ceiling.
+Scene: Dragon dungeon ash bats.
+Action: The bats dive.
+Choices:
+1. Stand and swing at the first bat. (Fail — the swarm closes while the blade is high.)
+2. Drop low and cut through the centre of the swarm as it passes. (Correct — the bats scatter and fall.)
+3. Throw a loose stone into the swarm. (Fail — the stone does nothing and the bats dive harder.)
+4. Run for the far arch. (Fail — the swarm is faster in the open air.)
+HERO: “They are down. Stay off the lava.”
+Floor 2
+Scene: Dragon dungeon interior.
+Action: The path splits around a fallen pillar. Fire spirits are already rising from the lava on the right.
+HERO: “Left looks solid. Right has the spirits. The lava is moving.”
+Choices:
+1. Take the left path. (Correct — the spirits cannot cross the dry stone quickly.)
+2. Take the right path. (Fail — the spirits close the gap.)
+3. Jump the lava stream. (Fail — the heat pulls harder than the jump.)
+4. Wait for the spirits to pass. (Fail — they do not pass.)
+HERO: “Left. The stone holds.”
+Scene: Dragon dungeon fire spirits.
+Action: The spirits turn and follow the left path.
+Choices:
+1. Meet the largest spirit head-on. (Fail — the flame burns through the guard.)
+2. Sidestep and cut the core of the leading spirit. (Correct — the spirits collapse.)
+3. Throw water from a canteen. (Fail — the water only steams and the spirits keep coming.)
+4. Climb a broken pillar. (Fail — the heat reaches higher than the climb.)
+HERO: “Core is out. They are down.”
+Floor 3
+Scene: Dragon dungeon interior.
+Action: A magma wyrm is already rising from a lava pool ahead.
+Scene: Dragon dungeon magma wyrm.
+Action: The wyrm lunges.
+Choices:
+1. Stand and block the head. (Fail — the heat and weight break the stance.)
+2. Step wide and cut the glowing cracks along the neck. (Correct — the wyrm drops.)
+3. Dive into the nearest dry crack. (Fail — the wyrm follows.)
+4. Throw a stone at its eyes. (Fail — it does not flinch.)
+HERO: “Neck is open. It is down.”
+Floor 4
+Scene: Dragon dungeon interior.
+Action: Two stone sentinels are already standing on the steps.
+Scene: Dragon dungeon sentinels.
+Action: The sentinels advance.
+Choices:
+1. Meet both spears at once. (Fail — the second spear finds the opening.)
+2. Slip between them and cut the knee of the left one first. (Correct — the left drops and the right cannot turn in time.)
+3. Climb the steps and hope the height helps. (Fail — the spears reach farther.)
+4. Smash a pillar onto them. (Fail — the pillar falls short.)
+HERO: “Left knee is gone. The right is down with it.”
+Floor 5
+Scene: Dragon dungeon interior.
+Action: An undead dragon priest is already rising from the rubble.
+Scene: Dragon dungeon undead dragon priest.
+Action: The priest raises the staff.
+Choices:
+1. Block the staff with both hands. (Fail — the flame bites through.)
+2. Step inside the swing and cut the glowing core in the staff. (Correct — the priest unravels.)
+3. Run for the far arch. (Fail — the flame reaches farther.)
+4. Throw a loose stone at its face. (Fail — it does not flinch.)
+HERO: “The staff is broken. It is down.”
+Floor 6
+Scene: Dragon dungeon interior.
+Action: The hall opens. Ash bats and fire spirits are both present. No single fight picture.
+HERO: “Both at once. The bats are higher. The spirits are on the floor.”
+Choices:
+1. Cut the bats first. (Fail — the spirits close while the blade is high.)
+2. Cut the leading spirit first, then the bats. (Correct — the spirits drop and the bats scatter.)
+3. Run through the middle. (Fail — both close the path.)
+4. Hide behind a pillar. (Fail — the heat and the swarm both reach it.)
+HERO: “They are both down. The last hall is open.”
+Floor 7
+Scene: Dragon dungeon interior.
+Action: The final chamber. The infernal crown dragon is already rising, wings spread.
+Scene: Dragon dungeon Boss infernal crown.
+Action: The dragon lunges. First set of choices.
+Choices:
+1. Meet the charge and try to stop the head. (Fail — the weight and heat break the stance.)
+2. Sidestep and cut the glowing cracks along the leading wing. (Correct — the wing drops and the dragon turns slower.)
+3. Climb a broken pillar. (Fail — the heat shatters the stone.)
+4. Run for the far arch. (Fail — the wing closes the path.)
+HERO: “Wing is open. It is turning.”
+Action: The dragon rears, breath building. Second set of choices.
+Choices:
+1. Stand and block the breath. (Fail — the flame burns through.)
+2. Drop low and cut the glowing runes on the chest while the head is high. (Correct — the runes break and the breath dies.)
+3. Throw a stone at the eyes. (Fail — it does not flinch.)
+4. Dive into a lava crack. (Fail — the heat and the dragon both follow.)
+HERO: “Chest is open. The flames are dying.”
+Action: The dragon collapses forward, still thrashing. Third set of choices.
+Choices:
+1. Attack the remaining wing. (Fail — the thrashing claws catch the blade.)
+2. Cut the last glowing runes along the spine. (Correct — the body unravels and the dragon falls still.)
+3. Climb onto its back. (Fail — the remaining heat burns through.)
+4. Step back and wait. (Fail — the thrashing closes the space.)
+HERO: “The last runes are cut. The flames are gone. The crown is quiet.”
+No unlock. The entrance is open again.

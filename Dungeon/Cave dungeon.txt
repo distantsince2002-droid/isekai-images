@@ -1,0 +1,71 @@
+﻿Pale Vein Crypt
+Rank C required. Four floors. No NPCs except the Hero and any companions present. Each encounter offers four choices. Only one is correct. Wrong choices fail the floor and force a restart of that floor. The Hero does not answer every line. Some floors may only offer direction.
+Floor 1
+Scene: Cave dungeon exterior.
+Action: The purple-rune doorway stands in the cliff. The Hero steps through. No fight in this picture.
+HERO: “Rank C stamp is enough. The door is open. Stay on the dry stone. The glow on the pillars is not friendly.”
+Scene: Cave dungeon interior.
+Action: Crystal pillars and glowing pools fill the first hall. A spore-covered crawler is already scraping across the path.
+HERO: “That one is not just crawling. The growth on its back is moving with it.”
+Scene: Cave dungeon spore crawler.
+Action: The crawler lunges, mushrooms glowing.
+Choices:
+1. Back away into the nearest pool. (Fail — the spores cloud the water and the crawler follows.)
+2. Strike the cluster of blue mushrooms on its back first. (Correct — the crawler collapses when the growth is cut.)
+3. Throw a loose crystal at its face. (Fail — the crystal shatters and the crawler charges.)
+4. Stand still and let it pass. (Fail — it does not pass.)
+HERO: “Back is clear. It is down. Do not step in the spores.”
+Floor 2
+Scene: Cave dungeon interior.
+Action: The path splits around a fallen pillar. A pale crawler is already climbing the stone.
+HERO: “It is using the pillar. If it drops from there, it has the height.”
+Scene: Cave dungeon cave crawler.
+Action: The crawler drops from the pillar.
+Choices:
+1. Step under the pillar and cut the hanging limb as it falls. (Correct — the crawler hits the stone hard.)
+2. Run left around the pillar. (Fail — it is faster on the open floor.)
+3. Smash the nearest glowing mushroom and hope the light blinds it. (Fail — the light only marks you.)
+4. Climb the broken pillar yourself. (Fail — it pulls you down with it.)
+HERO: “It is off the stone. Keep to the right path. The left one looks wetter.”
+Floor 3
+Scene: Cave dungeon interior.
+Action: The hall narrows. A hooded wraith with a rune-blade is already walking the path ahead. No other fight in this picture.
+HERO: “The path splits again. Left looks dry. Right has more water. The wraith is not waiting for either.”
+Choices:
+1. Take the left path. (Correct — the wraith is slower on the dry stone.)
+2. Take the right path through the water. (Fail — the wraith closes while you are slowed.)
+3. Turn back to the last hall. (Fail — the way has already closed.)
+4. Wait for the wraith to pass. (Fail — it does not pass.)
+HERO: “Left it is. The stone is solid.”
+Scene: Cave dungeon rune wraith.
+Action: The wraith raises the blade.
+Choices:
+1. Meet the blade and push it wide. (Fail — the rune edge bites through.)
+2. Step inside the swing and cut the arm at the shoulder. (Correct — the wraith unravels.)
+3. Drop into the nearest pool. (Fail — the wraith follows and the water does not slow it.)
+4. Smash a crystal pillar onto it. (Fail — the pillar falls short.)
+HERO: “The arm is gone. The blade is down. The next hall is open.”
+Floor 4
+Scene: Cave dungeon interior.
+Action: The final chamber. An undead brute with a scythe is already standing in the shallow water.
+HERO: “That scythe is longer than it looks. Do not stand in front of it.”
+Scene: Cave dungeon undead brute.
+Action: The brute swings.
+Choices:
+1. Block the scythe with both hands. (Fail — the force drives you into the water.)
+2. Duck the swing and cut the knee that is already cracked. (Correct — the brute drops.)
+3. Run for the far pillar. (Fail — the scythe reaches farther than the sprint.)
+4. Throw a glowing mushroom at its face. (Fail — it does not flinch.)
+HERO: “Knee is gone. It is down. The water is still rising.”
+Scene: Cave dungeon interior.
+Action: The water deepens. A pale, vein-covered figure rises from the pool, arms open.
+HERO: “That is the one the veins were feeding. The arms are already moving.”
+Scene: Cave dungeon Boss pale vein matron.
+Action: The matron lunges.
+Choices:
+1. Cut the glowing veins on the chest and arms in turn. (Correct — the body collapses when the last vein is severed.)
+2. Stay in the shallow water and wait for it to tire. (Fail — it does not tire.)
+3. Climb the nearest pillar and drop onto its back. (Fail — the arms pull you down.)
+4. Run for the exit while it is still rising. (Fail — the water slows the retreat and the arms close the path.)
+HERO: “The last vein is cut. The body is falling. The crypt is quiet.”
+No unlock. The entrance is open again.
