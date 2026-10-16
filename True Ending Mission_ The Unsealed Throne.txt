@@ -1,0 +1,46 @@
+﻿True Ending Mission: The Unsealed Throne
+Unlocked after defeating the sealed demon lord in the Sealed Throne dungeon. The Primordial Beast must be equipped to begin. Sylvia is present. Multiple sequential choice sets for the final fight. Only one choice is correct in each set. Wrong choices fail the mission and force a restart.
+Scene: Snowy mountains (blizzard).
+Action: Wind and snow cut across the peak. The Hero and Sylvia stand at the base of the final rise. The Primordial Beast is already at the Hero’s side, head low, scales catching the wind.
+HERO: “The seal is broken. It is already on the throne.”
+SYLVIA (determined): “The beast knows the path. Stay close to it.”
+Unlock: Primordial Beast is equipped and active. The path to the summit is open.
+Scene: Snowy mountain (sunrise).
+Action: The blizzard thins. Pink light hits the snow. The World Throne sits ahead, empty for now. The Primordial Beast walks ahead and stops at the steps.
+HERO: “It is waiting. We follow.”
+SYLVIA (soft): “Do not leave its side. The throne will not stay empty.”
+Scene: Demon lord resting.
+Action: The unsealed demon lord sits on the throne, claws resting on the arms, the glowing crack down its chest still open. It does not rise yet.
+SYLVIA (sad): “It is not finished. The crack is still open.”
+HERO: “Then we close it.”
+Scene: Demon lord fight.
+Action: The demon lord rises. First set of choices.
+Choices:
+1. Charge the chest while it is still rising. (Fail — the arms close before the blade lands.)
+2. Move with the Primordial Beast and cut the glowing crack on the leading arm. (Correct — the arm drops and the lord turns slower.)
+3. Climb the throne steps alone. (Fail — the claws pull you down.)
+4. Stand and wait for it to fully rise. (Fail — the first swing closes the space.)
+HERO: “Arm is open. It is turning.”
+SYLVIA (determined): “The crack is the only weakness. Keep cutting it.”
+Action: The demon lord rears, both arms raised. Second set of choices.
+Choices:
+1. Block both arms at once. (Fail — the weight breaks the stance.)
+2. Drop low beside the Primordial Beast and cut the glowing crack on the chest while the arms are high. (Correct — the crack widens and the arms slow.)
+3. Send the Primordial Beast in alone. (Fail — the claws catch it and pull it back.)
+4. Run for the edge of the peak. (Fail — the arms close the path.)
+HERO: “Chest is open. The arms are slowing.”
+SYLVIA (soft): “Almost. Do not stop.”
+Action: The demon lord collapses forward, still thrashing. Third set of choices.
+Choices:
+1. Attack the remaining arms. (Fail — the thrashing claws catch the blade.)
+2. Cut the last of the glowing crack along the spine while the Primordial Beast holds the head. (Correct — the body unravels and the demon lord falls still.)
+3. Climb onto its back. (Fail — the remaining heat burns through.)
+4. Step back and wait. (Fail — the thrashing closes the space.)
+HERO: “The crack is closed. It is down.”
+SYLVIA (sad): “It is finished. The throne is empty.”
+Scene: Snowy mountain (sunrise).
+Action: The light strengthens. The demon lord is gone. The Primordial Beast stands at the edge of the peak, looking back once, then remains.
+HERO: “It is over.”
+SYLVIA (soft): “The mountain is quiet. We can leave.”
+Unlock: True ending complete. The game ends.
+No further content.
