@@ -1,0 +1,108 @@
+﻿Auction Event: The Evening Sale
+Unlocked after the correct reincarnation. Five separate lots. The player must outbid Freya on every lot using emperor coins. Only one correct bid amount per lot. Wrong bids fail that lot and force a restart of the event. Freya is present as a competing bidder. No other companions speak.
+Arrival
+Scene: Auction event exterior.
+Action: Lanterns hang over the street. The Hero walks up the steps and through the open doors. No fight in this picture.
+HERO: “Evening sale. Emperor coins only. Try not to pout when I take the first one.”
+FREYA (neutral): “You are bidding tonight. Most people leave after the first raise.”
+Lot 1
+Scene: Auction event interior.
+Action: The hall is lit. Benches are full. A glass case is brought to the front.
+Scene: Divine amulet.
+Action: The amulet hangs in the case, blue light steady.
+AUCTIONEER (male): “Divine amulet. Starting at two hundred emperor coins. Who will open?”
+FREYA (smiling): “Three hundred. Try to keep up.”
+HERO: “Four hundred. You can still drop out. I won’t tell anyone.”
+AUCTIONEER (male): “Four hundred. Going once.”
+FREYA (determined): “Five hundred. You are still here. Interesting.”
+Choices:
+1. Bid six hundred. (Correct — Freya stops.)
+2. Bid five hundred and fifty. (Fail — Freya raises again and takes the lot.)
+3. Stay silent. (Fail — Freya wins at five hundred.)
+4. Bid one thousand. (Fail — the auctioneer rejects the jump and Freya takes it.)
+FREYA (soft): “Six hundred. Fine. Take it.”
+HERO: “Thanks. I’ll hang it somewhere you’ll see it.”
+AUCTIONEER (male): “Sold. Next lot.”
+HERO: “One down. You’re doing great.”
+FREYA (neutral): “One. Do not get comfortable.”
+Lot 2
+Scene: Auction event interior.
+Action: A second case is rolled forward.
+Scene: Enchanted grimoire.
+Action: The book floats inside the case, purple light turning.
+AUCTIONEER (male): “Enchanted grimoire. Starting at three hundred.”
+FREYA (smiling): “Four hundred. This one is useful. You will not want it more than I do.”
+HERO: “Five hundred. Useful for you, or useful for me to keep you guessing?”
+FREYA (determined): “Six hundred. Still following?”
+Choices:
+1. Bid seven hundred. (Correct — Freya stops.)
+2. Bid six hundred and fifty. (Fail — Freya raises and takes it.)
+3. Stay silent. (Fail — Freya wins.)
+4. Bid two thousand. (Fail — rejected jump, Freya takes it.)
+FREYA (soft): “Seven. You are persistent.”
+HERO: “I like watching you decide whether to keep going.”
+AUCTIONEER (male): “Sold. Next.”
+HERO: “Two. Still smiling?”
+FREYA (determined): “Two. The next one is higher.”
+Lot 3
+Scene: Auction event interior.
+Action: A third case appears.
+Scene: Crystal relic.
+Action: The blue crystal sits on its cushion, light moving inside the facets.
+AUCTIONEER (male): “Crystal relic. Starting at two hundred and fifty.”
+FREYA (neutral): “Three hundred and fifty. Pretty, but not practical. I still want it.”
+HERO: “Four hundred and fifty. Pretty things suit you. Shame you’ll be looking at it from my side.”
+FREYA (determined): “Five hundred and fifty. You are making this expensive.”
+Choices:
+1. Bid six hundred and fifty. (Correct — Freya stops.)
+2. Bid six hundred. (Fail — Freya raises.)
+3. Stay silent. (Fail — Freya wins.)
+4. Bid one thousand five hundred. (Fail — rejected.)
+FREYA (smiling): “Six fifty. You can have the pretty stone.”
+HERO: “I’ll put it where the light hits it. You’ll notice.”
+AUCTIONEER (male): “Sold.”
+HERO: “Three. Counting yet?”
+FREYA (soft): “Three. Do not start counting yet.”
+Lot 4
+Scene: Auction event interior.
+Action: A fourth case is brought forward.
+Scene: Decorated egg.
+Action: The egg rests in its ornate case, gold filigree catching the lantern light.
+AUCTIONEER (male): “Decorated egg. Starting at four hundred.”
+FREYA (smiling): “Five hundred. This one is mine. I have already decided.”
+HERO: “Six hundred. You’ve decided a lot of things tonight. Most of them wrong.”
+FREYA (determined): “Seven hundred. You are not taking this one.”
+Choices:
+1. Bid eight hundred. (Correct — Freya stops.)
+2. Bid seven hundred and fifty. (Fail — Freya raises.)
+3. Stay silent. (Fail — Freya wins.)
+4. Bid two thousand. (Fail — rejected.)
+FREYA (sad): “Eight. Fine. Take the egg.”
+HERO: “Eight it is. I’ll keep it warm for you.”
+AUCTIONEER (male): “Sold. Final lot.”
+HERO: “Four. Last chance to quit while you’re ahead.”
+FREYA (determined): “Four. Last one. I am not losing five.”
+Lot 5
+Scene: Auction event interior.
+Action: The last case is set on the stage.
+Scene: Enchanted scepter.
+Action: The scepter stands upright, purple crystal glowing at the top.
+AUCTIONEER (male): “Enchanted scepter. Starting at five hundred.”
+FREYA (determined): “Seven hundred. This is the one I came for.”
+HERO: “Eight hundred. You came for it. I came to watch you hand it over.”
+FREYA (sad): “Nine hundred. Do not.”
+Choices:
+1. Bid one thousand. (Correct — Freya stops.)
+2. Bid nine hundred and fifty. (Fail — Freya raises and takes it.)
+3. Stay silent. (Fail — Freya wins.)
+4. Bid three thousand. (Fail — rejected.)
+FREYA (soft): “One thousand. You actually did it.”
+HERO: “Told you. Five in a row. You’re not as hard to beat as you look.”
+AUCTIONEER (male): “Sold. The evening sale is closed.”
+Scene: Auction event interior.
+Action: The benches empty. Freya remains near the front. She looks at the Hero, then walks over.
+FREYA (smiling): “Five. I do not usually lose five times in one night. Most people stop after two.”
+HERO: “Most people don’t enjoy watching you try so hard. You can keep the rest. I’ll take the scepter and the company.”
+FREYA (soft): “I will travel with you for a while. Someone has to keep the accounts straight, and I want to see if you can keep winning outside this room.”
+Unlock: Freya is unlocked and joins the party.
+No further unlock. The event ends.
