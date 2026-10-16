@@ -1,0 +1,77 @@
+﻿Floating Isle event. The departure and journey are separate from the ten mission nodes. They play when the player selects the floating isle icon that appears after the relevant reset. The ten nodes begin on arrival.
+Miko is with the Hero from the start because she asked him to free her home. Wind Spirit unlocks on its own node. The Cloud Titan is the last fight at the temple. Each picture has an Action under it. Speech is in quotation marks. Unlock means that one joins. No unlock means nobody joins.
+The Hero does not answer every line.
+Departure (icon select)
+Scene: Airship landing scene. Action: The airship sits at the Promnesia dock. Lanterns are lit. Miko is already on the deck when the Hero boards, hands tight on the rail. No fight in this picture.
+MIKO (sad): “Please… the cloud has the temple. If it keeps the seat, the islands will fall. I did not know who else to ask. The Guild will not send anyone this high.”
+HERO: “We will get there. Bridge is clear. Cast off when you are ready.”
+MIKO (soft): “Thank you. Just… do not stop if the baron tries to keep you. He collects people the way other men collect debts.”
+Journey (auto after departure)
+Scene: Airship clouds scene. Action: The airship clears the cloud layer. The sun sits low. Islands are not yet in sight. Miko watches the empty sky.
+MIKO (neutral): “It is higher than I remember. The bridges will be worse. I hope the near ones are still there.”
+HERO: “If they are not, we will find another way across. Stay close to the rail until we see them.”
+Node 1 — Dock
+Scene: Airship floating isle dock scene. Action: The airship ties off between two house-islands. A rope bridge spans the gap. Smoke rises from both chimneys. Miko steps off first, then waits.
+BRIDGE MENDER (female): “You are late. The bridges have been failing since the cloud started reaching. I can keep the near ones up. The far ones are not my work anymore.”
+MIKO (determined): “Left one, with the lamp. Please be careful in the middle. It sways more than it should.”
+BRIDGE MENDER (female): “And if you see the baron, tell him his lantern is still burning. He will not come down to check.”
+HERO: “We will tell him if we pass him. We are not stopping for hire.”
+No unlock.
+Node 2 — Raiders
+Scene: Floating isle base image. Action: The Hero steps onto the first bridge. Figures are already running the far side. Miko stays a step behind him.
+Scene: Raider encounter. Action: The spear pack closes. He clears the bridge and does not follow them onto a side island.
+MIKO (surprised): “They really wanted the bridge… Thank you for not chasing them. The side islands are not safe.”
+HERO: “We keep to the path. You all right?”
+MIKO (soft): “I am. Just stay ahead of me on the next one.”
+No unlock.
+Node 3 — The spirit
+Scene: Floating isle base image. Action: A wind current hangs between two rocks, shaped like a blade. It is not attacking. Miko stays well clear of it, watching.
+MIKO (neutral): “It wants a blade. I do not have one it will accept. I am sorry.”
+HERO: “I have a spare short-sword that still holds an edge. It can have that.”
+Action: He sets the blade into the current. The wind takes it and settles at his shoulder, ready.
+MIKO (smiling): “It took yours. That is good. The open gaps are frightening without something that can cross them. Thank you.”
+Unlock: Wind Spirit joins as a mount. No companion on this node.
+Node 4 — Hydra
+Scene: Floating isle base image. Action: The next island is overgrown. Multiple heads are already rising from the vines. Miko edges closer to the Hero’s side.
+Scene: Vine hydra encounter. Action: He cuts the heads and does not stay for the regrowth.
+MIKO (determined): “It grew back once already. Please do not wait to see if it does it again.”
+HERO: “We are moving. Stay on the clear ground.”
+No unlock.
+Node 5 — The baron
+Scene: Floating isle base image. Action: A lantern burns on a side island. The baron stands under it, watching the bridges. He does not block the path. Miko slows.
+BARON (male): “You brought the shrine keeper. She said someone would come. The cloud has my outer lanterns. Clear the temple and I will pay for the ones that are left.”
+MIKO (sad): “He always offers payment. Please do not take it. We are not here for lanterns.”
+HERO: “Temple first. Your lanterns can wait until the islands are safe.”
+BARON (male): “As you like. The cloud does not wait, though.”
+No unlock.
+Node 6 — Drake
+Scene: Floating isle base image. Action: A red shape is already circling the next bridge. The wind spirit holds steady. Miko watches the sky.
+Scene: Drake encounter. Action: The drake dives. He brings it down on the island and does not chase it into open air.
+MIKO (determined): “Please leave the wing. If you take it, it will try the air again, and I do not want to see that.”
+HERO: “It stays. The bridge is clear. Come on.”
+No unlock.
+Node 7 — Harpies
+Scene: Floating isle base image. Action: Three dark shapes drop onto the path ahead. The bridge mender’s last solid span is behind him. Miko stays low.
+Scene: Harpies encounter. Action: He clears the three and keeps moving.
+BRIDGE MENDER (female): “That was the last of the near bridges. The temple stairs are yours now. Tell the cloud I still want my ropes back when it is done.”
+MIKO (soft): “She means it. She mends everything the cloud breaks. We are almost there.”
+HERO: “Almost. Stay behind me on the stairs.”
+No unlock.
+Node 8 — Moss guardian
+Scene: Floating isle base image. Action: A moss-covered bulk blocks the last path before the temple stairs. It is already rising.
+Scene: Moss guardian encounter. Action: He clears it and does not leave the path.
+MIKO (determined): “That one guards the last span. Thank you for not going around. The drop is worse on the sides.”
+No unlock.
+Node 9 — Temple stairs
+Scene: Floating isle temple exterior. Action: The stairs rise to the open hall. The cloud hand is not yet fully formed. Miko stops at the bottom.
+MIKO (sad): “That is it. Please be careful. If the hand closes, the whole island drops.”
+HERO: “Stay here until it is done. I will come back for you.”
+No unlock.
+Node 10 — The temple
+Scene: Floating isle temple exterior. Action: The cloud hand closes over the island as he reaches the top.
+Scene: Cloud titan encounter. Action: He breaks the hand. The cloud pulls back. The islands stop drifting.
+Scene: Floating isle temple interior. Action: The hall is clear. Lanterns burn. The control seat at the far end is empty. Miko steps inside slowly.
+MIKO (soft): “The cloud is gone. The bridges will hold for a while. Thank you… I did not think anyone would actually come.”
+HERO: “You asked. We are done here. The airship is still at the dock whenever you are ready.”
+MIKO (smiling): “I am ready. Just… let me look once more.”
+No unlock. The airship is waiting at the dock.
