@@ -1,0 +1,91 @@
+﻿Colosseum. Fifteen levels. Level 15 is the champion. Completing all fifteen before the daily reset triggers the Emperor’s congratulations and the soul-shard reward. Each picture has an Action under it. Speech is in quotation marks. Unlock means the reward is granted. No unlock means nothing joins.
+The Hero does not answer every line.
+Approach
+Scene: Colosseum exterior. Action: The Hero climbs the steps between the braziers. A line of fighters waits under the arch. The Emperor is not among them.
+EMPEROR: “New stamp. The sand does not care how many roads you have walked. It only cares whether you leave it standing. First gate is open. Survive fifteen and the house pays in more than coin. Fail early and the stands forget you by morning.”
+HERO: “Open it.”
+No unlock.
+Level 1 — Alpha dire wolf
+Scene: Colosseum arena interior. Action: The sand is empty. The far gate rises. A large grey wolf steps out, head low.
+EMPEROR: “First test. It does not circle. It takes the throat or it dies.”
+Scene: Alpha dire wolf. Action: The wolf charges. He meets it and does not chase it into the wall.
+No unlock.
+Level 2 — Armoured rhino
+Scene: Colosseum arena interior. Action: The next gate opens. An armoured bulk is already moving.
+EMPEROR: “It does not stop. Move or be moved.”
+Scene: Armoured rhino. Action: He sidesteps the charge and finishes it when it turns.
+No unlock.
+Level 3 — Basilisk
+Scene: Colosseum arena interior. Action: Coils fill the centre of the sand before he is fully through the gate.
+EMPEROR: “Do not meet the eyes for long. The stands like a statue. I do not.”
+Scene: Basilisk. Action: He breaks the coil and steps clear of the thrash.
+No unlock.
+Level 4 — Beastkin warrior
+Scene: Colosseum the stands. Action: A masked wolf-man is already in stance when the gate drops. The crowd leans forward.
+EMPEROR: “He has lasted six bouts this week. Most do not.”
+Scene: Beastkin warrior. Action: Blades meet. The Hero finishes the exchange and does not take the mask.
+HERO: “He kept his feet longer than the animals.”
+No unlock.
+Level 5 — Cave troll
+Scene: Colosseum arena interior. Action: The ground shakes before the troll clears the gate. The club is already high.
+EMPEROR: “It swings once. If you are still there, the bout is over.”
+Scene: Cave troll. Action: He steps inside the swing and drops the troll before the club comes back.
+No unlock.
+Level 6 — Elf assassin
+Scene: Colosseum arena interior. Action: The elf is already moving when the gate opens. Low, fast, blade out.
+EMPEROR: “He does not trade blows. He takes one and leaves.”
+Scene: Elf assassin. Action: The first cut misses. The Hero answers before the second can land.
+No unlock.
+Level 7 — Emperor knight
+Scene: Colosseum the stands. Action: Full plate steps onto the sand. The longsword is already in both hands. The crowd quiets for a moment.
+EMPEROR: “My own. He has not lost on this sand. Do not expect him to start.”
+Scene: Emperor knight. Action: The knight holds the centre. The Hero breaks the guard and does not take the sword.
+HERO: “He held longer than the rest.”
+No unlock.
+Level 8 — Giant spider
+Scene: Colosseum arena interior. Action: Legs come through the gate first. The body follows, low and wide.
+EMPEROR: “It webs the corners. Stay off the walls.”
+Scene: Giant spider. Action: He keeps to the open sand and finishes it before the web can set.
+No unlock.
+Level 9 — Hammer brute
+Scene: Colosseum arena interior. Action: The brute fills the gate. The hammer is already swinging as he clears it.
+EMPEROR: “One clean hit ends it. Do not trade with that head.”
+Scene: Hammer brute. Action: He slips the first swing and ends it on the recovery.
+No unlock.
+Level 10 — Masked archer
+Scene: Colosseum the stands. Action: The archer is already drawn when the gate opens. The Hero is still crossing the sand.
+EMPEROR: “He does not wait for you to settle. Neither should you.”
+Scene: Masked archer. Action: The first arrow misses. He closes before the second leaves the string.
+No unlock.
+Level 11 — Owl bear
+Scene: Colosseum arena interior. Action: The owl-bear is already low and moving when the gate clears. Claws dig the sand.
+EMPEROR: “It does not roar first. It just arrives.”
+Scene: Owl bear. Action: He meets the charge and turns it before the claws can set.
+No unlock.
+Level 12 — Shadow beast
+Scene: Colosseum arena interior. Action: The light dips as the gate opens. Something black and clawed is already on the sand.
+EMPEROR: “It does not stay solid. Hit it when it is.”
+Scene: Shadow beast. Action: He waits for the claws to solidify and cuts through the mass.
+No unlock.
+Level 13 — Spear knight
+Scene: Colosseum the stands. Action: Plate and spear. The knight sets the point before the Hero has both feet on the sand.
+EMPEROR: “He keeps you at the length of the spear. Most never get past it.”
+Scene: Spear knight. Action: He slips the point and finishes inside the reach.
+No unlock.
+Level 14 — Spore beetle
+Scene: Colosseum arena interior. Action: Green light leaks from the shell before the beetle fully clears the gate. Spores drift.
+EMPEROR: “Do not breathe the green. The stands have seen what it does.”
+Scene: Spore beetle. Action: He stays clear of the cloud and cracks the shell before the spores thicken.
+No unlock.
+Level 15 — Colosseum champion
+Scene: Colosseum arena interior. Action: The final gate rises. The veiled sword dancer steps out. The stands go quiet, then roar.
+EMPEROR: “Last door. Beat him and the house owes you. Lose and you start the ladder again tomorrow.”
+HERO: “I did not walk fourteen to start again tomorrow.”
+Scene: Veiled sword dancer. Action: The dancer moves first. The Hero answers and does not chase the cloth.
+No unlock.
+Completion before daily reset
+Scene: Colosseum arena interior. Action: The champion is down. The Hero is still standing. The Emperor has come to the rail. The sun has not set.
+EMPEROR: “Fifteen, and the day is not finished. The house does not see that often. Take the shards. They open doors the Guild will not stamp.”
+HERO: “Shards. Not a title.”
+VOICE: “Soul shards. Enough of them summon companions the roads do not offer.”
+Unlock: Soul shards granted. No companion joins on the sand.
