@@ -1,0 +1,69 @@
+﻿Scavenger Hunt Event: Forest Finds
+Unlocked after the correct reincarnation. No combat. Isolde is searching for four items. The player must choose the correct path at each fork to reach the destinations. Wrong paths miss the item and require returning to the last fork. All four items must be found. Isolde is present. No other companions speak.
+First Encounter
+Scene: wrong path 5.
+Action: Night has settled. A quiet stream runs beside the path under tall trees. Glowing mushrooms line the banks. Isolde stands near a fallen log that crosses the water, looking into an empty box. She turns as the Hero approaches along the stones.
+ISOLDE (neutral): “Wrong path. Nothing useful here. Most people turn around before they reach the stream.”
+HERO: “You’re looking for something?”
+ISOLDE (smiling): “Four things. The hunt only counts if I bring them back myself. I’ve already checked the easy spots. If you help me find the rest, I’ll share what I know about the deeper paths. You don’t have to stay after.”
+HERO: “Lead. I’ll follow the right turns.”
+ISOLDE (determined): “First one is near the evening dew path. Stay on the stones. This way is empty.”
+First Item — Briar Crown
+Scene: Scavenger event evening dew.
+Action: They return to the main path as the sky fades to dusk. Gift boxes rest on fallen logs among glowing blue mushrooms. Lanterns mark the fork ahead. The path splits left and right between the trees.
+Choices:
+1. Take the left path along the glowing mushrooms. (Correct — leads to the first item.)
+2. Take the right path toward the darker trees. (Wrong — empty. See wrong path 1. Return to the fork.)
+3. Check the nearest box without choosing a path. (Wrong — nothing useful. Return to the fork.)
+4. Turn back toward the main road. (Wrong — Isolde stays. Return to the fork.)
+Scene: Scavenger event evening dew.
+Action: The correct path follows the stones between the mushrooms and ends at a small box half-hidden under a log. Isolde kneels, opens it, and lifts out the Briar Crown.
+ISOLDE (smiling): “Briar Crown. First one. Three left.”
+HERO: “What’s it for?”
+ISOLDE (soft): “It settles the mind when the forest feels too loud. People trade well for it when the paths get thick. Where’s the next?”
+ISOLDE (neutral): “Night crossing. The log over the stream. Don’t step on the coins.”
+Second Item — Tree of Life Essence
+Scene: Scavenger event night crossing.
+Action: Full night. A thick fallen log spans a narrow stream. Lanterns and small wrapped boxes sit along its length. Coins catch the light between them. The path splits at the near bank before the log.
+Choices:
+1. Cross the log and take the left branch past the lanterns. (Correct — leads to the second item.)
+2. Cross the log and take the right branch toward the darker trees. (Wrong — empty. See wrong path 2. Return to the bank.)
+3. Stay on the near bank and search the mushrooms. (Wrong — nothing. Return to the bank.)
+4. Jump the stream instead of using the log. (Wrong — wet and empty. Return to the bank.)
+Scene: Scavenger event night crossing.
+Action: The correct branch follows the log past the lanterns and ends at a small wrapped box. Isolde carefully unwraps it and finds the Tree of Life Essence bottle.
+ISOLDE (soft): “Tree of Life Essence. Second one. Two left.”
+HERO: “Worth keeping?”
+ISOLDE (smiling): “It restores strength after long walks. Alchemists pay more for it than most forest finds. Next?”
+ISOLDE (determined): “Rain shrine. It only shows properly when the weather turns. Stay on the stones.”
+Third Item — Amulet
+Scene: Scavenger event rain shrine.
+Action: Rain falls through the trees. A small stone shrine sits at the end of a short path. Glowing bottles and paper tags rest on the wet steps. The path splits before the shrine among the mushrooms.
+Choices:
+1. Take the left path through the glowing mushrooms to the shrine steps. (Correct — leads to the third item.)
+2. Take the right path around the trees. (Wrong — empty. See wrong path 3. Return to the fork.)
+3. Climb the shrine steps without choosing a path. (Wrong — tags only. Return to the fork.)
+4. Wait under the nearest tree for the rain to stop. (Wrong — nothing changes. Return to the fork.)
+Scene: Scavenger event rain shrine.
+Action: The correct path reaches the top of the shrine steps. Isolde lifts a small box from the wet stone and takes out the Amulet.
+ISOLDE (smiling): “Amulet. Third one. One left.”
+HERO: “What does that one do?”
+ISOLDE (soft): “It keeps small misfortunes from sticking. Traders like it for the roads. Last one?”
+ISOLDE (neutral): “Root hollow. Under the big tree. Don’t touch the bottles that aren’t tied.”
+Fourth Item — Golden Bloom
+Scene: Scavenger event root hollow.
+Action: Daylight filters through the canopy. Massive moss-covered roots form a natural arch. Gift boxes, bottles, and glowing mushrooms fill the hollow beneath the tree. The path splits at the edge of the roots.
+Choices:
+1. Follow the left root path under the arch. (Correct — leads to the fourth item.)
+2. Follow the right root path into the darker hollow. (Wrong — empty. See wrong path 4. Return to the edge.)
+3. Climb the nearest root without choosing a path. (Wrong — nothing. Return to the edge.)
+4. Search the open ground in front of the arch. (Wrong — empty boxes. Return to the edge.)
+Scene: Scavenger event root hollow.
+Action: The correct path follows the roots under the arch and ends at a small tied box nestled between them. Isolde opens it carefully and lifts out the Golden Bloom.
+ISOLDE (soft): “Golden Bloom. Last one. That’s all four.”
+HERO: “You have everything?”
+ISOLDE (smiling): “I do. The bloom is rare. Healers and collectors both want it. The hunt is finished. I know the deeper paths better than most. If you’re still walking them, I’ll come with you. I don’t need to stay for the return.”
+HERO: “Then come.”
+ISOLDE (determined): “I’ll leave the list with the others. I’m ready when you are.”
+Unlock: Isolde is unlocked and joins the party.
+No further unlock. The event ends.
