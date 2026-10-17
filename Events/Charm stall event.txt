@@ -1,0 +1,82 @@
+﻿Charm Stall Event: Naming the Charms
+This event happens before the airship arrives. It is how Miko is first properly met and unlocked. No combat. No failure. Each charm offers two naming options. Both are valid. Miko states the effect for each. Miko is present. No other companions speak.
+Arrival
+Scene: Charm store event exterior.
+Action: Lanterns hang over the street at dusk. The Hero stops in front of the open stall. Paper charms hang from the wooden beams. Miko stands behind the counter, tying a string on one of the tags. She looks up.
+MIKO (smiling): “You’re new. Most people just look and leave. The stall is still open if you want to see what I made.”
+HERO: “You make all of these?”
+MIKO (neutral): “I do. People like names on them. I’ve been behind all evening. If you help me name a few, I’ll finish faster. Then I can tell you why I’m still here.”
+HERO: “Name them. That’s it?”
+MIKO (determined): “That’s it. Six left. I’ll show you each one. You pick the name. I’ll tell you what it does.”
+Charm 1
+Scene: Charm store event background.
+Action: Miko sets the first charm on the desk. Ink and blank tags sit nearby. The lantern is lit.
+Scene: charm 1.
+Action: The circular blossom charm with the red tassel rests on the wood.
+MIKO (smiling): “First one. Blossoms. What do you want to call it?”
+Choices:
+1. Name: Spring Return.
+2. Name: Open Petals.
+MIKO (soft): “Either works. This one eases small aches and helps wounds close a little faster. I’ll write the name on the tag.”
+HERO: “Next.”
+Charm 2
+Scene: Charm store event background.
+Action: She sets the second charm down and picks up a fresh tag.
+Scene: charm 2.
+Action: The geometric diamond pattern with the black string lies flat.
+MIKO (neutral): “This one is sharper. People usually hang it on doors. Name?”
+Choices:
+1. Name: Clear Path.
+2. Name: Steady Line.
+MIKO (smiling): “Good. It keeps minor bad luck from sticking and steadies the hand when someone is tired. I’ll mark it.”
+HERO: “Three left after this.”
+Charm 3
+Scene: Charm store event background.
+Action: She places the third charm on the desk and reaches for the ink.
+Scene: charm 3.
+Action: The diamond moon-and-stars charm sits under the lantern light.
+MIKO (soft): “Night one. People buy these when they travel. What should it say?”
+Choices:
+1. Name: Quiet Night.
+2. Name: Open Sky.
+MIKO (determined): “I’ll add it. This one helps sleep come easier and dulls the edge of bad dreams. Two more after this.”
+HERO: “Keep going.”
+Charm 4
+Scene: Charm store event background.
+Action: She sets the fourth charm down and smooths the paper.
+Scene: charm 4.
+Action: The fan-shaped leaf-and-vine charm rests open on the desk.
+MIKO (smiling): “Leaves. These sell slower, but people still take them. Name?”
+Choices:
+1. Name: Steady Growth.
+2. Name: Turning Season.
+MIKO (neutral): “Written. It keeps the body from tiring as fast on long walks and helps sore muscles settle. Last two.”
+HERO: “Almost done.”
+Charm 5
+Scene: Charm store event background.
+Action: She places the fifth charm on the wood and picks up a blue-inked brush.
+Scene: charm 5.
+Action: The cloud-and-wave charm with the blue tassel lies flat.
+MIKO (soft): “Clouds and water. These go to people who walk far. What do you want on it?”
+Choices:
+1. Name: Moving Wind.
+2. Name: Quiet Current.
+MIKO (smiling): “That will sell. It keeps the mind clear in bad weather and stops small fevers from rising. One left.”
+HERO: “Last one.”
+Charm 6
+Scene: Charm store event background.
+Action: She sets the final charm down and looks at the Hero.
+Scene: charm 6.
+Action: The irregular blossom charm with the green string rests on the desk.
+MIKO (determined): “Last one. Same as the first, but different shape. Name?”
+Choices:
+1. Name: Late Bloom.
+2. Name: Soft Branch.
+MIKO (soft): “Done. This one eases worry and helps the body recover a little faster after hard days. All six are named. Thank you.”
+Scene: Charm store event exterior.
+Action: They step back outside. The stall is quieter. Miko ties the last tag and hangs the charm with the others. She turns to the Hero.
+MIKO (smiling): “That was faster with help. There’s an island above the clouds. Something has been sitting on the temple there for a long time. The airship will come soon, but it won’t land if the path isn’t clear. If you’re going that way, I want to come. I know the routes better than anyone still on the ground.”
+HERO: “You can come. The charms can wait.”
+MIKO (soft): “They can. I’ll leave the stall with the others for the night. I’ll be ready when the airship arrives.”
+Unlock: Miko is unlocked and joins the party. The floating isle event becomes available once the airship arrives.
+No further unlock. The event ends.
