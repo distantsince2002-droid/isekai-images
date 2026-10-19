@@ -1,0 +1,40 @@
+﻿Elowen Intimacy Scenes
+These trigger separately at bond levels 5, 10, and 15. Each scene is independent. Dialogue builds through forest scenes and shows the bond strengthening, then switches to the intimacy image at the end. The final image of each scene is permanently saved as a memory even after reincarnation. Elowen is present. No other companions speak.
+Scene 1 — Date (Level 5)
+Scene: Forest (dusk).
+Action: Dusk. The Hero finds Elowen near a quiet stream under the trees. Glowing mushrooms line the banks. She stands with one hand resting on a low branch, watching the light fade through the leaves.
+ELOWEN (smiling): “You’re early. I was checking the stream banks for fresh tracks. The deer have been moving further upstream since the last rain.”
+HERO: “Anything else out here?”
+ELOWEN (neutral): “A few goblin signs near the old roots, but they didn’t stay. The mushrooms are still bright, so the ground is stable. I come this way when I need to see how the paths are holding up before full dark.”
+HERO: “You always check the tracks yourself?”
+ELOWEN (soft): “Someone has to. The deeper woods change faster than the roads. You can walk with me a little further if you want. I was going to see if the stream is still clear past the bend.”
+HERO: “I’ll come.”
+ELOWEN (smiling): “Then stay close. The ground softens once the light leaves.”
+Scene: Elowen intimacy scene 1.
+Action: She turns toward the Hero. The stream and glowing mushrooms stand behind her in the fading light.
+Unlock: Memory saved — Elowen Date.
+Scene 2 — Romantic Outing (Level 10)
+Scene: Forest (rain).
+Action: Night. Rain falls through the trees. The Hero reaches a hollow under a large root. Elowen is already seated among the glowing mushrooms, watching the rain move through the canopy. Moonlight filters through the leaves.
+ELOWEN (smiling): “You made it through the rain. I was watching the canopy for owl movement. They hunt closer to the hollows when the weather turns.”
+HERO: “Anything else moving?”
+ELOWEN (soft): “A pack of wolves passed further north earlier. They didn’t come this way. The mushrooms are still glowing, so the ground hasn’t flooded. I come out here when I need to see how the animals settle once the roads go quiet.”
+HERO: “Does the rain make it harder to track?”
+ELOWEN (neutral): “Sometimes. Tonight it doesn’t. You’re welcome to sit. The hollow stays dry enough under the roots.”
+HERO: “Then I will.”
+ELOWEN (smiling): “Sit where you can see the water. The rain eases once the moon clears the trees.”
+Scene: Elowen intimacy scene 2.
+Action: She looks up from the ground, the rain and glowing mushrooms around her under the moon.
+Unlock: Memory saved — Elowen Outing.
+Scene 3 — Intimate (Level 15)
+Scene: Forest (night).
+Action: Full night. The Hero reaches a quiet clearing under the trees. Elowen sits on a moss-covered log, one hand resting on the wood, moonlight and glowing mushrooms around her. The rest of the forest is dark.
+ELOWEN (soft): “You came all the way out here again. I told the others I was checking the old log for fresh claw marks. Nothing new since last night.”
+HERO: “Anything else nearby?”
+ELOWEN (smiling): “Just the usual night birds. And you. I marked the path so you’d find me before anyone else did. The nights are quieter under the trees once the paths settle. Warmer once you’re closer. You don’t have to leave before morning if you don’t want to.”
+HERO: “I don’t.”
+ELOWEN (determined): “Then come closer. The moss is softer than the log, and I’ve been waiting for the moon to rise this high.”
+Scene: Elowen intimacy scene 3.
+Action: She settles against the log. Moonlight and glowing mushrooms surround her. She looks back toward the Hero.
+Unlock: Memory saved — Elowen Intimate.
+No further unlock. Each scene ends independently.
