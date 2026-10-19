@@ -1,0 +1,40 @@
+﻿Celeste Intimacy Scenes
+These trigger separately at bond levels 5, 10, and 15. Each scene is independent. Dialogue builds through fitting scenes and shows the bond strengthening, then switches to the intimacy image at the end. The final image of each scene is permanently saved as a memory even after reincarnation. Celeste is present. No other companions speak.
+Scene 1 — Date (Level 5)
+Scene: town plaza (base scene).
+Action: Midday. The Hero finds Celeste near the stone bridge over the river. She stands with one hand lightly on the railing, watching the water. Market noise is distant.
+CELESTE (smiling): “You’re early. Most people only come this way once the stalls open.”
+HERO: “I wanted to see the river before it got crowded.”
+CELESTE (neutral): “It stays quiet longer than the market does. I stop here when I need a moment without the noise. The water doesn’t ask for anything.”
+HERO: “What do you usually think about?”
+CELESTE (soft): “The roads further out. Whether they’re still clear. Whether anyone still needs help on them. You can walk with me to the far side if you want. I was going to check the light on the water.”
+HERO: “I’ll come.”
+CELESTE (smiling): “Then stay close. The railing is cooler than the stones.”
+Scene: Celeste intimacy scene 1.
+Action: She turns and extends her hand toward the Hero. The bridge and river stand behind her in the daylight.
+Unlock: Memory saved — Celeste Date.
+Scene 2 — Romantic Outing (Level 10)
+Scene: Grassland (sunset).
+Action: Evening. The Hero reaches the open grass beyond the river. Celeste is already seated among the flowers, wings resting, watching the light change over the water. Distant town lights begin to show.
+CELESTE (smiling): “You followed the river all the way out. I didn’t think anyone else would come this far after the market closed.”
+HERO: “I wanted to see how far the light reached.”
+CELESTE (soft): “It reaches further than the stones do. The grass holds the warmth longer. I come out here when the town feels too small and the roads feel too long. The wind is steadier once the stalls close.”
+HERO: “Does it ever feel too quiet?”
+CELESTE (neutral): “Sometimes. Tonight it doesn’t. You’re welcome to sit. The flowers don’t mind the company.”
+HERO: “Then I will.”
+CELESTE (smiling): “Sit where you can see the water. The wind picks up once the light leaves the hills.”
+Scene: Celeste intimacy scene 2.
+Action: She looks up from the grass, the river and distant town behind her under the fading sky.
+Unlock: Memory saved — Celeste Outing.
+Scene 3 — Intimate (Level 15)
+Scene: Town street (night).
+Action: Full night. The Hero reaches a quieter street near the edge of town. Celeste stands in a lit doorway, one hand on the frame, lantern light spilling onto the stones. The rest of the street is dark.
+CELESTE (soft): “You came all the way out here again. I left the door open so you’d know which one was mine.”
+HERO: “I wanted to make sure you were still here.”
+CELESTE (smiling): “I am. And I was hoping you would be too. The nights are quieter on this side of town. Warmer once you’re inside. You don’t have to leave before morning if you don’t want to.”
+HERO: “I don’t.”
+CELESTE (determined): “Then come in. The lanterns are already lit. And the bed is warmer than the street.”
+Scene: Celeste intimacy scene 3.
+Action: She steps inside. Lanterns glow. She settles onto the bed and looks back toward the doorway.
+Unlock: Memory saved — Celeste Intimate.
+No further unlock. Each scene ends independently.
