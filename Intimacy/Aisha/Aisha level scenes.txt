@@ -1,0 +1,50 @@
+﻿Aisha Intimacy Scenes 
+These trigger separately at bond levels 5, 10, and 15. Each scene is independent. Dialogue builds to the final image, which is permanently saved as a memory even after reincarnation. Aisha is present. No other companions speak. Desert openings for each.
+Scene 1 — Date (Level 5)
+Scene: Desert (base scenery).
+Action: Late afternoon. The heat is easing. The Hero and Aisha walk between the ruined columns. Dust drifts across the stones. She carries a waterskin at her side.
+AISHA (smiling): “You kept going after the last well dried. Most people turn back before the columns even come into view.”
+HERO: “You didn’t have to wait.”
+AISHA (neutral): “I know. I wanted to. The ruins are quieter when someone else is here.”
+She stops in a patch of shade and looks at you.
+“Sit if you want. The shade holds longer than it looks.”
+HERO: “You come here often?”
+AISHA (soft): “When the caravans move on. It’s easier to think out here. You can stay until the light goes, if you like.”
+HERO: “I’ll stay.”
+AISHA (smiling): “Good. The water’s still cold. Don’t waste it.”
+Scene: Aisha intimacy scene 1.
+Action: She holds the waterskin out toward the Hero. The columns stand behind her in the warm light.
+Unlock: Memory saved — Aisha Date.
+Scene 2 — Romantic Outing (Level 10)
+Scene: Desert (camp group).
+Action: Night. The Hero finds Aisha already settled by a small campfire in the dunes. The ruins stand dark on the horizon. She sits barefoot on the warm sand, firelight on her face.
+AISHA (smiling): “You found the fire. I didn’t expect company this far out after dark.”
+HERO: “It was easy to spot.”
+AISHA (soft): “I lit it so the dark wouldn’t feel so wide. You’re welcome to share it.”
+She shifts, making space beside her.
+“The sand stays warm longer than it looks.”
+HERO: “You always come out here alone?”
+AISHA (neutral): “Usually. It’s quieter that way. Tonight’s different.”
+She looks at you across the flames.
+“You can stay until the fire dies if you want.”
+HERO: “I’ll stay.”
+AISHA (smiling): “Then sit closer. The wind picks up once the flames get low.”
+Scene: Aisha intimacy scene 2.
+Action: She looks up from the campfire, dunes and distant ruins behind her.
+Unlock: Memory saved — Aisha Outing.
+
+
+Scene 3 — Intimate (Level 15)
+Scene: Desert (base scenery).
+Action: Evening. The Hero reaches the edge of the ruins. Aisha stands near a low stone wall, one hand resting on the warm surface. Lantern light glows from a curtained opening further in.
+AISHA (soft): “You came all the way out here again. I left the entrance open.”
+HERO: “You said the nights were quieter.”
+AISHA (smiling): “They are. And warmer when someone else is here.”
+She steps closer, voice lower.
+“You don’t have to leave before morning if you don’t want to.”
+HERO: “I don’t.”
+AISHA (determined): “Then come inside. The wind still finds its way through the columns.”
+Scene: Aisha intimacy scene 3.
+Action: She leads the way into the curtained space. Lanterns glow. She settles onto the cushions and looks back.
+Unlock: Memory saved — Aisha Intimate.
+No further unlock. Each scene ends independently.
