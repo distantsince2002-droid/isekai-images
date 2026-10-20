@@ -1,0 +1,39 @@
+﻿Freya Intimacy Scenes
+These trigger separately at bond levels 5, 10, and 15. Each scene is independent. Dialogue builds through town and market scenes and shows the bond strengthening, then switches to the intimacy image at the end. The final image of each scene is permanently saved as a memory even after reincarnation. Freya is present. No other companions speak. Internal dialogue appears primarily in the second scene.
+Scene 1 — Date (Level 5)
+Scene: town plaza (base scene).
+Action: Evening. The Hero finds Freya near the fountain in the plaza. Lanterns are lit along the streets. She stands with one hand resting on the stone edge, watching the last stalls close.
+FREYA (smiling): “You’re early. The cloth merchant usually keeps his best materials until the light starts to go. Most people miss them.”
+HERO: “You already checked his stock?”
+FREYA (neutral): “Twice. He tried to raise the price on the blue silk because he saw me coming. I reminded him I know what he paid for it last month. He dropped it.”
+HERO: “You always handle the deals yourself?”
+FREYA (soft): “The good ones don’t wait for someone else. You can come with me if you want. I was going to see if the spice seller still has the dried peppers before he packs up.”
+HERO: “Lead the way.”
+FREYA (smiling): “Stay close. He pretends not to hear if you’re standing too far back.”
+Scene: Freya intimacy scene 1.
+Action: She turns and extends her hand toward the Hero. The plaza and lanterns stand behind her in the evening light.
+Unlock: Memory saved — Freya Date.
+Scene 2 — Romantic Outing (Level 10)
+Scene: Store and market (base scene).
+Action: Daytime. The Hero stands near a market stall. Freya is already at the counter, speaking with the merchant. She laughs as she examines a small crate of goods. The town square is busy behind her.
+FREYA (smiling): “You found me. The merchant wanted twice what these dried fruits are worth. I told him I buy from three other stalls and none of them try that.”
+HERO: “Did he lower it?”
+FREYA (soft): “Eventually. He knows I’ll walk if he doesn’t. You’re welcome to stay. The next stall has better cloth if you’re still looking, and I want to see what else he has before he packs up.”
+HERO: “I’ll stay. Show me what you got him down to.”
+FREYA (smiling): “Come closer. The light is better over here.”
+HERO (internal): She’s beautiful when she’s like this. Focused. The way she leans in when the price isn’t right. She loves the barter more than the goods.
+Scene: Freya intimacy scene 2.
+Action: She looks up from the stall, smiling, the market and town buildings behind her.
+Unlock: Memory saved — Freya Outing.
+Scene 3 — Intimate (Level 15)
+Scene: Town street (night).
+Action: Full night. The Hero reaches a quieter street near the edge of town. Freya stands in a lit doorway, one hand on the frame, lantern light spilling onto the stones. The rest of the street is dark.
+FREYA (soft): “You found the house. I told the servants I was reviewing the evening accounts. They don’t need to know I left the door open for you.”
+HERO: “The accounts can wait. I wanted to see you.”
+FREYA (smiling): “Good. I was hoping you would. It’s warmer once you’re inside, and I’ve been thinking about you since the market closed. You don’t have to leave before morning if you don’t want to.”
+HERO: “I’d rather stay.”
+FREYA (determined): “Then come in. The lanterns are already lit, and the bed is warmer than the street. I’ve been waiting.”
+Scene: Freya intimacy scene 3.
+Action: She steps inside. Lanterns glow. She settles onto the bed and looks back toward the doorway.
+Unlock: Memory saved — Freya Intimate.
+No further unlock. Each scene ends independently.
