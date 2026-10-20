@@ -1,0 +1,38 @@
+﻿Hana Intimacy Scenes
+These trigger separately at bond levels 5, 10, and 15. Each scene is independent. Dialogue builds through shrine and temple scenes and shows the bond strengthening, then switches to the intimacy image at the end. The final image of each scene is permanently saved as a memory even after reincarnation. Hana is present. No other companions speak.
+Scene 1 — Date (Level 5)
+Scene: Temple event exterior.
+Action: Evening. The Hero finds Hana near the stone basin under the wooden roof. Lanterns are lit along the path. She stands with one hand resting on a pillar, watching the last visitors leave.
+HANA (smiling): “You’re early. Most people leave before the last lamps are lit.”
+HERO: “I wanted to see the shrine before it closed. You keep it looking better than most places I’ve passed through.”
+HANA (neutral): “It stays quiet longer than the main path does. I stop here when I need to refill the basin before the night settles. The water keeps the stones clean for the morning.”
+HERO: “You always do the evening duties yourself?”
+HANA (soft): “Someone has to. The blossoms drop faster once the light goes. You can help with the basin if you want. I was going to check the path behind the hall after.”
+HERO: “I’ll help. You’re good at this.”
+HANA (smiling): “Then stay close. The steps are wetter than they look.”
+Scene: Hana intimacy scene 1.
+Action: She turns toward the Hero. The basin and torii stand behind her in the evening light.
+Unlock: Memory saved — Hana Date.
+Scene 2 — Romantic Outing (Level 10)
+Scene: Temple event interior.
+Action: Evening. The Hero steps into the wooden hall. Lanterns hang from the beams. Hana kneels near a low table, arranging blossoms and offerings. Soft light comes through the open sides.
+HANA (smiling): “You came inside. I was setting the fresh blossoms before they drop. The old ones are already falling.”
+HERO: “Need any help with them? You make it look easy.”
+HANA (soft): “If you hold the vase steady. I pick them early so they last through the evening. You’re welcome to stay. The side path is quieter once the visitors leave.”
+HERO: “I’ll stay. The way you arrange them is nicer than the market stalls.”
+HANA (smiling): “Come closer. The light is better over here.”
+Scene: Hana intimacy scene 2.
+Action: She looks up from the table, smiling, the hall and lanterns around her.
+Unlock: Memory saved — Hana Outing.
+Scene 3 — Intimate (Level 15)
+Scene: Temple side path scene.
+Action: Full night. The Hero follows the narrow path behind the hall. Lanterns are sparse. He reaches a small room with open sliding doors. Hana is inside, kneeling on the mats, holding her robe as she changes. She freezes when she sees him.
+HANA (surprised): “A-ah…! I… I thought no one would come back here. I was just changing…”
+HERO: “I didn’t mean to walk in. You look really pretty. I can leave if you want.”
+HANA (blushing): “N-no… it’s okay. I just… didn’t expect it. The path is usually empty. I… I don’t mind if you stay. Just… give me a moment.”
+HERO: “I’ll stay if you want me to. Take your time.”
+HANA (soft): “I… I do want you to stay. Come in. The mats are warmer… and the robe’s already slipped. Just… please don’t look too much. It’s embarrassing.”
+Scene: Hana intimacy scene 3.
+Action: She settles on the mats, holding the robe close, looking back toward the Hero with a shy, flustered expression. Lantern light and the night garden show through the open doors.
+Unlock: Memory saved — Hana Intimate.
+No further unlock. Each scene ends independently.
