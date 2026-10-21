@@ -1,0 +1,36 @@
+﻿Seraphina Intimacy Scenes
+These trigger separately at bond levels 5, 10, and 15. Each scene is independent. Dialogue builds through undercroft and stone hall scenes and shows the bond strengthening, then switches to the intimacy image at the end. The final image of each scene is permanently saved as a memory even after reincarnation. Seraphina is present. No other companions speak.
+Scene 1 — Date (Level 5)
+Scene: Void (chamber).
+Action: Candlelight glows along the stone arches. Seraphina stands in the center of the hall, one hand extended. Blood drips from her palm onto the floor. She watches the Hero approach, gold eyes steady, smile sharp.
+SERAPHINA (smiling): “Most callers flinch before they reach the circle. You didn’t. Blood binds tighter than pretty words. Hold still. I want to see if you can handle what comes with it.”
+HERO: “What does the oath do?”
+SERAPHINA (soft): “It ties us. Otherworldly rules. You can’t walk away clean after this. I can’t either. Give me your hand. Unless you’d rather pretend you don’t want to.”
+HERO: “You’re sure about this?”
+SERAPHINA (determined): “I’m sure. Come closer. The candles won’t wait, and neither will I.”
+Scene: Seraphina intimacy scene 1.
+Action: She holds her bloodied hand out toward the Hero. The stone arches and candles stand behind her.
+Unlock: Memory saved — Seraphina Date.
+Scene 2 — Romantic Outing (Level 10)
+Scene: Void (chamber).
+Action: Candlelight glows along the stone arches. Seraphina stands near a pillar, one hand on her hip, watching the Hero. The hall is quiet. She smiles when he stops.
+SERAPHINA (smiling): “You came back. Most people leave after the first night and call it wisdom. The contract doesn’t force you. You stayed anyway. Curious. Or hungry.”
+HERO: “I wanted to see if the oath held.”
+SERAPHINA (soft): “It holds. You’re still here. You’re welcome to stay. Or you can keep pretending this is only about the contract.”
+HERO: “What happens if someone breaks it?”
+SERAPHINA (smiling): “They don’t get to leave the same way they came in. And they don’t get to touch what they were too scared to take. Stay if you want. Or keep standing there pretending you aren’t thinking about it.”
+Scene: Seraphina intimacy scene 2.
+Action: She looks over at the Hero, one hand on her hip. The stone arches and candles stand behind her.
+Unlock: Memory saved — Seraphina Outing.
+Scene 3 — Intimate (Level 15)
+Scene: Void (deeper).
+Action: Candlelight glows in the small stone room. Seraphina leads the Hero inside and settles on the bed, looking up. Her hair spreads across the pillows. She watches him with a slow, knowing smile.
+SERAPHINA (soft): “You followed me in. The oath doesn’t make you. I’ve been thinking about what that means. Most people want the demon gone by morning. You stayed. I can offer you more than the contract. Body and soul, if you want them. Stop pretending you don’t.”
+HERO: “Seraphina…”
+SERAPHINA (smiling): “Don’t get shy now. I’ve been waiting to see if you’d actually take what I’m offering. Don’t make me ask twice.”
+HERO: “You’re serious.”
+SERAPHINA (determined): “Always. Come closer. I want to feel if the oath is the only thing holding you, or if you want the rest.”
+Scene: Seraphina intimacy scene 3.
+Action: She lies back on the bed, looking up at the Hero. Candlelight glows around the room.
+Unlock: Memory saved — Seraphina Intimate.
+No further unlock. Each scene ends independently.
