@@ -1,0 +1,37 @@
+﻿Sylvia Intimacy Scenes
+These trigger separately at bond levels 5, 10, and 15. Each scene is independent. Dialogue builds through forest and gate-edge scenes and shows the bond strengthening, then switches to the intimacy image at the end. The final image of each scene is permanently saved as a memory even after reincarnation. Sylvia is present. No other companions speak.
+Scene 1 — Date (Level 5)
+Scene: Forest (dusk).
+Action: Evening. The Hero walks a quiet path under the trees with Sylvia. She keeps one hand lightly extended as they go, the other resting near her side. The light fades through the leaves. She glances over once, calm.
+SYLVIA (smiling): “I used to come here before the Gate closed. The light stays longer than it does inside. Most of the old paths are still here. I wanted to see if you would walk one with me.”
+HERO: “You remember all of them?”
+SYLVIA (soft): “The ones that mattered. The trees haven’t changed much. You can walk with me if you want. The next clearing was one of the quieter ones.”
+HERO: “I’ll come. Show me which ones you liked.”
+SYLVIA (smiling): “Stay close. The roots are higher than they look.”
+Scene: Sylvia intimacy scene 1.
+Action: She looks over at the Hero and extends her hand. The trees and fading light stand behind her.
+Unlock: Memory saved — Sylvia Date.
+Scene 2 — Romantic Outing (Level 10)
+Scene: Forest (dusk).
+Action: Evening. Sylvia stands in a clearing, sword in hand, demonstrating a slow cut. The Hero watches nearby. The light is low through the trees. She moves with steady precision.
+SYLVIA (smiling): “Keep your shoulder low. The cut works better if you don’t force it. Most people overreach and lose the line. Try it again.”
+HERO: “Like this?”
+SYLVIA (soft): “Closer. Your wrist is still tight. The trees don’t care how hard you swing. They care if you finish the motion.”
+HERO: “Show me the next part.”
+SYLVIA (smiling): “Come at me. I want to see if you can hold the form.”
+HERO (internal): She doesn’t waste motion. Every step is measured. Even here, away from the Gate, she still carries the weight of the old march. She’s been watching how I hold the blade since we started.
+Scene: Sylvia intimacy scene 2.
+Action: She looks toward the Hero, sword still in hand. The trees and fading light stand behind her.
+Unlock: Memory saved — Sylvia Outing.
+Scene 3 — Intimate (Level 15)
+Scene: Forest (night).
+Action: Full night. Sylvia leads the Hero to a quiet spot under the trees. Moonlight filters through the canopy. She stops and turns, one hand resting lightly against her chest. She watches him, calm.
+SYLVIA (soft): “I’ve been thinking about the old march. The ones who didn’t come back. I don’t want another path closed. I want this one open. And I want you on it.”
+HERO: “Sylvia…”
+SYLVIA (smiling): “Don’t look away. The night is quieter here. I’ve been waiting to see if you would stay. I want to know if you mean it.”
+HERO: “I do.”
+SYLVIA (determined): “Then stay. I’ve already decided.”
+Scene: Sylvia intimacy scene 3.
+Action: She stands under the moonlight, looking toward the Hero. The trees and night sky stand behind her.
+Unlock: Memory saved — Sylvia Intimate.
+No further unlock. Each scene ends independently.
