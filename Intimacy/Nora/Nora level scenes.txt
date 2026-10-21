@@ -1,0 +1,38 @@
+﻿Nora Intimacy Scenes
+These trigger separately at bond levels 5, 10, and 15. Each scene is independent. Dialogue builds through inn scenes and shows the bond strengthening, then switches to the intimacy image at the end. The final image of each scene is permanently saved as a memory even after reincarnation. Nora is present. No other companions speak.
+Scene 1 — Date (Level 5)
+Scene: Store and market (base scene).
+Action: Evening. The Hero sits at a table in the inn. Nora leans on the counter nearby, chin in her hand, watching him. Lantern light glows over the wood. The window shows the last light outside.
+NORA (smiling): “You’re back early. Most people only come through once the Guild posts the new contracts. I already set a bowl aside. The stew’s still warm.”
+HERO: “You remembered.”
+NORA (soft): “I remember who pays and who doesn’t. You can sit if you want. The counter’s quieter once the evening rush leaves.”
+HERO: “Tell me what you heard today.”
+NORA (smiling): “Come closer. The counter’s better for talking.”
+Scene: Nora intimacy scene 1.
+Action: She looks over at the Hero, still resting her chin on her hand. The inn and window stand behind her.
+Unlock: Memory saved — Nora Date.
+Scene 2 — Romantic Outing (Level 10)
+Scene: Store and market (base scene).
+Action: Evening. Nora carries a tray with a bowl of stew and a mug toward the table. She smiles when she sees the Hero. Lantern light glows over the wood. The window shows the fading sky.
+NORA (smiling): “I saved the last of the stew. Most people take the bread and leave. You always stay long enough to finish it. Where did you come from before the Guild? You never say.”
+HERO: “It’s a long story.”
+NORA (soft): “I want to hear it. The inn gets the same contracts every week. What was the last place you walked through before this one? You’re welcome to sit. The tray’s heavier than it looks.”
+HERO: “Set it down. I’ll tell you about the grasslands.”
+NORA (smiling): “Tell me everything. I want the details.”
+Scene: Nora intimacy scene 2.
+Action: She looks up from the tray, smiling. The inn and window stand behind her.
+Unlock: Memory saved — Nora Outing.
+Scene 3 — Intimate (Level 15)
+Scene: Town street (night).
+Action: Full night. Nora leads the Hero up the stairs behind the inn. Lantern light glows in the small room. She stops near the bed, one hand near her mouth, looking back. The window shows the dark outside.
+NORA (soft): “I’ve been listening to your stories for a while now. I like serving you. I like hearing what you do out there. Do you think I’ll ever be part of one of those tales? Even a small part?”
+HERO: “You already are. I talk about the inn more than I thought I would.”
+NORA (smiling): “Really? I always wondered if anyone remembered the person behind the counter. Most people just want the stew and the next contract. I’ve been thinking about you more than I should.”
+HERO: “You ask more questions than anyone else.”
+NORA (soft): “I want to know what happens after you leave. The stories don’t end at the door. And I want to know what happens if I keep you here a little longer.”
+HERO: “Nora…”
+NORA (smiling): “Sit. I want to hear the rest of this one. And maybe start a new part.”
+Scene: Nora intimacy scene 3.
+Action: She settles on the edge of the bed, looking back toward the Hero. Lantern light glows in the room.
+Unlock: Memory saved — Nora Intimate.
+No further unlock. Each scene ends independently.
