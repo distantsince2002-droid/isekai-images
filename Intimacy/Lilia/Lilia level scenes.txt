@@ -1,0 +1,40 @@
+﻿Lilia Intimacy Scenes
+These trigger separately at bond levels 5, 10, and 15. Each scene is independent. Dialogue builds through undertrove scenes and shows the bond strengthening, then switches to the intimacy image at the end. The final image of each scene is permanently saved as a memory even after reincarnation. Lilia is present. No other companions speak.
+Scene 1 — Date (Level 5)
+Scene: Undertrove (base scenery).
+Action: Soft light glows from the mushrooms and stones. The Hero walks the path beside the stream with Lilia. She keeps one hand near her cheek, wings still, pointing out small clusters as they go. The water moves quietly beside them.
+LILIA (smiling): “The small ones near the bank came back after the last rain. I was worried they wouldn’t. The bigger clusters are fine, but these take longer.”
+HERO: “You check them every time you pass?”
+LILIA (soft): “Most days. The stream changes the soil. I talk too fast when I’m counting them. The ground is softer past the stones. Stay close so you don’t step on the new ones.”
+HERO: “I’ll stay with you. They look fragile.”
+LILIA (blushing): “They are. Don’t step on them. They take longer to come back if you do.”
+Scene: Lilia intimacy scene 1.
+Action: She turns toward the Hero, one hand still near her cheek. The glowing mushrooms and stream stand behind her.
+Unlock: Memory saved — Lilia Date.
+Scene 2 — Romantic Outing (Level 10)
+Scene: Undertrove (deep).
+Action: Night-like glow fills the hollow. Lilia kneels among the flowers and glowing mushrooms, holding a small light in her hands. The Hero stands nearby, watching her. She glances up once, then looks back down quickly.
+LILIA (smiling): “The flowers opened wider today. I don’t know why. Sometimes they do that when the air stays still.”
+HERO: “You sit with them often?”
+LILIA (soft): “When the paths feel too loud. They don’t mind if you sit. Just don’t move too fast. They settle slower if you do. Come closer. The ground is warmer over here.”
+HERO: “I’ll sit. They look different from the ones near the stream.”
+LILIA (blushing): “They are. These ones stay open longer.”
+HERO (internal): She’s careful with every light. Even the small ones. The whole hollow feels quieter when she’s here. All of it—mushrooms, flowers, the soft glow—settles around her like it knows she’ll keep it.
+Scene: Lilia intimacy scene 2.
+Action: She looks down at the light in her hands, the glowing mushrooms and flowers around her.
+Unlock: Memory saved — Lilia Outing.
+Scene 3 — Intimate (Level 15)
+Scene: Undertrove (dimension gate entrance).
+Action: Soft purple light fills the cavern. Lilia leads the Hero along a narrow path under the stone arch, one hand lightly on his sleeve. She stops in a quiet space among the glowing mushrooms and crystals and kneels on a soft cloth, looking back over her shoulder. Her cheeks are warm. She fidgets with the edge of the cloth.
+LILIA (soft): “I… I wanted to bring you here. It’s quieter than the other hollows. I left the lights so we could find it. I hope… I hope you don’t mind. I just… wanted to talk somewhere the paths wouldn’t interrupt.”
+HERO: “I don’t mind. It’s nice here.”
+LILIA (blushing): “I… I’ve been thinking about you. More than I should, maybe. I get nervous when I try to say it. I hope you like me. Even a little. I want to know you better, but I don’t want to make it strange.”
+HERO: “You’re not making it strange. I like being here with you.”
+LILIA (soft): “You do? I… I was worried I was reading it wrong. You don’t have to stay if it’s too much. I just… wanted to tell you.”
+HERO: “You don’t have to rush.”
+LILIA (blushing): “Then… come closer. The cloth is warmer than the stone. I’ve been waiting, but I didn’t know how to ask. And I talk too fast when I’m nervous.”
+HERO: “I’m not going anywhere. Take your time.”
+Scene: Lilia intimacy scene 3.
+Action: She settles on the cloth, looking back toward the Hero with a shy, flustered smile. Glowing mushrooms and crystals surround her.
+Unlock: Memory saved — Lilia Intimate.
+No further unlock. Each scene ends independently.
