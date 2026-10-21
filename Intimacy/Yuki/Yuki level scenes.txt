@@ -1,0 +1,36 @@
+﻿Yuki Intimacy Scenes
+These trigger separately at bond levels 5, 10, and 15. Each scene is independent. Dialogue builds through town street scenes and shows the bond strengthening, then switches to the intimacy image at the end. The final image of each scene is permanently saved as a memory even after reincarnation. Yuki is present. No other companions speak.
+Scene 1 — Date (Level 5)
+Scene: Town street (night).
+Action: Evening. The Hero walks the lantern-lit street with Yuki. She holds a skewer in one hand, already halfway through it, tail flicking as she talks. The market stalls are closing behind them.
+YUKI (smiling): “These are better than the ones near the Guild. The sauce sticks. Most people only grab one and leave. I always get two. The next stall has the sweet ones.”
+HERO: “You always eat while you walk?”
+YUKI (soft): “When the food’s still warm. The street gets quieter once the stalls close. Stay close.
+HERO: “Show me which ones you like.”
+YUKI (smiling): “Don’t fall behind. The sweet ones sell out fast.”
+Scene: Yuki intimacy scene 1.
+Action: She looks over at the Hero, skewer still in hand. The lanterns and street stand behind her.
+Unlock: Memory saved — Yuki Date.
+Scene 2 — Romantic Outing (Level 10)
+Scene: Town street (night).
+Action: Evening. Yuki walks beside the Hero on the lantern-lit street. She has one finger near her cheek, talking easily. Her tail flicks as she glances over. The stalls glow behind them.
+YUKI (smiling): “You keep up better than most people. I was going to stop for the grilled buns, but you looked like you wanted to keep walking. I talk too much when I’m hungry. You’re not bored yet, right?”
+HERO: “Not yet. What else is open?”
+YUKI (soft): “The place with the honey cakes. They stay warm longer. You’re welcome to stay. I like company when I eat.”
+HERO: “Lead the way.”
+YUKI (smiling): “I want to see if you actually finish one.”
+Scene: Yuki intimacy scene 2.
+Action: She looks over at the Hero, one finger near her cheek. The lanterns and street stand behind her.
+Unlock: Memory saved — Yuki Outing.
+Scene 3 — Intimate (Level 15)
+Scene: Town street (night).
+Action: Full night. Yuki leads the Hero into a quiet room off the street. Lantern light glows inside. She settles on the futon, looking back over her shoulder, tail curled. She grins.
+YUKI (smiling): “I’ve been talking your ear off all night and you still came. I like that. I like you. The futon’s warmer than the road. I’ve been waiting to see if you’d stay once the food was gone.”
+HERO: “You say you like me. How do I know it’s not just the talking?”
+YUKI (soft): “Because I saved the last piece of the honey cake. And I don’t usually do that. Come here. I’ll show you. Unless you’re scared I’ll actually mean it.”
+HERO: “Yuki…”
+YUKI (determined): “Don’t get shy now. Get closer. I want to prove it. And I want to see if you blush as easily as you eat.”
+Scene: Yuki intimacy scene 3.
+Action: She settles on the futon, looking back toward the Hero. Lantern light glows in the room.
+Unlock: Memory saved — Yuki Intimate.
+No further unlock. Each scene ends independently.
