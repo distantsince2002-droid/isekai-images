@@ -1,0 +1,36 @@
+﻿Isolde Intimacy Scenes
+These trigger separately at bond levels 5, 10, and 15. Each scene is independent. Dialogue builds through forest scenes and shows the bond strengthening, then switches to the intimacy image at the end. The final image of each scene is permanently saved as a memory even after reincarnation. Isolde is present. No other companions speak.
+Scene 1 — Date (Level 5)
+Scene: Forest (dusk).
+Action: Dusk. The Hero finds Isolde near a quiet path under the trees. She stands with a bundle of herbs in her hands, watching the light fade through the canopy. The forest is quiet around her.
+ISOLDE (neutral): “You’re early. I was checking the banks for anything the last party left behind. The scavenger hunt is finished, but the ground still needs watching.”
+HERO: “You still going out after that?”
+ISOLDE (smiling): “Someone has to put back what can be put back. You helped me find the four things. I haven’t forgotten. The herbs grow again if the roots stay. You can walk with me a little further if you want. I was going to see if the stream is still clear past the bend.”
+HERO: “I’ll come. You don’t owe me for that.”
+ISOLDE (soft): “I know. Still. Stay close. The ground softens once the light leaves.”
+Scene: Isolde intimacy scene 1.
+Action: She turns toward the Hero, still holding the herbs. The trees and fading light stand behind her.
+Unlock: Memory saved — Isolde Date.
+Scene 2 — Romantic Outing (Level 10)
+Scene: Forest (base scenery).
+Action: Evening. The Hero reaches a clearing under the trees. Isolde stands with one hand raised. A small bird rests on her finger. Others move through the branches above. The light is soft through the canopy.
+ISOLDE (smiling): “You found the clearing. The birds have been quieter today. They usually chatter more when the light starts to go.”
+HERO: “What have they been saying?”
+ISOLDE (soft): “Mostly the usual. The owls are nesting higher than last season. The smaller ones keep warning each other about the open ground near the stream. They settle faster when someone stays still. You’re welcome to stay. The light holds longer here than on the main road.”
+HERO: “I’ll stay. They seem comfortable with you.”
+ISOLDE (neutral): “They know I don’t move much. Come closer. The branches are steadier than they look.”
+Scene: Isolde intimacy scene 2.
+Action: She looks toward the bird on her finger, the trees and evening light around her.
+Unlock: Memory saved — Isolde Outing.
+Scene 3 — Intimate (Level 15)
+Scene: Forest (night).
+Action: Full night. The Hero reaches a quiet spot under the trees. A small lantern glows near a fallen log. Isolde is already there, kneeling on the log, looking back over her shoulder. Moonlight filters through the canopy. The forest is still around her.
+ISOLDE (soft): “You made it. I was listening to the night birds. They quiet down once the moon clears the trees. It’s easier to hear them when no one else is moving.”
+HERO: “You left the lantern lit.”
+ISOLDE (smiling): “So you would know where I was. The nights feel warmer when you’re here. I don’t mind the quiet, but I like it better with you. After everything from the scavenger hunt, I can finally repay you. You don’t have to leave before morning if you don’t want to.”
+HERO: “I’d rather stay.”
+ISOLDE (soft): “Then come closer. The log is softer than the ground, and I’ve been waiting for you.”
+Scene: Isolde intimacy scene 3.
+Action: She settles on the log, looking back toward the Hero with a gentle smile. The lantern and moonlight show through the trees.
+Unlock: Memory saved — Isolde Intimate.
+No further unlock. Each scene ends independently.
