@@ -1,0 +1,37 @@
+﻿Miko Intimacy Scenes
+These trigger separately at bond levels 5, 10, and 15. Each scene is independent. Dialogue builds through town and stall scenes and shows the bond strengthening, then switches to the intimacy image at the end. The final image of each scene is permanently saved as a memory even after reincarnation. Miko is present. No other companions speak.
+Scene 1 — Date (Level 5)
+Scene: Charm store event exterior.
+Action: Evening. Lanterns hang outside the wooden stall. The Hero walks the street with Miko. She holds a blank paper charm between her fingers, tying a red cord as they go. The market noise fades behind them.
+MIKO (smiling): “The cord keeps the paper from folding wrong. Most people only buy the ones with writing. I still tie the blank ones. They hold better if the knot is tight.”
+HERO: “You sell the blank ones too?”
+MIKO (soft): “Sometimes. People leave them on bags when they don’t know what to write. You can walk with me if you want. The next stall has better paper.”
+HERO: “I’ll come. Show me how you tie them.”
+MIKO (smiling): “Stay close. The cord slips if you pull too hard.”
+Scene: Miko intimacy scene 1.
+Action: She looks up from the charm, still holding the cord. The lanterns and stall stand behind her.
+Unlock: Memory saved — Miko Date.
+Scene 2 — Romantic Outing (Level 10)
+Scene: Charm store event background.
+Action: Night. Miko sits at the wooden desk inside the stall, brush in hand, marking blank paper charms. The Hero stands nearby, watching. Lantern light glows over the desk. She glances up once, then back down.
+MIKO (smiling): “The ink holds longer if you let it dry between strokes. I mark the edges so people know which ones are still blank. Most of them never get finished.”
+HERO: “You write on all of them?”
+MIKO (soft): “Only the ones people ask for. The rest stay empty. You’re welcome to sit. The desk is warmer over here.”
+HERO: “I’ll sit. They look different once the ink dries.”
+MIKO (smiling): “Come closer. The light is better on this side.”
+Scene: Miko intimacy scene 2.
+Action: She looks down at the paper, brush still in hand. Lantern light glows over the desk.
+Unlock: Memory saved — Miko Outing.
+Scene 3 — Intimate (Level 15)
+Scene: Town street (night).
+Action: Full night. Miko leads the Hero down a quieter street past the closed stalls. She stops at a small room with an open door, lantern light spilling out. She steps inside, settles on the bed, and looks back. Her form is steady in the light. She holds the edge of her robe loosely.
+MIKO (soft): “You followed me this far. I kept thinking about the charms you helped name. Most people only buy them and leave. You stayed. I wanted to know if that meant something.”
+HERO: “It did. I liked being there with you.”
+MIKO (smiling): “Then stop standing in the doorway. The bed is warmer than the street. I’ve been waiting long enough. What are you waiting for… make me yours.”
+HERO: “Miko…”
+MIKO (soft): “Come closer. I’m not going to fade if you stay. I want you here.”
+HERO: “I’m not leaving.”
+Scene: Miko intimacy scene 3.
+Action: She settles on the bed, looking back toward the Hero. Lantern light glows in the room.
+Unlock: Memory saved — Miko Intimate.
+No further unlock. Each scene ends independently.
