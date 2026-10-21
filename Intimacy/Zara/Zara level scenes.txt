@@ -1,0 +1,37 @@
+﻿Zara Intimacy Scenes
+These trigger separately at bond levels 5, 10, and 15. Each scene is independent. Dialogue builds through night and town scenes and shows the bond strengthening, then switches to the intimacy image at the end. The final image of each scene is permanently saved as a memory even after reincarnation. Zara is present. No other companions speak.
+Scene 1 — Date (Level 5)
+Scene: Forest (night).
+Action: Night. The Hero walks a quiet path under the trees with Zara. Moonlight filters through the canopy. She keeps both hands loosely extended as they go, watching him. Her expression is soft.
+ZARA (smiling): “I wanted to walk with you tonight. Most people only come when they want something. I just wanted the company.”
+HERO: “You always walk at night?”
+ZARA (soft): “When I can. The moon doesn’t ask for anything. You can stay with me if you want.”
+HERO: “I like walking with you.”
+ZARA (smiling): “Then stay close. The ground is rough around here.”
+Scene: Zara intimacy scene 1.
+Action: She looks over at the Hero and extends both hands. The trees and moonlight stand behind her.
+Unlock: Memory saved — Zara Date.
+Scene 2 — Romantic Outing (Level 10)
+Scene: Forest (night).
+Action: Night. Zara stands near a low stone wall under the trees, looking up at the moon. The Hero stands nearby. She glances over once, calm.
+ZARA (smiling): “The moon is full. It doesn’t hide anything. I love to gaze at it.”
+HERO: “It’s bright tonight.”
+ZARA (soft): “It is. The wall is colder than it looks, but the light is better here.”
+HERO: “It’s nice like this.”
+ZARA (smiling): “Come closer. The moon looks different from this side.”
+HERO (internal): The moon is clear tonight. Bright enough to see the edges of the trees. She stands the same way. Still. Beautiful to look at. I keep the thought to myself.
+Scene: Zara intimacy scene 2.
+Action: She looks over at the Hero, moonlight on her face. The trees and moon stand behind her.
+Unlock: Memory saved — Zara Outing.
+Scene 3 — Intimate (Level 15)
+Scene: Town street (night).
+Action: Full night. Zara leads the Hero into a quiet room. Candlelight glows. She settles on the bed, one hand near her chin, looking back. She watches him, calm.
+ZARA (soft): “You came in. Most people stop at the door. I’m glad you didn’t. I’ve been thinking about what it means to have someone stay. I want you here. No price. No contract.”
+HERO: “I’m grateful you let me. I didn’t expect this.”
+ZARA (smiling): “I didn’t either. The bed is warm. I’m glad you’re here.”
+HERO: “So am I.”
+ZARA (determined): “Then stay. I’m not going to pretend I don’t want you.”
+Scene: Zara intimacy scene 3.
+Action: She settles on the bed, looking back toward the Hero. Candlelight glows in the room.
+Unlock: Memory saved — Zara Intimate.
+No further unlock. Each scene ends independently.
