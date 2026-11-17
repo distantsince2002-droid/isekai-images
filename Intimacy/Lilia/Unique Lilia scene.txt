@@ -1,0 +1,27 @@
+﻿Lilia Unique House Scene
+Unlocked only when Lilia is fully leveled (15) and the Celestial Lotus Palace is bought and equipped.
+This is a separate, one-time scene. It builds through the house exterior and interior, then switches to the unique image at the end. The final image is permanently saved as a memory even after reincarnation. Lilia is present. No other companions speak.
+Tone: Soft, nervous, and a little overwhelmed. She is thankful in a quiet, embarrassed way. She gets flustered easily when talking about her feelings, and the Hero has to speak more to steady her. The conversation turns more personal, remembering how they met and what they’ve shared.
+Exterior Approach
+Scene: Celestial lotus palace exterior.
+Action: Bright daylight. The Hero stands at the base of the white stairs leading up to the Celestial Lotus Palace. Pink lotus flowers bloom across the grounds, petals drifting in the air. Lilia stands a few steps ahead on the stairs, wings half-open, one hand lightly touching the railing. She looks back, eyes wide, cheeks already a little pink.
+LILIA (smiling): “Wow… what a nice house. The lotuses are still open. I didn’t expect the garden to feel this quiet.”
+HERO: “Would you like to live here with me?”
+LILIA (surprised): “Live… here? With you? I—I didn’t think you’d ask. Yes. I want that. I really do…”
+HERO: “Then let’s go inside.”
+LILIA (soft): “The stairs are smoother than they look.”
+Interior
+Scene: Celestial lotus palace interior.
+Action: Soft sunlight fills the high white and pink hall. Lotus patterns decorate the walls. Elegant chairs and sofas sit across the open floor. Lilia walks ahead of the Hero, wings folded, pausing once to glance at a vase of flowers. She stops near the center and turns, hands clasped in front of her. Her cheeks are still pink.
+LILIA (smiling): “I’ve kept thinking about the times we traveled together. You always stopped when I got worried about something small. Most people just kept walking. You stayed. That’s why I wanted somewhere we could keep doing that without having to leave.”
+HERO: “You talk more when you care about something. I wanted a place where you could keep doing that.”
+LILIA (soft): “Thank you for letting me stay. I still get nervous saying it out loud. I… I like when you’re near me.”
+Unique Scene
+Scene: Unique lilia intimate.
+Action: Soft light fills the bedroom. Lilia is already settled on the edge of the bed, wrapped loosely in white fabric, looking up at the Hero as he steps closer. Her pink hair spills over her shoulders, flower crown still in place. Her cheeks are deeply flushed. She holds the fabric near her chest with both hands, wings tucked close. She shifts a little, clearly self-conscious.
+LILIA (soft): “I… I wanted you to see me like this. I don’t know if it’s weird. I’ve never done anything like this before. I keep thinking about the first time I liked you and how nervous I was then too. I’m still nervous. Is this okay? Am I being strange?”
+HERO: “You’re not being strange. I like seeing you like this. You don’t have to be nervous. I want to be here with you.”
+LILIA (smiling): “Really? Then… come closer. I want to stay like this with you. Just for a little while. I hope you don’t mind.”
+HERO: “I don’t mind. Stay with me.”
+Unlock: Memory saved — Unique lilia intimate
+No further unlock. Scene ends independently.
