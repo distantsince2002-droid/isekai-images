@@ -1,0 +1,26 @@
+﻿Celeste Unique House Scene
+Unlocked only when Celeste is fully leveled (15) and the Eternal World Throne is bought and equipped.
+This is a separate, one-time scene. It builds through the house exterior and interior, then switches to the unique image at the end. The final image is permanently saved as a memory even after reincarnation. Celeste is present. No other companions speak.
+Tone: Grateful and a little unguarded. She speaks more freely about what the place means to her.
+Exterior Approach
+Scene: Eternal world throne exterior.
+Action: Bright daylight. The Hero stands at the base of the long white stairs leading up to the Eternal World Throne. Tall white towers rise against a clear sky. A swirling green-gold light hangs above the highest spire, casting soft rays across the clouds. Celeste stands a few steps ahead on the stairs, wings half-open, one hand resting lightly on the golden railing. She looks back with a soft smile.
+CELESTE (smiling): “I walked these stairs twice before you arrived. Once to make sure the doors still opened, and once just to stand at the top and listen. It’s quieter than I expected.” 
+CELESTE (smiling): “Most places I’ve stayed only felt still until the next road called. You bought this one so we wouldn’t have to keep answering it. Thank you.”
+HERO (internal): She looks smaller against the towers. I didn’t buy it for the height. I bought it so she would have somewhere the wind didn’t push her onward.
+CELESTE (soft): “Come up the rest of the way. The steps feel different when someone is walking them with me.”
+Interior
+Scene: Eternal world throne interior.
+Action: Soft sunlight fills the high white hall. Golden details catch the light along the columns and arches. The throne sits at the far end on a low platform, framed by a tall arched window. Celeste walks ahead of the Hero across the open floor, wings folded. She stops near the center, turns once to look at the high ceiling and the empty chairs, then back at him.
+CELESTE (smiling): “I kept expecting the hall to feel too large. It doesn’t. I walked through every room this morning. The library is smaller than it looks from the door. The chairs near the window face each other.”
+CELESTE (smiling): “I never thought I would have a place where I could leave something on a table and find it still there the next day. Most of the paths I’ve walked only kept what I could carry. You gave me somewhere I don’t have to carry everything. Thank you for that.”
+HERO: “I wanted you to have a door that stayed closed if you wanted it to.”
+CELESTE (soft): “I do. You’re welcome to stay as long as you want. I already decided I want you here. Come closer. The chairs are closer to the window than they look, and I’d rather sit with you than stand in the middle of the hall.”
+Unique Scene
+Scene: Unique celeste intimate.
+Action: Late afternoon light falls across the wide white bed. Celeste lies back against the pillows, wings spread loosely behind her, one arm resting above her head. The white fabric of her dress is loosely gathered. She looks toward the Hero, calm and open, the corner of her mouth slightly lifted. The room is quiet. Soft curtains move once at the window.
+CELESTE (soft): “I left the door open because I wanted you to find me. Not as something to be looked at from across a hall. Just me. I keep thinking about how quiet it is when you’re near me. How safe it feels. I love you. I didn’t know how much until the doors closed and you were still here.”
+HERO: “I bought it so you would have somewhere to come back to.”
+CELESTE (smiling): “I know. Come closer. The bed is warmer when you’re in it. Stay with me. I want to wake up and still see you.”
+Unlock: Memory saved — Unique celeste intimate
+No further unlock. Scene ends independently.
