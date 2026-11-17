@@ -1,0 +1,25 @@
+﻿Kira Unique House Scene
+Unlocked only when Kira is fully leveled (15) and the Knights Lodge is bought and equipped.
+This is a separate, one-time scene. It builds through the house exterior and interior, then switches to the unique image at the end. The final image is permanently saved as a memory even after reincarnation. Kira is present. No other companions speak.
+Tone: Playful and confident, but the first sight of the lodge hits harder than she expected. She has never been treated this kindly, and it shows. In the unique scene she is commanding, personal, and openly lustful.
+Exterior Approach
+Scene: Knights lodge exterior.
+Action: Late afternoon. The Hero stands on the dirt path leading to the Knights Lodge. The white-walled building with its wooden tower and red banners sits at the edge of a low cliff. Kira stands on the steps ahead, one hand on her hip, tail still. She stares at the building for a long moment, then looks back at the Hero. Her grin is unsteady. She blinks hard once.
+KIRA (smiling): “You… actually bought it. Most places I’ve stayed only lasted until someone decided I was done being useful. You put my name on this one. I didn’t think anyone would ever do that. I don’t know what else to say.”
+HERO: “I wanted somewhere you didn’t have to keep winning to stay.”
+KIRA (soft): “Yeah… come inside. I already checked the rooms. Don’t stand out there looking at me like that. I’m fine. Just… not used to it.”
+Interior
+Scene: Knights lodge interior.
+Action: Warm light fills the high wooden hall. Beams cross the ceiling. A long table sits in the center, a doorway leading to a bedroom. Kira walks ahead of the Hero, pausing once to glance at the upper railing, then stops near the table and turns. She rests one hand on the back of a chair and lets out a shaky breath. She rubs at one eye with the back of her wrist and laughs once, short and rough.
+KIRA (smiling): “I kept thinking about how many times I’ve slept in places that weren’t mine and had to leave before sunrise. This one doesn’t make me leave. That’s… different. Thanks for not treating it like another fight I had to win.”
+KIRA (soft): “I’m not used to someone just handing me a key. I almost cried when I saw the banners from the path. Don’t tell anyone.”
+HERO (internal): She’s trying so hard not to cry and still laughing about it. It’s cute. I didn’t expect her to look that soft over a set of banners.
+KIRA (soft): “Rooms are ready. You can sit if you want. Or you can keep standing there looking at me. Either way, I’m not letting you leave once the door closes.”
+Unique Scene
+Scene: Unique kira intimate.
+Action: Evening. Lantern light glows in the wooden bedroom. Kira is already sitting on the edge of the bed in an open white shirt, knees apart, looking toward the Hero as he steps into the doorway. Her gray hair is loose, tail resting on the sheets. The door behind him is still open. She grins, one fang showing, eyes bright and focused.
+KIRA (smiling): “Close the door. I’ve been thinking about this since I saw the banners. Most people only want me for a fight. You bought a place and put my name on it. Now I want you. Right here. Under me.”
+HERO: “Kira…”
+KIRA (determined): “You walked in. You’re mine tonight. Get over here. I want to feel you. I’ve waited long enough.”
+Unlock: Memory saved — Unique kira intimate
+No further unlock. Scene ends independently.
