@@ -1,0 +1,27 @@
+﻿Freya Unique House Scene
+Unlocked only when Freya is fully leveled (15) and the Noble Town Manor is bought and equipped.
+This is a separate, one-time scene. It builds through the house exterior and interior, then switches to the unique image at the end. The final image is permanently saved as a memory even after reincarnation. Freya is present. No other companions speak.
+Tone: Practical and warm, with a merchant’s habit of checking the details even while she’s clearly pleased. She speaks like someone who usually calculates value and is still adjusting to something that can’t be priced.
+Exterior Approach
+Scene: Noble town manor exterior.
+Action: Late afternoon. The Hero stands on the stone path leading to the Noble Town Manor. The timber-framed walls and dark wooden doors catch the light. Ivy climbs one side of the stonework. Freya stands on the steps just ahead, one hand on the doorframe, looking back with a small, slightly crooked smile.
+FREYA (smiling): “I read the deed three times. Then I walked the property line to make sure the garden wall was actually ours.” 
+FREYA (smiling): “Most people buy a house for the address. You put both our names on it and didn’t ask what I was willing to trade for the privilege. I’m still deciding how to thank you for that without turning it into a negotiation.”
+HERO: “You don’t have to negotiate it.”
+FREYA (soft): “I know. That’s the part I’m getting used to. The locks are solid. The garden needs work, but the walls will hold. Come inside. I already moved the chairs so we can both see the garden from the table.”
+Interior
+Scene: Noble town manor interior.
+Action: Warm sunlight falls across the open hall. Dark wooden beams cross the high ceiling. A long dining table sits on a red rug in the center, with open doorways leading to a bedroom and a small library. Freya walks ahead, pausing to straighten a chair, then stops near the table and turns.
+FREYA (smiling): “I went through every room this morning. The library shelves are half-empty, but they’ll fill. The bedroom faces the garden. I kept thinking about how many contracts I’ve signed that only lasted until the next season.”
+FREYA (smiling): “This one doesn’t have an end date. That’s new. Thank you for not treating it like a trade I had to win.”
+HERO: “It isn’t one.”
+FREYA (soft): “I know. The table’s set for two. I wasn’t sure if that was too forward, but it felt right once I did it. Sit if you want. Or stand. I’m not charging for either.”
+Unique Scene
+Scene: Unique freya intimate.
+Action: Late afternoon light falls across the wide bed. Freya is already settled against the pillows in a blue dress with gold detailing, one leg bent, hair spread across the sheets. She looks toward the Hero with a soft, open smile as he steps into the room. The room is quiet. Sunlight catches the wooden furniture.
+FREYA (soft): “I brought you up here because I wanted you to see the room properly. Not the one I use for meetings. This one. I’ve spent years making sure every deal had an exit.”
+FREYA (soft): “ You bought this place and didn’t leave one. I keep thinking about what that means for tomorrow. And the day after. I love you. I didn’t expect to say it out loud in a room we both own.”
+HERO: “The next contract you sign can wait until after breakfast.”
+FREYA (smiling): “That’s a better deal than most I’ve made. Come closer. I want to see if the morning light looks different when you’re the first thing I see.”
+Unlock: Memory saved — Unique freya intimate
+No further unlock. Scene ends independently.
