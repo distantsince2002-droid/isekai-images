@@ -1,0 +1,25 @@
+﻿Isolde Unique House Scene
+Unlocked only when Isolde is fully leveled (15) and the Royal Hunting Lodge is bought and equipped.
+This is a separate, one-time scene. It builds through the house exterior and interior, then switches to the unique image at the end. The final image is permanently saved as a memory even after reincarnation. Isolde is present. No other companions speak.
+Tone: Quiet, practical, and a little uncertain. She is thankful in the way someone who has spent years repairing damage is thankful when something is finally left alone.
+Exterior Approach
+Scene: Royal hunting lodge exterior.
+Action: Late afternoon. The Hero stands on the dirt path leading to the Royal Hunting Lodge. The timber-framed building sits among tall trees, stone base weathered, antlers mounted above the doors. Isolde stands on the steps ahead, one hand resting on the wooden railing, looking back. She glances once toward the tree line before speaking.
+ISOLDE (smiling): “I checked the roots under the foundation this morning. They’re holding. Most places I’ve stayed only lasted until the next party cut a new trail through them. You bought this one and left the undergrowth where it was. I didn’t expect that.”
+HERO: “I wanted the trees to stay.”
+ISOLDE (soft): “They will. The walls are solid. Come inside. The fire’s already lit. I stacked the wood earlier so it wouldn’t smoke.”
+Interior
+Scene: Royal hunting lodge interior.
+Action: Warm firelight fills the high wooden hall. Beams cross the ceiling. A long table sits in the center, antler mounts on the walls, a staircase leading to the upper level. Isolde walks ahead of the Hero, pausing once to glance at the fire, then stops near the table and turns. She rests one hand on the edge of it.
+ISOLDE (smiling): “I walked the upper floor this morning. The windows face the denser trees. The table is large enough for more than one person.”
+ISOLDE (smiling): “I kept thinking about how many nests I’ve restored only to watch them empty when the next group came through. This place is different. Thank you for not treating the land like something that needed clearing.”
+HERO (internal): She’s already thinking about the nests. About what stays. I didn’t buy the lodge so she would stop working. I bought it so the work wouldn’t have to start over every season.
+ISOLDE (soft): “Let’s stay here. The fire will hold. Sit if you want. The benches are sturdier than they look.”
+Unique Scene
+Scene: Unique isolde intimate.
+Action: Evening. Soft lantern light glows in the wooden room. Isolde is already settled on the bed under a gray blanket, propped on one elbow, looking toward the Hero as he steps closer. Her silver hair spills across the pillow. Antler mounts and dark wood paneling stand behind her. She holds the edge of the blanket loosely, fingers curled in the fabric.
+ISOLDE (soft): “The lower hall still smells like fire. I’ve spent years putting things back where they belong. You bought this place and left the forest standing. I keep thinking about how many seasons I will see after you’re gone. I want as many of them as I can have while you're still here.”
+HERO: “I want that too.”
+ISOLDE (smiling): “Then come under the blanket. Let’s remember tonight. I want to wake up and still hear the birds from this side of the bed, whilst embraced in your warmth.”
+Unlock: Memory saved — Unique isolde intimate
+No further unlock. Scene ends independently.
