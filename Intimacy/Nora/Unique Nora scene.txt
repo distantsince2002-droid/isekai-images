@@ -1,0 +1,26 @@
+﻿Nora Unique House Scene
+Unlocked only when Nora is fully leveled (15) and the Merchants Town House is bought and equipped.
+This is a separate, one-time scene. It builds through the house exterior and interior, then switches to the unique image at the end. The final image is permanently saved as a memory even after reincarnation. Nora is present. No other companions speak.
+Tone: Confident and direct at first, then increasingly clingy and flustered. She speaks her mind, but around the Hero she softens into something warmer and more needy. In the unique scene she tries to stay in control and fails, getting heated and embarrassed because she wants to be the one being told what to do.
+Exterior Approach
+Scene: Merchants town house exterior.
+Action: Late afternoon. The Hero stands on the cobblestone street in front of the Merchants Town House. The half-timbered building sits snug between its neighbors, smoke rising from the chimney. Nora steps up beside him, apron still tied from the inn, and looks the place over with a small, pleased smile.
+NORA (smiling): “It’s quieter than the inn. You really bought the whole thing? I’ve served plenty of people who talked about houses. Most of them never actually stopped moving long enough to live in one.”
+HERO: “I have wanted somewhere permanent like this for awhile… do you like it?”
+NORA (soft): “Show me inside. I want to see if the kitchen’s actually big enough for two people who know what they’re doing.”
+Interior
+Scene: Merchants town house interior.
+Action: Warm light fills the open room. Bookshelves line the walls, a long table sits under the beams, and the fireplace is already lit. A bed with white linens is visible near the windows. Nora walks ahead of the Hero, running a hand along the back of a chair, then turns to face him.
+NORA (smiling): “Books everywhere. Fire already going. Bed made. You’ve been here longer than I thought. I’ve spent years listening to adventurers tell stories at the counter. You always stayed until the end.”
+HERO: “I liked being with you more than listening to their stories.”
+NORA (soft): “You say that now. Prove it. I want to see if you still mean it when there’s no counter between us.”
+Unique Scene
+Scene: Unique nora intimate.
+Action: Evening. Firelight glows across the room. Nora is already on the wooden table near the hearth, white shirt open, brown skirt pushed up, one hand resting on her thigh. She looks toward the Hero as he steps closer, cheeks flushed, trying to hold a confident expression and failing.
+NORA (soft): “You… picked me up. Just like that. I’ve been thinking about this since the street. I want you to take me. Like one of those stories. Like I’m yours.”
+HERO: “You are. I’ve wanted to show you how much for a long time.”
+NORA (embarrassed): “Then show me. Don’t make me wait. I’m already hot just thinking about it. Please…”
+She shifts on the counter, one hand braced behind her, the other resting on her thigh, looking up at him with open want.
+NORA (soft): “Stay right there. I like it when you look at me like that. I like it more when you don’t let me look away.”
+Unlock: Memory saved — Unique nora intimate
+No further unlock. Scene ends independently.
