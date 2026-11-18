@@ -1,0 +1,27 @@
+﻿Miko Unique House Scene
+Unlocked only when Miko is fully leveled (15) and the Floating Sky Manor is bought and equipped.
+This is a separate, one-time scene. It builds through the house exterior and interior, then switches to the unique image at the end. The final image is permanently saved as a memory even after reincarnation. Miko is present. No other companions speak.
+Tone: Warm, soft, and a little uncertain. She is thankful and loving in a quiet way. Everything is new to her. She is venturing into the place for the first time and does not demand or lead strongly. Her speech is gentle and a bit dreamlike.
+Exterior Approach
+Scene: Floating sky manor exterior.
+Action: Bright daylight. The Hero stands on the stone path leading to the Floating Sky Manor. The white manor rests on a floating island among the clouds, tall windows catching the light. Miko stands a few steps behind him, one hand resting lightly near her chest, looking at the building. Her form is fully solid. She speaks softly, as if still listening to the wind.
+MIKO (smiling): “It looks still. I haven’t stood on an island that didn’t move before. This one feels different. Thank you for bringing me here.”
+HERO: “I liked how quiet it was from the air.”
+MIKO (soft): “It feels warmer with you standing here. I’d like to see the rooms if you want to show me. The air is quieter than I expected.”
+Interior
+Scene: Floating sky manor interior.
+Action: Soft sunlight fills the high white hall. Tall columns and arched windows let the light through. The open floor is quiet. Miko walks a half-step behind the Hero, pausing once to glance at a potted plant as if listening to it, then stops near the center and turns. Her steps are light.
+MIKO (smiling): “The columns go higher than I thought they would. The arches frame the sky differently from every side. I kept looking at how the light falls across the floor. It feels strange to stand in a room this open.”
+HERO: “Does it feel too open?”
+MIKO (soft): “It doesn’t feel too open when you’re here. Can I stay here with you? I will make it up to you…”
+HERO: “What are you offering?”
+Unique Scene
+Scene: Unique miko intimate.
+Action: Soft light fills the bedroom. Miko is already settled on the bed, looking back over her shoulder toward the Hero as he steps closer. Her white hair spills across the sheets, red hairpin still in place. She holds the edge of the fabric loosely. The floating islands are visible through the windows behind her. She looks a little uncertain, but warm.
+MIKO (soft): “I think I know a way to entice you. If I stay like this… will it be enough to keep me here with you?”
+HERO: “Miko… you don’t have to do anything. I didn’t expect—”
+MIKO (smiling): “I know. But I want to show you what I mean. The bed is warmer when you’re near. Stay with me. I want to see if the islands still drift the same way in the morning when you’re the one next to me.”
+HERO: “You’re… really doing this.”
+MIKO (soft): “Please. I’ve already decided I want to stay. Let me.”
+Unlock: Memory saved — Unique miko intimate
+No further unlock. Scene ends independently.
