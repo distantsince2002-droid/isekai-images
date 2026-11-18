@@ -1,0 +1,30 @@
+﻿Nia Unique House Scene
+Unlocked only when Nia is fully leveled (15) and the Lakeside Villa is bought and equipped.
+This is a separate, one-time scene. It builds through the house exterior and interior, then switches to the unique image at the end. The final image is permanently saved as a memory even after reincarnation. Nia is present. No other companions speak.
+Tone: Dominant, cheeky, and hungry. She is seeing the villa for the first time. The Hero is showing her around. She treats the place like a ship she’s already decided to claim, and the Hero like the prize that comes with it.
+Exterior Approach
+Scene: Lakeside villa exterior.
+Action: Late afternoon. The Hero stands on the wooden dock in front of the Lakeside Villa. The water is calm, reflecting the trees and the stone-and-timber house. Nia steps onto the dock behind him, tail flicking, ears forward. She looks at the house, then at him, with a sharp grin.
+NIA (smiling): “Nice place. Am I the first to get a tour? I could swim the whole shoreline without fighting a current. You planning to keep it this quiet, or are you waiting for someone to rock it?”
+HERO: “You’re the first. I thought you’d like the water. Want me to show you the rest?”
+NIA (soft): “Lead the way. I’m not standing on a dock when there’s a house with a view.”
+Interior
+Scene: Lakeside villa interior.
+Action: Warm light fills the open hall. Heavy wooden beams cross the ceiling. A long table sits under the windows, and the double doors stand open onto the balcony overlooking the lake. Nia follows the Hero inside, pausing once to glance out at the water, then stops near the table. Her tail curls once.
+NIA (smiling): “I can see every way in and out from the table. Feels like a captain’s deck that doesn’t need a crew. You’re walking me through it and I’m already picking where I want you when the sun drops.”
+HERO (internal): She’s already treating the room like a ship she owns.
+NIA (determined): “Keep showing me around if you want. If you excite me anymore you will need to run before I catch you.”
+Unique Scene
+Scene: Unique nia intimate.
+Action: Evening. Firelight glows in the bedroom. The lake and distant mountains are visible through the window. Nia is already on the bed, crouched low, both hands planted forward, claws out, grinning wide with fangs showing. Her tail is raised. She looks straight at the Hero as he steps into the doorway.
+NIA (smiling): “Caught you.”
+She moves fast, pouncing forward and pinning the Hero down against the bed, hands on either side of him, claws lightly digging into the sheets. She leans in close, breath warm, eyes locked on his.
+NIA (determined): “Stay still. I’ve already decided. You’re mine tonight. Look at me.”
+HERO: “Nia—”
+NIA (soft): “Quiet. I’ve been waiting since the dock. Don’t move. I like it when you get nervous.”
+She presses closer, tail curling tight around his leg, grin never fading. One claw traces lightly along his collarbone.
+NIA (smiling): “That’s better. Stay right there. I’m not done with you yet.”
+HERO: “You’re… really close.”
+NIA (determined): “Good. Keep looking at me. I’m not letting you leave.”
+Unlock: Memory saved — Unique nia intimate
+No further unlock. Scene ends independently.
