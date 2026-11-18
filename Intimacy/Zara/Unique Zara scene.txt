@@ -1,0 +1,26 @@
+﻿Zara Unique House Scene
+Unlocked only when Zara is fully leveled (15) and the Moon Shadow Palace is bought and equipped.
+This is a separate, one-time scene. It builds through the house exterior and interior, then switches to the unique image at the end. The final image is permanently saved as a memory even after reincarnation. Zara is present. No other companions speak.
+Tone: Confident, open, and quietly devoted. She teases because she likes the way he reacts, but underneath it she is still surprised anyone wants her to stay. The Hero plays it off, which only makes her push a little further.
+Exterior Approach
+Scene: Moon shadow palace exterior.
+Action: Night. The Hero stands at the base of the wide white stairs leading up to the Moon Shadow Palace. Crescent motifs crown the towers. A full moon hangs low over the rooftops. Zara steps up beside him, long white hair catching the light, and looks at the building with a small, crooked smile.
+ZARA (smiling): “It’s bigger than I expected. Most places that look this clean don’t want a dark elf standing on the steps. You brought me here anyway. I’m still deciding if that’s brave or stupid.”
+HERO: “I thought you’d like the view. Want to see if the inside matches?”
+ZARA (soft): “Lead. I’ll tell you when I stop liking it.”
+Interior
+Scene: Moon shadow palace interior.
+Action: Soft moonlight and lantern light fill the grand hall. A red carpet runs down the center between blue walls and open balconies. Zara walks a half-step behind the Hero, glancing up at the high ceiling once, then stops near the middle of the carpet and turns. Her expression is calm, but her eyes stay on him.
+ZARA (smiling): “No one watching the doors. I’ve spent years in rooms where people looked at me like I was already halfway out.I’m not used to it.”
+HERO: “You do belong here.”
+ZARA (soft): “You say that too easily. Keep going if you want. I’ll still be here when you stop.”
+Unique Scene
+Scene: Unique zara intimate.
+Action: Night. Moonlight spills across the open balcony. The full moon hangs above the distant spires. Zara stands near the railing, topless, both hands covering her chest. Long white hair falls over her shoulders. She looks at the Hero as he steps out onto the balcony, red eyes steady, a small smile on her face.
+ZARA (smiling): “How do I look? I’ve spent my whole life being looked at like I didn’t belong. You looked at me like I did. I don’t want that to stop. So I thought I’d give you something else to look at.”
+HERO: “Zara…”
+ZARA (soft): “Don’t play it off. You’ve been doing that all night. I like it when you try. But I want more than teasing. I want to stay. And I want you to stay with me.I’m not covering myself for anyone else.”
+She shifts her weight, hands still in place, eyes never leaving his.
+ZARA (determined): “I’ve already decided I want you here. The rest is up to you.”
+Unlock: Memory saved — Unique zara intimate
+No further unlock. Scene ends independently.
